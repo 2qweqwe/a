@@ -1,1 +1,449 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-id="N1RS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="RS",N1 RS
+https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
+
+#EXTINF:-1  tvg-id="N1BIH" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="BA",N1 BIH
+https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
+
+#EXTINF:-1  tvg-id="N1HR" tvg-logo="http://epg.netsolutionpro.com/logo-tv/104.hr.png" group-title="HR",N1 HR
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&playe
+
+#EXTINF:-1 group-title="HR",NOVA TV
+http://wanicelife.com:8880/6mc250009/28887461/46233
+#EXTINF:-1 group-title="HR",Nova World
+http://wanicelife.com:8880/6mc250009/28887461/60942
+#EXTINF:-1 group-title="HR",HR034:CINEMAX
+http://wanicelife.com:8880/6mc250009/28887461/49992
+#EXTINF:-1 group-title="HR",CINEMAX 2
+http://wanicelife.com:8880/6mc250009/28887461/49991
+
+#EXTINF:-1 group-title="RS",PINK FILM
+http://wanicelife.com:8880/6mc250009/28887461/49100
+#EXTINF:-1 group-title="RS",VIASAT HISTORY
+http://wanicelife.com:8880/6mc250009/28887461/49094
+#EXTINF:-1 group-title="RS",YU001:24 Kitchen
+http://wanicelife.com:8880/6mc250009/28887461/49325
+#EXTINF:-1 group-title="RS",YU003:Animal Planet HD
+http://wanicelife.com:8880/6mc250009/28887461/49323
+#EXTINF:-1 group-title="RS",YU062:HBO 1 HD
+http://wanicelife.com:8880/6mc250009/28887461/49264
+#EXTINF:-1 group-title="RS",YU063:HBO 2 HD
+http://wanicelife.com:8880/6mc250009/28887461/49263
+#EXTINF:-1 group-title="RS",YU064:HBO 3 HD
+#EXTINF:-1 group-title="RS",YU131:Pink Serije
+http://wanicelife.com:8880/6mc250009/28887461/49195
+
+#EXTINF:-1  tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png",group-title="BA", Al Jazeera Balkans
+https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
+
+
+#EXTINF:-1 group-title="SK" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/b5ba51463ad294ca543d57561df6f496.png",TV Markiza
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/301477
+
+#EXTINF:-1 tvg-country="SK" tvg-id="MarkizaKlasik.sk" tvg-logo="https://sledovanietv.sk/cache/logos256/markiza_klasik.png" group-title="SK",Markiza Klasik (1080p)
+https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="MarkizaKlasik.sk" tvg-logo="https://sledovanietv.sk/cache/logos256/markiza_klasik.png" group-title="SK",DAJTO
+http://wanicelife.com:8880/6mc250009/28887461/30965
+
+#EXTINF:-1 tvg-country="SK" tvg-id="MarkizaKrimi.sk" tvg-logo="https://i.imgur.com/5KnajhP.png" group-title="SK",Markiza Krimi (1080p)
+https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
+
+
+
+#EXTINF:-1 Tvg-country="SK" tvg-name="TA3" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" group-title="SK",TA3
+https://sktv.plainrock127.xyz/get.php?x=TA3
+
+#EXTINF:-1 tvg-id="JOJ24.sk" tvg-logo="https://i.imgur.com/Tv12wOd.png" group-title="SK",JOJ24 (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
+
+#EXTINF:-1 tvg-id="JOJCinema.sk" tvg-logo="https://i.imgur.com/5Auduch.png" group-title="SK",JOJ Cinema (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cinema-720.m3u8
+
+#EXTINF:-1 tvg-id="JOJFamily.sk" tvg-logo="https://i.imgur.com/k1COMHi.png" group-title="SK",JOJ Family (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/family-720.m3u8
+
+#EXTINF:-1 tvg-id="JOJPlus.sk" tvg-logo="https://i.imgur.com/1LHa0EI.png" group-title="SK",JOJ Plus (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/plus-720.m3u8
+
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+#EXTINF:-1 tvg-id="JOJSport.sk" tvg-logo="https://i.imgur.com/KirqaU4.png" group-title="SK",JOJ Šport (1080p)
+https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
+
+#EXTINF:-1 tvg-id="JOJWAU.sk" tvg-logo="https://i.imgur.com/j51uAjL.png" group-title="SK",JOJ WAU (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8
+
+#EXTINF:-1 tvg-id="Jojko.sk" tvg-logo="https://i.imgur.com/JBB1n1Z.png" group-title="SK",Jojko (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/jojko-720.m3u8
+
+
+#EXTINF:-1 tvg-name=":Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Jednotka.sk" group-title="SK",:Jednotka
+https://sktv.plainrock127.xyz/get.php?x=STV1
+
+#EXTINF:-1 tvg-name=":Dvojka" tvg-logo="https://i.imgur.com/Ksi25UD.png" tvg-id="Dvojka.sk" group-title="SK",:Dvojka
+https://sktv.plainrock127.xyz/get.php?x=STV2
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cXzdnhJ.jpeg" group-title="SK",JOJ S VAMI (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj-720.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="BTV.sk" tvg-logo="https://i.imgur.com/5CZ6HHn.png" group-title="SK",BTV (480p)
+https://fs3.kabelko.sk/9011/index.m3u8?token=btv
+
+#EXTINF:-1 tvg-country="SK" tvg-id="MTR.sk" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="SK",MTR (1080p)
+https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="Senzi.sk" tvg-logo="https://i.imgur.com/1qJMmBu.png" group-title="SK",Senzi (720p)
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="TeleviziaMocenok.sk" tvg-logo="https://i.imgur.com/psb8GxZ.png" group-title="SK",Televízia Močenok (720p)
+https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-country="SK" tvg-id="TVCentral.sk" tvg-logo="https://i.imgur.com/LqGT8o9.png" group-title="SK",TV Central (540p)
+https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="TVDK.sk" tvg-logo="https://i.imgur.com/qTOnPXe.png" group-title="SK",TV DK (486p) [Not 24/7]
+http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="TVLiptov.sk" tvg-logo="https://i.imgur.com/CkvB3af.png" group-title="SK",TV Liptov (1080p)
+http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="TVLocAll.sk" tvg-logo="https://i.imgur.com/xN1CJol.png" group-title="SK",TV LocAll (406p)
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="NZTV.sk" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="SK",TV Nové Zámky (486p)
+http://s1.media-planet.sk/live/novezamky/lihattv.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="TVRuzinov.sk" tvg-logo="https://i.imgur.com/bUGuntH.png" group-title="SK",TV Ružinov (1080p) [Not 24/7]
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="TVT.sk" tvg-logo="https://i.imgur.com/QG0iZlG.png" group-title="SK",TVT (486p)
+https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="VIOTV.sk" tvg-logo="https://i.imgur.com/7EL3VZ5.png" group-title="SK",VIO TV (480p)
+http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d1fa6297b43fef8c81ecbb0d5377a5a8.png",NAT GEO Wild
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/23311
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/77ee6442ba057769768386b5a659f7aa.png",The Fishing & Hunting Channel
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/295043
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/bfd1139969933bb5c29dffaa896b73fd.png",Viasat Nature
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/46727
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/55ef0c7c1dfe1cf49fee70e059c3a92d.png",Discovery World
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/290373
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c14f4f5f4d0fd64760c50badcba47606.png",History
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/146940
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b23401197bd1cff14eb3665427af8e52.png",NAT GEO
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/21116
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/142ccfa0f4afb8bd1dd7dd35d662ccec.png",Viasat Explore
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/83403
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6eb7ee24566669eab586da3722fb59de.png",Viasat History
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/46725
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/1bd819089f58ba6607df22d614acc2c7.png",Prima
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/21100
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/d3d7c8ce4d5e60491c2cc7ea4a2ddefe.png",Prima Comedy Central
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/83395
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ba7d88c1ed894cbc039801615f3797e3.png",Prima Cool
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/21101
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/a8703496c6c2378389ace53ab40b9c28.png",Prima Krimi
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/83414
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/fe02f998b7726cba378a69e39962fe82.png",Prima Love
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/23339
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d9815cb4d6344a91eedf2142b32e2d95.png",Prima Max
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/21102
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0468b0e78f07cae66f16bf3f538ef846.png",Prima Plus
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/146952
+
+#EXTINF:-1 group-title="CZ" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6edd0361c204cc2f9c190c87c49ab6a9.png",Prima Zoom
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/83397
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE" tvg-logo="" group-title="FOR ADULTS",XXX: PENTHOUSE
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115643
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE GOLD" tvg-logo="" group-title="FOR ADULTS",XXX: PENTHOUSE GOLD
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115644
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE QUICKIES" tvg-logo="" group-title="FOR ADULTS",XXX: PENTHOUSE QUICKIES
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115645
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL" tvg-logo="" group-title="FOR ADULTS",XXX: DORCEL
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115646
+#EXTINF:-1 tvg-id="" tvg-name="XXX: DORCEL XXX" tvg-logo="" group-title="FOR ADULTS",XXX: DORCEL XXX
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115647
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER" tvg-logo="" group-title="FOR ADULTS",XXX: HUSTLER
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115648
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER TV" tvg-logo="" group-title="FOR ADULTS",XXX: HUSTLER TV
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115649
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XXL" tvg-logo="" group-title="FOR ADULTS",XXX: XXL
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115650
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSIE XXX" tvg-logo="" group-title="FOR ADULTS",XXX: PASSIE XXX
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115651
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSION XXX" tvg-logo="" group-title="FOR ADULTS",XXX: PASSION XXX
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115652
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LESBIAN AFFAIR" tvg-logo="" group-title="FOR ADULTS",XXX: LESBIAN AFFAIR
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115653
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT" tvg-logo="" group-title="FOR ADULTS",XXX: SEXY HOT
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115654
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS" tvg-logo="" group-title="FOR ADULTS",XXX: VENUS
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115655
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT" tvg-logo="" group-title="FOR ADULTS",XXX: HOT
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115656
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXTREME" tvg-logo="" group-title="FOR ADULTS",XXX: SEXTREME
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115657
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BRAZZERS" tvg-logo="" group-title="FOR ADULTS",XXX: BRAZZERS
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115658
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PURE BABES TV" tvg-logo="" group-title="FOR ADULTS",XXX: PURE BABES TV
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115659
+#EXTINF:-1 tvg-id="" tvg-name="XXX: LEO TV GOLD" tvg-logo="" group-title="FOR ADULTS",XXX: LEO TV GOLD
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115660
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY TV" tvg-logo="" group-title="FOR ADULTS",XXX: PLAYBOY TV
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115662
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EROX XXX" tvg-logo="" group-title="FOR ADULTS",XXX: EROX XXX
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115666
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SUPER ONE" tvg-logo="" group-title="FOR ADULTS",XXX: SUPER ONE
+http://rafadnsvip.live:8080/Nunosilva62/LGmfKeNqq2020/115667
+#EXTINF:-1 group-title="FOR ADULTS",VIP: PUPLIC AGENT
+http://lunar.pm:8080/8GRpcVvKAFVt/pQK5dLQnqAAb/122938
+#EXTINF:-1 group-title="FOR ADULTS",Redlight HD
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170301
+#EXTINF:-1 group-title="FOR ADULTS",EroX HD
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170307
+#EXTINF:-1 group-title="FOR ADULTS",EroX XxX HD
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170308
+#EXTINF:-1 group-title="FOR ADULTS",Russian Night HD
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170349
+#EXTINF:-1 group-title="FOR ADULTS",Barely Legal TV
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170350
+#EXTINF:-1 group-title="FOR ADULTS",O la la TV
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170351
+#EXTINF:-1 group-title="FOR ADULTS",French Lover TV
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170352
+#EXTINF:-1 group-title="FOR ADULTS",NuArt TV
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170353
+#EXTINF:-1 group-title="FOR ADULTS",Exxxotica TV HD
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170354
+#EXTINF:-1 group-title="FOR ADULTS",Secret Circle TV
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170355
+#EXTINF:-1 group-title="FOR ADULTS",Capable Hole HD
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170356
+#EXTINF:-1 group-title="FOR ADULTS",Beate-Uhse.TV
+http://bocian.io:8880/lacha76/ODEzNzU1NzQ0/170357
+
+
+#EXTINF:-1 group-title="Radio" ,Radio Petrovec 
+http://217.17.97.1:18180
+
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioj10.jpg",Radio Janko Hrasko (Folklor) 
+http://78.24.9.110:31088/;stream/1
+
+
+
+#EXTINF:-1 group-title="HR",HRT 1 HD
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+#EXTINF:-1 group-title="HR",HRT 2 HD
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+#EXTINF:-1 group-title="HR",HRT 3 HD
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+#EXTINF:-1 group-title="HR",HRT 4 HD
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+
+
+#EXTINF:-1 group-title="RS",INSAJDER
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/41859.ts
+
+#EXTINF:-1 group-title="Movie",CINEMAX TV
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/18048.ts
+#EXTINF:-1 group-title="Movie",CINEMAX 1
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/158.ts
+#EXTINF:-1 group-title="Movie",CINEMAX 2 
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/159.ts
+#EXTINF:-1 group-title="Movie",CINESTAR TV 1 HD
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/161.ts
+#EXTINF:-1 group-title="Movie",CINESTAR TV 2 HD
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/165.ts
+#EXTINF:-1 group-title="Movie",CINESTAR FANTASY
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/166.ts
+#EXTINF:-1 group-title="Movie",CINESTAR ACTION
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/167.ts
+#EXTINF:-1 group-title="Movie",CINESTAR COMEDY
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/168.ts
+#EXTINF:-1 group-title="Movie",CINESTAR TV PREMIERE 1 HD
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/41003.ts
+#EXTINF:-1 group-title="Movie",CINESTAR TV PREMIERE 2 HD
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/41004.ts
+#EXTINF:-1 group-title="Movie",CINEMANIA
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/174.ts
+
+#EXTINF:-1 group-title="Documentaries",24 KITCHEN
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/193.ts
+#EXTINF:-1 group-title="Documentaries",24 KITCHEN L2
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/16424.ts
+#EXTINF:-1 group-title="Documentaries",BEE TV- PCELA TV
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/18230.ts
+#EXTINF:-1 group-title="Documentaries",ANIMAL PLANET HD
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/192.ts
+#EXTINF:-1 group-title="Documentaries",DOKU BOX
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/6453.ts
+#EXTINF:-1 group-title="Documentaries",DOKU TV HD
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/6454.ts
+#EXTINF:-1 group-title="Documentaries",DISCOVERY CHANNEL
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/195.ts
+#EXTINF:-1 group-title="Documentaries",DISCOVERY SCIENCE
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/197.ts
+#EXTINF:-1 group-title="Documentaries",DISCOVERY TURBO EXTRA
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/216.ts
+#EXTINF:-1 group-title="Documentaries",HOBBY LOV
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/17973.ts
+#EXTINF:-1 group-title="Documentaries",ID DISCOVERY
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/196.ts
+#EXTINF:-1 group-title="Documentaries",NATIONAL GEOGRAPHIC  HD
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/198.ts
+#EXTINF:-1 group-title="Documentaries",NATIONAL GEOGRAPHIC WILD HD
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/199.ts
+#EXTINF:-1 group-title="Documentaries",CRIME INVESTIGATION
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/200.ts
+#EXTINF:-1 group-title="Documentaries",HGTV 
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/75462.ts
+#EXTINF:-1 group-title="Documentaries",HISTORY CHANNEL
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/201.ts
+#EXTINF:-1 group-title="Documentaries",HISTORY CHANNEL L2
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/202.ts
+#EXTINF:-1 group-title="Documentaries",HISTORY CHANNEL 2 HD 
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/203.ts
+#EXTINF:-1 group-title="Documentaries",CBS REALITY
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/204.ts
+#EXTINF:-1 group-title="Documentaries",LOV I RIBOLOV
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/205.ts
+#EXTINF:-1 group-title="Documentaries",FISHING TV
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/206.ts
+#EXTINF:-1 group-title="Documentaries",VIASAT EXPLORER
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/207.ts
+#EXTINF:-1 group-title="Documentaries",VIASAT HISTORY
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/208.ts
+#EXTINF:-1 group-title="Documentaries",VIASAT NATURE
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/209.ts
+#EXTINF:-1 group-title="Documentaries",E! ENTERTAINMENT
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/210.ts
+#EXTINF:-1 group-title="Documentaries",BBC EARTH
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/211.ts
+#EXTINF:-1 group-title="Documentaries",DA VINCI LEARNING
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/212.ts
+#EXTINF:-1 group-title="Documentaries",FOOD NETWORK
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/213.ts
+#EXTINF:-1 group-title="Documentaries",TLC 
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/194.ts
+#EXTINF:-1 group-title="Documentaries",FASHION TV 
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/214.ts
+
+
+#EXTINF:-1 group-title="Cartoons",NICKELODEON SR
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/228.ts
+#EXTINF:-1 group-title="Cartoons",NICKELODEON HR
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/229.ts
+#EXTINF:-1 group-title="Cartoons",KUNG FU PANDA 24/7
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/75043.ts
+#EXTINF:-1 group-title="Cartoons",PINGVINI 24/7
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/75046.ts
+#EXTINF:-1 group-title="Cartoons",NET SUNDJER BOB HD
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/18244.ts
+
+#EXTINF:-1 group-title="SVK",SK: RTVS 1
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42082.ts
+#EXTINF:-1 group-title="SVK",SK: RTVS 2
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42083.ts
+#EXTINF:-1 group-title="SVK",SK: TELEVIZIA OSEM
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42084.ts
+#EXTINF:-1 group-title="SVK",SK: TV DK
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42085.ts
+#EXTINF:-1 group-title="SVK",SK: TV DOMA
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42086.ts
+#EXTINF:-1 group-title="SVK",SK: TV JOJ
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42087.ts
+#EXTINF:-1 group-title="SVK",SK: TV LUX
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42088.ts
+#EXTINF:-1 group-title="SVK",SK: TV MARKIZA
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42089.ts
+#EXTINF:-1 group-title="SVK",SK: TV ROMANA
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42090.ts
+#EXTINF:-1 group-title="SVK",SK: TV RUZINOV
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42091.ts
+#EXTINF:-1 group-title="SVK",SK: TV SEVERKA
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42092.ts
+#EXTINF:-1 group-title="SVK",SK: CS FILM
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42093.ts
+#EXTINF:-1 group-title="SVK",SK: DAJTO
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42094.ts
+#EXTINF:-1 group-title="SVK",SK: DOMA
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42095.ts
+#EXTINF:-1 group-title="SVK",SK: DUCK TV
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42096.ts
+#EXTINF:-1 group-title="SVK",SK: FASHION TV
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42097.ts
+#EXTINF:-1 group-title="SVK",SK: FILMBOX FAMILY
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42098.ts
+#EXTINF:-1 group-title="SVK",SK: FILMBOX PREMIUM
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42099.ts
+#EXTINF:-1 group-title="SVK",SK: FILMBOX STARS
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42100.ts
+#EXTINF:-1 group-title="SVK",SK: JOJ CINEMA
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42101.ts
+#EXTINF:-1 group-title="SVK",SK: JOJ FAMILY
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42102.ts
+#EXTINF:-1 group-title="SVK",SK: JOJ PLUS
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42103.ts
+#EXTINF:-1 group-title="SVK",SK: JOJKO
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42104.ts
+#EXTINF:-1 group-title="SVK",SK: LOCALL
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42105.ts
+#EXTINF:-1 group-title="SVK",SK: HBO 2
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42106.ts
+#EXTINF:-1 group-title="SVK",SK: MARKIZA INTERNACIONAL
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42107.ts
+#EXTINF:-1 group-title="SVK",SK: NOVE ZAMKY
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42108.ts
+#EXTINF:-1 group-title="SVK",SK: REDUTA
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42109.ts
+#EXTINF:-1 group-title="SVK",SK: SENZI
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42110.ts
+#EXTINF:-1 group-title="SVK",SK: SKYLINK 7
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42111.ts
+#EXTINF:-1 group-title="SVK",SK: WAU TV
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42112.ts
+#EXTINF:-1 group-title="SVK",SK: LOVE NATURE
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42113.ts
+#EXTINF:-1 group-title="SVK",SK: INVESTIGATION DISCOVERY
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42114.ts
+#EXTINF:-1 group-title="SVK",SK: DISCOVERY WORLD
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42115.ts
+#EXTINF:-1 group-title="SVK",SK: 360 TUNEBOX
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42116.ts
+#EXTINF:-1 group-title="SVK",SK: ARENA SPORT 1
+http://g-med.xyz:25461/live/@Ramiz.Ljubijankic@1401/tS@JQu_WZn@Y3_ry/42117.ts
+
 
