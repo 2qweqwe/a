@@ -2,7 +2,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 SR" tvg-logo="http://repo.ottshow.net/pikoni/srbija/n1srb.gif" group-title="Srbija",N1 SR
+#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 SR" tvg-logo="http://repo.ottshow.net/pikoni/srbija/n1srb.gif" group-title="N1",N1 SR
 http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/3775
 
 
