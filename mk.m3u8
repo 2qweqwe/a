@@ -9,3 +9,69 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1h
 #EXTINF:-1  tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png",group-title="N1", Al Jazeera Balkans
 https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
 
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://46.36.40.22/1023/amchd.png" group-title="Filmové",AMC
+http://212.102.38.45/live/test_amc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://46.36.40.22/1023/hbohd.png" group-title="Filmové",HBO
+http://212.102.38.45/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="http://46.36.40.22/1023/hbo2hd.png" group-title="Filmové",HBO2
+http://212.102.38.45/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO3" tvg-name="HBO3" tvg-logo="http://46.36.40.22/1023/hbo3hd.png" group-title="Filmové",HBO3
+http://212.102.38.45/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://46.36.40.22/1023/cinemaxhd.png" group-title="Filmové",Cinemax
+http://212.102.38.45/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax 2" tvg-name="Cinemax 2" tvg-logo="http://46.36.40.22/1023/cinemax2hd.png" group-title="Filmové",Cinemax 2
+http://212.102.38.45/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmBox" tvg-name="Filmbox" tvg-logo="http://46.36.40.22/1023/filmbox.png" group-title="Filmové",Filmbox
+http://212.102.38.45/live/test_filmbox/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmBox Extra" tvg-name="Filmbox Extra" tvg-logo="http://46.36.40.22/1023/filmboxextrahd.png" group-title="Filmové",Filmbox Extra
+http://212.102.38.45/live/test_film_boxextra_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmBox Premium" tvg-name="Filmbox Premium" tvg-logo="http://46.36.40.22/1023/filmboxpremiumhd.png" group-title="Filmové",Filmbox Premium
+http://212.102.38.45/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmBox Family" tvg-name="Filmbox Family" tvg-logo="http://46.36.40.22/1023/filmboxfamily.png" group-title="Filmové",Filmbox Family
+http://212.102.38.45/live/test_filmbox_family_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmBox Stars" tvg-name="FilmBox Stars" tvg-logo="http://46.36.40.22/1023/filmboxstars.png" group-title="Filmové",FilmBox Stars
+http://212.102.38.45/live/test_filmbox_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmPlus.cz" tvg-name="Film+" tvg-logo="http://46.36.40.22/1023/filmplus.png" group-title="Filmové",Film+
+http://212.102.38.45/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="AXN" tvg-logo="http://46.36.40.22/1023/axn.png" group-title="Filmové",AXN
+http://212.102.38.45/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" tvg-logo="http://46.36.40.22/1023/axnblack.png" group-title="Filmové",AXN Black
+http://212.102.38.45/live/test_black/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" tvg-logo="http://46.36.40.22/1023/axnwhite.png" group-title="Filmové",AXN White
+http://212.102.38.45/live/test_white/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://46.36.40.22/1023/history.png" group-title="Dokumentárne",History Channel
+http://212.102.38.45/live/test_history/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="Discovery" tvg-logo="http://46.36.40.22/1023/discovery.png" group-title="Dokumentárne",Discovery
+http://212.102.38.45/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="SpektrumCzech.hu" tvg-name="Spektrum" tvg-logo="http://46.36.40.22/1023/spektrum.png" group-title="Dokumentárne",Spektrum
+http://212.102.38.45/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-name="Investigation Discovery" tvg-logo="http://46.36.40.22/1023/investigationdiscovery.png" group-title="Dokumentárne",Investigation Discovery
+http://212.102.38.45/live/test_id_hevc_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Crime and Investigation" tvg-name="Sat crime invest" tvg-logo="http://46.36.40.22/1023/crimeandinvestigation.png" group-title="Dokumentárne",Crime and Investigation
+http://212.102.38.45/live/test_cai_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="http://46.36.40.22/1023/nationalgeographic.png" group-title="Dokumentárne",National Geographic
+http://212.102.38.45/live/test_ngc/playlist.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo WILD" tvg-logo="http://46.36.40.22/1023/natgeowild.png" group-title="Dokumentárne",Nat Geo WILD
+http://212.102.38.45/live/test_ngw/playlist.m3u8
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="Animal Planet" tvg-logo="http://46.36.40.22/1023/animalplanet.png" group-title="Dokumentárne",Animal Planet
+http://212.102.38.45/live/test_animal_planet_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://46.36.40.22/1023/tlc.png" group-title="Dokumentárne",TLC
+http://212.102.38.45/live/test_tlc_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="CShistory" tvg-name="CShistory " tvg-logo="http://46.36.40.22/1023/cshistory.png" group-title="Dokumentárne",CS History
+http://212.102.38.45/live/test_cs_history_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CSmystery" tvg-name="CSmystery " tvg-logo="http://46.36.40.22/1023/csmystery.png" group-title="Dokumentárne",CS Mystery
+http://212.102.38.45/live/test_cs_mystery_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Up network" tvg-name="Up network" tvg-logo="http://46.36.40.22/1023/Upnetwork.png" group-title="Dokumentárne",Up network
+http://212.102.38.45/live/test_upnetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="http://46.36.40.22/1023/lovenature.png" group-title="Dokumentárne",Love Nature
+http://212.102.38.45/live/test_lovenature/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelChannelEMEA.uk" tvg-name="Travel Channel" tvg-logo="http://46.36.40.22/1023/travelchannel.png" group-title="Dokumentárne",Travel Channel
+http://212.102.38.45/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="SpektrumHome.hu" tvg-name="Spektrum Home" tvg-logo="http://46.36.40.22/1023/spektrumhome.png" group-title="Dokumentárne",Spektrum Home
+http://212.102.38.45/live/test_home_hevc/playlist.m3u8
+
