@@ -642,3 +642,53 @@ http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/4223
 http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/4224
 #EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="http://repo.ottshow.net/pikoni/film/amc.gif" group-title="Film",AMC
 http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/9109
+
+#EXTINF:-1 tvg-id="national-geographic" tvg-name="National Geographic" tvg-logo="https://picons.ottshow.net/pikoni/doku/nationalgeographic.gif" group-title="Doku",National Geographic
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/25978
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="NatGeo Wild" tvg-logo="https://picons.ottshow.net/pikoni/doku/natgeowild.gif" group-title="Doku",NatGeo Wild
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/25977
+#EXTINF:-1 tvg-id="discovery-europe" tvg-name="Discovery Channel" tvg-logo="https://picons.ottshow.net/pikoni/doku/discovery.gif" group-title="Doku",Discovery Channel
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/68
+#EXTINF:-1 tvg-id="investigation-discovery" tvg-name="Discovery ID" tvg-logo="https://picons.ottshow.net/pikoni/doku/discoveryid.gif" group-title="Doku",Discovery ID
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/25980
+#EXTINF:-1 tvg-id="discovery-science" tvg-name="Discovery Science" tvg-logo="https://picons.ottshow.net/pikoni/doku/discoverysince.gif" group-title="Doku",Discovery Science
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/25984
+#EXTINF:-1 tvg-id="discovery-tlc" tvg-name="TLC" tvg-logo="https://picons.ottshow.net/pikoni/doku/tlc.gif" group-title="Doku",TLC
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/74
+#EXTINF:-1 tvg-id="discovery-animal" tvg-name="Animal Planet" tvg-logo="https://picons.ottshow.net/pikoni/doku/AnimalPlanet.gif" group-title="Doku",Animal Planet
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/25983
+#EXTINF:-1 tvg-id="crime-investigation" tvg-name="Crime & Invvestigation" tvg-logo="https://picons.ottshow.net/pikoni/doku/invs+.gif" group-title="Doku",Crime & Invvestigation
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/25982
+#EXTINF:-1 tvg-id="history-channel" tvg-name="History " tvg-logo="https://picons.ottshow.net/pikoni/doku/history.gif" group-title="Doku",History 
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/2574
+#EXTINF:-1 tvg-id="history-channel-2" tvg-name="History 2" tvg-logo="https://picons.ottshow.net/pikoni/doku/h2history%202.gif" group-title="Doku",History 2
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/25981
+#EXTINF:-1 tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="https://picons.ottshow.net/pikoni/doku/Vaistnature.gif" group-title="Doku",Viasat Nature
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/4126
+#EXTINF:-1 tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="https://picons.ottshow.net/pikoni/doku/viasthistory.gif" group-title="Doku",Viasat History
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/2797
+#EXTINF:-1 tvg-id="viasat-explorer" tvg-name="Viasat Explorer" tvg-logo="https://picons.ottshow.net/pikoni/doku/vaisetexpliore.gif" group-title="Doku",Viasat Explorer
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/1204
+#EXTINF:-1 tvg-id="balkan-trip" tvg-name="Balkan Trip" tvg-logo="http://repo.ottshow.net/pikoni/srbija/balkantriptv.gif" group-title="Doku",Balkan Trip
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/4485
+#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-name="Lov i Ribolov" tvg-logo="https://picons.ottshow.net/pikoni/doku/Loviribolov.gif" group-title="Doku",Lov i Ribolov
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/65
+#EXTINF:-1 tvg-id="travel-channel" tvg-name="Travel Channel" tvg-logo="https://picons.ottshow.net/pikoni/doku/travel.gif" group-title="Doku",Travel Channel
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/181
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://picons.ottshow.net/pikoni/doku/bbcearth.gif" group-title="Doku",BBC Earth
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/24373
+#EXTINF:-1 tvg-id="food-network" tvg-name="Food Network" tvg-logo="https://picons.ottshow.net/pikoni/doku/fooodnewttork.gif" group-title="Doku",Food Network
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/33261
+#EXTINF:-1 tvg-id="24kitchen" tvg-name="24 Kitchen" tvg-logo="https://picons.ottshow.net/pikoni/doku/24kitchen.gif" group-title="Doku",24 Kitchen
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/25985
+#EXTINF:-1 tvg-id="entertainment" tvg-name="E! Entertainment" tvg-logo="https://picons.ottshow.net/pikoni/doku/Eenternesto.gif" group-title="Doku",E! Entertainment
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/2572
+#EXTINF:-1 tvg-id="doku-tv" tvg-name="Doku TV" tvg-logo="http://repo.ottshow.net/pikoni/doku/dokutv.gif" group-title="Doku",Doku TV
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/31853
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://web.izipizi1.info/pi/jyw.png" group-title="Doku",HGTV
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/39108
+#EXTINF:-1 tvg-id="htv1" tvg-name="Nautical Channel" tvg-logo="https://repo.ottshow.net/pikoni/ikone45345/natucialchannel.gif" group-title="Doku",Nautical Channel
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/71247
+#EXTINF:-1 tvg-id="pink-fashion" tvg-name="Fashion TV" tvg-logo="https://picons.ottshow.net/pikoni/doku/FashonTV.gif" group-title="Doku",Fashion TV
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/9108
+
