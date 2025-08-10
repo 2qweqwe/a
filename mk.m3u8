@@ -3,8 +3,11 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 SR" tvg-logo="http://repo.ottshow.net/pikoni/srbija/n1srb.gif" group-title="N1",N1 SR
+#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 SR" tvg-logo="http://repo.ottshow.net/pikoni/srbija/n1srb.gif" group-title="N1",N11 
 http://149.18.45.187:80/live/ljupcovel21/6473562675/379691.m3u8
+
+#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 SR" tvg-logo="http://repo.ottshow.net/pikoni/srbija/n1srb.gif" group-title="N1",N22
+http://149.18.45.187:80/live/ljupcovel21/6473562675/174215.m3u8
 
 
 #EXTINF:-1  tvg-id="N1BIH" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="N1",N1 BIH
@@ -1513,6 +1516,7 @@ http://149.18.45.187:80/live/ljupcovel21/6473562675/33825.m3u8
 http://149.18.45.187:80/live/ljupcovel21/6473562675/121431.m3u8
 #EXTINF:-1,EXYU| FARMA 8 / NARODNA TV HD
 http://149.18.45.187:80/live/ljupcovel21/6473562675/401413930.m3u8
+
 
 
 
