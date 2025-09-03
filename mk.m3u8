@@ -21,6 +21,9 @@ https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-id="nova-s" tvg-name="Nova S HD" tvg-logo="http://repo.ottshow.net/pikoni/srbija/novashd.gif" group-title="N1",Nova S HD
 http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/29409
 
+#EXTINF:-1 tvg-id="vojvodina-1" tvg-name="RTV 1" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rtv1.gif" group-title="N1",RTV 1
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/1172
+
 #EXTINF:-1 tvg-id="vojvodina-2" tvg-name="RTV 2" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rtv2.gif" group-title="N1",RTV 2
 http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/2837
 
@@ -405,6 +408,7 @@ http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45275
 http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45276
 #EXTINF:-1 tvg-id="" tvg-name="Cine+Select 10 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 10 HD
 http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45277
+
 
 
 
