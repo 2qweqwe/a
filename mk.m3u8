@@ -24,6 +24,9 @@ http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/29409
 #EXTINF:-1 tvg-id="vojvodina-2" tvg-name="RTV 2" tvg-logo="http://repo.ottshow.net/pikoni/srbija/rtv2.gif" group-title="N1",RTV 2
 http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/2837
 
+#EXTINF:-1 tvg-id="lov-i-ribolov" tvg-name="Lov i Ribolov" tvg-logo="https://picons.ottshow.net/pikoni/doku/Loviribolov.gif" group-title="N1",Lov i Ribolov
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/65
+
 
 
 #EXTINF:-1 tvg-id="Jednotka" tvg-name="Jednotka" tvg-logo="http://46.36.40.22/1023/stv1hd.png" group-title="Slovenské",Jednotka
@@ -399,5 +402,6 @@ http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45275
 http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45276
 #EXTINF:-1 tvg-id="" tvg-name="Cine+Select 10 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 10 HD
 http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45277
+
 
 
