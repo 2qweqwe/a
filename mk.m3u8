@@ -18,6 +18,9 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1h
 #EXTINF:-1  tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png",group-title="N1", Al Jazeera Balkans
 https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
 
+#EXTINF:-1 tvg-id="nova-s" tvg-name="Nova S HD" tvg-logo="http://repo.ottshow.net/pikoni/srbija/novashd.gif" group-title="Srbija",Nova S HD
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/29409
+
 
 
 
@@ -298,4 +301,100 @@ http://217.17.97.1:18180
 
 #EXTINF:-1 group-title="Radio"  tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioj10.jpg",Radio Janko Hrasko (Folklor) 
 http://78.24.9.110:31088/;stream/1
+
+
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo.gif" group-title="Film",HBO
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/44
+#EXTINF:-1 tvg-id="hbo-comedy" tvg-name="HBO 2" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo2.gif" group-title="Film",HBO 2
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/72
+#EXTINF:-1 tvg-id="hbo3" tvg-name="HBO 3" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo3.gif" group-title="Film",HBO 3
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/1555
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemax.gif" group-title="Film",Cinemax
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/70
+#EXTINF:-1 tvg-id="cinemax-2" tvg-name="Cinemax  2" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemax2.gif" group-title="Film",Cinemax  2
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/126
+#EXTINF:-1 tvg-id="cinestar-premiere" tvg-name="CineStar Premiere 1" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarpremier1.gif" group-title="Film",CineStar Premiere 1
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/36
+#EXTINF:-1 tvg-id="cinestar-premiere-2" tvg-name="CineStar Premiere 2" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarpremier2.gif" group-title="Film",CineStar Premiere 2
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/37
+#EXTINF:-1 tvg-id="cinestar-tv" tvg-name="CineStar TV 1" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestartv.gif" group-title="Film",CineStar TV 1
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/3851
+#EXTINF:-1 tvg-id="cinestar-tv-2" tvg-name="CineStar TV 2" tvg-logo="http://web.izipizi1.info/pi/cinestartv2.png" group-title="Film",CineStar TV 2
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/37920
+#EXTINF:-1 tvg-id="cinestar-action-thriller" tvg-name="CineStar Action" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestaraction.gif" group-title="Film",CineStar Action
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/2685
+#EXTINF:-1 tvg-id="cinestar-tv-fantasy" tvg-name="CineStar Fantasy" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarfantasy.gif" group-title="Film",CineStar Fantasy
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/10444
+#EXTINF:-1 tvg-id="cinestar-tv-comedy" tvg-name="CineStar Comedy" tvg-logo="http://repo.ottshow.net/pikoni/film/cinestarcomedy.gif" group-title="Film",CineStar Comedy
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/30492
+#EXTINF:-1 tvg-id="fox" tvg-name="STAR Channel" tvg-logo="http://repo.ottshow.net/pikoni/film/fox.gif" group-title="Film",STAR Channel
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/178
+#EXTINF:-1 tvg-id="fox-movies" tvg-name="STAR Movies" tvg-logo="http://repo.ottshow.net/pikoni/film/foxmovies.gif" group-title="Film",STAR Movies
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/25990
+#EXTINF:-1 tvg-id="fox-life" tvg-name="STAR Life" tvg-logo="http://repo.ottshow.net/pikoni/film/foxlife.gif" group-title="Film",STAR Life
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/1378
+#EXTINF:-1 tvg-id="fox-crime" tvg-name="STAR Crime" tvg-logo="http://repo.ottshow.net/pikoni/film/foxcrime.gif" group-title="Film",STAR Crime
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/1553
+#EXTINF:-1 tvg-id="m1-gold" tvg-name="M1 Gold" tvg-logo="http://repo.ottshow.net/pikoni/film/m1goldfilm.gif" group-title="Film",M1 Gold
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/1351
+#EXTINF:-1 tvg-id="m1-film" tvg-name="M1 Film" tvg-logo="http://repo.ottshow.net/pikoni/film/m1family.gif" group-title="Film",M1 Film
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/2494
+#EXTINF:-1 tvg-id="m1-family" tvg-name="M1 Family" tvg-logo="http://repo.ottshow.net/pikoni/film/m1family.gif" group-title="Film",M1 Family
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/24936
+#EXTINF:-1 tvg-id="tv1000-balkan" tvg-name="TV 1000" tvg-logo="http://repo.ottshow.net/pikoni/film/tv1000.gif" group-title="Film",TV 1000
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/705
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="http://repo.ottshow.net/pikoni/film/axn.gif" group-title="Film",AXN
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/1181
+#EXTINF:-1 tvg-id="axn-spin" tvg-name="AXN Spin" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/film/axnspin.gif" group-title="Film",AXN Spin
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/69009
+#EXTINF:-1 tvg-id="scifi" tvg-name="SciFi" tvg-logo="http://repo.ottshow.net/pikoni/film/scifi.gif" group-title="Film",SciFi
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/8859
+#EXTINF:-1 tvg-id="cinemania" tvg-name="Cinemania" tvg-logo="http://repo.ottshow.net/pikoni/film/cinemania.gif" group-title="Film",Cinemania
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/357
+#EXTINF:-1 tvg-id="cinema-tv" tvg-name="RTL Play Premium" tvg-logo="http://repo.ottshow.net/pikoni/film/cinematvbh.gif" group-title="Film",RTL Play Premium
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/174
+#EXTINF:-1 tvg-id="pickbox-tv" tvg-name="PickboxTV" tvg-logo="http://repo.ottshow.net/pikoni/film/pickboxtv.gif" group-title="Film",PickboxTV
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/1630
+#EXTINF:-1 tvg-id="kinotv" tvg-name="Kino TV" tvg-logo="http://repo.ottshow.net/pikoni/film/kinotv.gif" group-title="Film",Kino TV
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/4223
+#EXTINF:-1 tvg-id="universal-channel" tvg-name="DIVA" tvg-logo="http://repo.ottshow.net/pikoni/film/divatv.gif" group-title="Film",DIVA
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/4224
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="http://repo.ottshow.net/pikoni/film/amc.gif" group-title="Film",AMC
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/9109
+#EXTINF:-1 tvg-id="epic-drama" tvg-name="EPIC Drama" tvg-logo="http://repo.ottshow.net/pikoni/film/epicdrama.gif" group-title="Film",EPIC Drama
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/24362
+#EXTINF:-1 tvg-id="" tvg-name="Sehara TV" tvg-logo="http://repo.ottshow.net/pikoni/film/tvsehara.gif" group-title="Film",Sehara TV
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/29202
+#EXTINF:-1 tvg-id="" tvg-name="Klasik TV" tvg-logo="http://repo.ottshow.net/pikoni/film/klasiktv.gif" group-title="Film",Klasik TV
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/38
+#EXTINF:-1 tvg-id="" tvg-name="Film Klub" tvg-logo="http://repo.ottshow.net/pikoni/film/filmklub.gif" group-title="Film",Film Klub
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/1073
+#EXTINF:-1 tvg-id="" tvg-name="Dizi" tvg-logo="" group-title="Film",Dizi
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/77667
+#EXTINF:-1 tvg-id="" tvg-name="Euro Cinema 1" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/eurocinema.gif" group-title="Film",Euro Cinema 1
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/68477
+#EXTINF:-1 tvg-id="" tvg-name="Euro Cinema 2" tvg-logo="https://repo.ottshow.net/pikoni/Ikone45/eurocinema2.gif" group-title="Film",Euro Cinema 2
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/68478
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX" tvg-logo="http://repo.ottshow.net/pikoni/film/hbo.gif" group-title="Film",HBO MAX
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45107
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 1 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 1 HD
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45268
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 2 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 2 HD
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45269
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 3 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 3 HD
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45270
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 4 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 4 HD
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45271
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 5 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 5 HD
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45272
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 6 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 6 HD
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45273
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 7 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 7 HD
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45274
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 8 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 8 HD
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45275
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 9 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 9 HD
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45276
+#EXTINF:-1 tvg-id="" tvg-name="Cine+Select 10 HD" tvg-logo="https://repo.ottshow.net/pikoni/mt/cine-plus.gif" group-title="Film",Cine+Select 10 HD
+http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/45277
 
