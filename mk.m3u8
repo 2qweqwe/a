@@ -33,6 +33,32 @@ http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/65
 #EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 HD" tvg-logo="https://repo.ottshow.net/pikoni/srbija/rts1hd.gif" group-title="N1",RTS 1 HD
 http://api.ottshow.net:80/Aleks.ziv9/Reactor10050/39647
 
+#EXTINF:-1 tvg-id="" tvg-name="INSAJDER- TV" tvg-logo="http://tv.balkanci.net:8080/images/5aedf893b3835c03719900ae57c5d230.png" group-title="N1",INSAJDER- TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/254696.ts
+
+#EXTINF:-1 tvg-id="htv1" tvg-name="TANJUG" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJ3mTj1Uof4hzKYUA_wl0ktyCBEBAeZuIgH2u8EcVIUFheRvqSj0KG3TnG4eAUv1lDuGrKqa5CADoUq75KDAIDsQ.png" group-title="N1",TANJUG
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227664.ts
+#EXTINF:-1 tvg-id="pink-3" tvg-name="VESTI" tvg-logo="https://www.novosti.rs/data/images/2021-02-16/66224_vesti-logo-2-1_iff.jpg?1613485069" group-title="N1",VESTI
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/721.ts
+#EXTINF:-1 tvg-id="OE24HD" tvg-name="OE24 NEWS" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCyANqRjq9yqhepUTc0IJuZFmsmeZEAe4dZsjEh2ZohsqDzl_RmJs4xoc3WRZwT3KeUgeBLj6ZSE-y0ISN2BHKNnBfq7a5Z0NEyIiBVUJqNhX3qxiZG0aSBOXukWkTDKdrM.png" group-title="N1",OE24 NEWS
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234004.ts
+#EXTINF:-1 tvg-id="w24" tvg-name="W24" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwSTP2OKGVhxQKnwFR4zXSxMXd-vpTHddNiXVwrT9VYeiqo_KDB8tR7oyxAja3pMy985HYLPoRFbJGnZ0rY8ESblbqlalvOUfDhfsjJ7HI_S5e2zP1Cp78Sn8jFxQGJrZs.jpg" group-title="N1",W24
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/6567.ts
+#EXTINF:-1 tvg-id="n24doku.de" tvg-name="WELTᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNUR71UA0tf0dIbwEA2SMfQEoiC0zxXACqFyBhR943BQ8nJkYeruP--elj39FrS6dPqaLf0WJAv2KiHk1b6xMFYQ.png" group-title="N1",WELTᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/442.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCzs5z6WqkaLv6qCeZ-8De0ZTieAP4qsUPhnfXWKCIo2F8DKuT3QPIuYlxrKA8oL29k.png" group-title="N1",CNN
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/252920.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWSᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIbVX_OyVKYT9wJh-tW44D3jJxEkc_xGwWho_-0KnzIZ7A.png" group-title="N1",BBC NEWSᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/244905.ts
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCyANqRjq9yqhepUTc0IJuZFcX8pMVlwbio-StVneVi6TpC608KsiQ4sXsdJQ3S3qUCEv2Dbor8kKqu4ugbhTsHdv8kixomUfzhdj4GyDPr7A6H812oRd8BRPN4ggAcVbu0.png" group-title="N1",N-TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/229835.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS UK" tvg-logo="http://tv.balkanci.net:8080/images/af5ab4f4a0c1529172d77967105b288e.jpg" group-title="N1",SKY NEWS UK
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/249117.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWSMAX- BALKANS" tvg-logo="https://mtel.ba/Picture/41352/jpeg/newsmax" group-title="N1",NEWSMAX- BALKANS
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/254702.ts
+
+
 
 
 #EXTINF:-1 tvg-id="Jednotka" tvg-name="Jednotka" tvg-logo="http://46.36.40.22/1023/stv1hd.png" group-title="Slovenské",Jednotka
@@ -438,6 +464,7 @@ http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/745.ts
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/10448.ts
 #EXTINF:-1 tvg-id="pink-movies" tvg-name="PINK MOVIES" tvg-logo="http://tv.balkanci.net:8080/images/51692a55f7f51b7c913e4f76dfb12581.png" group-title="PINK MEDIA",PINK MOVIES
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/254633.ts
+
 
 
 
