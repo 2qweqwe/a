@@ -1,0 +1,766 @@
+#EXTM3U
+
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_2_01r1"
+#EXTINF:-1 tvg-id="" tvg-name="* * * * VIJESTI//NEWS * * * *" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaqsX-m6hP6HRsAsvXvm-oSBuVu70GMLh0Lg&usqp=CAU" group-title="VIJESTI//NEWS",* * * * VIJESTI//NEWS * * * *
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/229952.ts
+#EXTINF:-1 tvg-id="al-jazeera-balkans" tvg-name="AL JAZZERA BALKANS ᴴᴰ" tvg-logo="http://cms.optimalteve.com:8080/images/ow7FSi1DOiTj1SYj0Di0n2jp-u-pypIpK-SNp8CMeHYp7chA6zs6mOic_k0pvB4oMpu3xtoLOOPS3KQdyFWNSw.png" group-title="VIJESTI//NEWS",AL JAZZERA BALKANS ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/369.ts
+#EXTINF:-1 tvg-id="n1" tvg-name="N1 INFO BiH" tvg-logo="http://tv.balkanci.net:8080/images/8jJWXVZuQJjDtfFeqUYiwtQAnkNutEHNzcGEcAOekElNeg9Lgm13Zzrv8MyYsn-rZPhBZrzaCYxmVHNEcImIcKzaVDyR6CmP0yr80v_IV2jnf6IHmcpbHgkS0PSRO9u6VFNs3f_K3DCjjz8SclxKCuusHjS7katg22MW_r0cluUrIQJ2L_UJYIzhgdU3-d_4zpfQCUxrwvGQdqZGmlekRg.png" group-title="VIJESTI//NEWS",N1 INFO BiH
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/368.ts
+#EXTINF:-1 tvg-id="n1-hr" tvg-name="N1 INFO HR" tvg-logo="http://tv.balkanci.net:8080/images/L_yzZ2RLrs6wJmSEAzVLVFUQ_bhuYDOaKadDqPU1ocxSb8nqbLHva65R0y65iiTIjU6BontItBwKEwp_ILZrGzf6ZTcuOBdy60OcoTsqkwY.png" group-title="VIJESTI//NEWS",N1 INFO HR
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1816.ts
+#EXTINF:-1 tvg-id="n1-rs" tvg-name="N1 INFO SR" tvg-logo="http://tv.balkanci.net:8080/images/8jJWXVZuQJjDtfFeqUYiwtQAnkNutEHNzcGEcAOekEnjOAAYKm4D1mAWcebn9bQHFH4ObODEF9ez18GyrZQZqcijvJQTECef7UgKucgBk_5hff_aSaIhjWvkk5UChggaB_4MWSzo2OjGGn8uF4F6TO2VMu4gx-jDnlez8XckEbuk5encCmINpD0gqJdLTyx7RIH9ujvUyYL-UBs2ukdy_Q.png" group-title="VIJESTI//NEWS",N1 INFO SR
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/927.ts
+#EXTINF:-1 tvg-id="euronews-serbia" tvg-name="EURONEWS SERBIA ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/ow7FSi1DOiTj1SYj0Di0n2f04S3FG3CfmaqZ1Tjs7-boYOdLafRJ_CdNiR5umaQTv91Xikl9ig1n_kPlYpLgOw.png" group-title="VIJESTI//NEWS",EURONEWS SERBIA ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234001.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="TANJUG" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJ3mTj1Uof4hzKYUA_wl0ktyCBEBAeZuIgH2u8EcVIUFheRvqSj0KG3TnG4eAUv1lDuGrKqa5CADoUq75KDAIDsQ.png" group-title="VIJESTI//NEWS",TANJUG
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227664.ts
+#EXTINF:-1 tvg-id="pink-3" tvg-name="VESTI" tvg-logo="https://www.novosti.rs/data/images/2021-02-16/66224_vesti-logo-2-1_iff.jpg?1613485069" group-title="VIJESTI//NEWS",VESTI
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/721.ts
+#EXTINF:-1 tvg-id="OE24HD" tvg-name="OE24 NEWS" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCyANqRjq9yqhepUTc0IJuZFmsmeZEAe4dZsjEh2ZohsqDzl_RmJs4xoc3WRZwT3KeUgeBLj6ZSE-y0ISN2BHKNnBfq7a5Z0NEyIiBVUJqNhX3qxiZG0aSBOXukWkTDKdrM.png" group-title="VIJESTI//NEWS",OE24 NEWS
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234004.ts
+#EXTINF:-1 tvg-id="w24" tvg-name="W24" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwSTP2OKGVhxQKnwFR4zXSxMXd-vpTHddNiXVwrT9VYeiqo_KDB8tR7oyxAja3pMy985HYLPoRFbJGnZ0rY8ESblbqlalvOUfDhfsjJ7HI_S5e2zP1Cp78Sn8jFxQGJrZs.jpg" group-title="VIJESTI//NEWS",W24
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/6567.ts
+#EXTINF:-1 tvg-id="n24doku.de" tvg-name="WELTᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNUR71UA0tf0dIbwEA2SMfQEoiC0zxXACqFyBhR943BQ8nJkYeruP--elj39FrS6dPqaLf0WJAv2KiHk1b6xMFYQ.png" group-title="VIJESTI//NEWS",WELTᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/442.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCzs5z6WqkaLv6qCeZ-8De0ZTieAP4qsUPhnfXWKCIo2F8DKuT3QPIuYlxrKA8oL29k.png" group-title="VIJESTI//NEWS",CNN
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/252920.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWSᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIbVX_OyVKYT9wJh-tW44D3jJxEkc_xGwWho_-0KnzIZ7A.png" group-title="VIJESTI//NEWS",BBC NEWSᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/244905.ts
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCyANqRjq9yqhepUTc0IJuZFcX8pMVlwbio-StVneVi6TpC608KsiQ4sXsdJQ3S3qUCEv2Dbor8kKqu4ugbhTsHdv8kixomUfzhdj4GyDPr7A6H812oRd8BRPN4ggAcVbu0.png" group-title="VIJESTI//NEWS",N-TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/229835.ts
+#EXTINF:-1 tvg-id="" tvg-name="INFORMER TV" tvg-logo="http://tv.balkanci.net:8080/images/061ba5a118236d2a66e6681a63fdc11b.jpg" group-title="VIJESTI//NEWS",INFORMER TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/249137.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS UK" tvg-logo="http://tv.balkanci.net:8080/images/af5ab4f4a0c1529172d77967105b288e.jpg" group-title="VIJESTI//NEWS",SKY NEWS UK
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/249117.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWSMAX- BALKANS" tvg-logo="https://mtel.ba/Picture/41352/jpeg/newsmax" group-title="VIJESTI//NEWS",NEWSMAX- BALKANS
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/254702.ts
+#EXTINF:-1 tvg-id="" tvg-name="* * * * EXTRA* * * *" tvg-logo="https://www.shutterstock.com/image-vector/extra-grunge-brush-stroke-word-260nw-1636661932.jpg" group-title="EXTRA",* * * * EXTRA* * * *
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/235191.ts
+#EXTINF:-1 timeshift="7" tvg-id="hayat-tv" tvg-name="HAYAT ᴴᴰ Extra" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcsyOlxhpbHqUIPR4QrvsTU4wYc4KNn_ziEED_JnSanka.png" group-title="EXTRA",HAYAT ᴴᴰ Extra
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/348.ts
+#EXTINF:-1 tvg-id="hayat-tv" tvg-name="HAYAT ᴴᴰ² Extra" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCyXb0gAdP8hiOXR2iFQOZTdsvEYW8AlKFooMwWMN9EUJ_m_-n0GxBX46xTno6DPBoY.png" group-title="EXTRA",HAYAT ᴴᴰ² Extra
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1693.ts
+#EXTINF:-1 tvg-id="hayat-plus" tvg-name="HAYAT 2 Extra" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcsyOlxhpbHqUIPR4QrvsTU55E_rE2Aev8vqAq0xLyKu2.png" group-title="EXTRA",HAYAT 2 Extra
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/349.ts
+#EXTINF:-1 tvg-id="hayatovci" tvg-name="HAYATOVCI Extra" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcsyOlxhpbHqUIPR4QrvsTU7MXsidPmYThGVnozZtUhIvJpqADCemYh1WWqYU5hSVQw.png" group-title="EXTRA",HAYATOVCI Extra
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/669.ts
+#EXTINF:-1 tvg-id="HAYAT FOLK" tvg-name="HAYAT FOLK BOX  Extra" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCyF7obt2Y4DeNljD6jXJyd8NgeXfMtcQctq8HWpzWi9RoxJ5s82cNq7X6A2muCEQ6w.png" group-title="EXTRA",HAYAT FOLK BOX  Extra
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/691.ts
+#EXTINF:-1 tvg-id="HAYAT MUSIC" tvg-name="HAYAT MUSIC BOX Extra" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcsyOlxhpbHqUIPR4QrvsTU5V9W11lmidbVPacFAZTr4h5KtZqSJNhzg-If-Hj2wHYA.png" group-title="EXTRA",HAYAT MUSIC BOX Extra
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/692.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAYAT STIL I ZIVOT" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcsyOlxhpbHqUIPR4QrvsTU5JMHq-i-Kjiv52rqa3cA1MfPxFRpu4X961KRlNvPkQ1A.png" group-title="EXTRA",HAYAT STIL I ZIVOT
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/251762.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAYAT LOVE BOX" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwdLH4mkY_LbXqM4_oDIonkFk09JWgT7yD2_-QuRQ6HI1DvZ_no0H59uLCGg6d71vY.png" group-title="EXTRA",HAYAT LOVE BOX
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/251763.ts
+#EXTINF:-1 tvg-id="" tvg-name="* * * *  BiH KANALI * * * *" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5iylUvqIKvnHNvA5tVCYrsRlzKsQ5BMphX2eq8-AbiyDJM_c6Haw9&usqp=CAE&s" group-title="BiH//BOSNIA AND HERZEGOVINA",* * * *  BiH KANALI * * * *
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/343.ts
+#EXTINF:-1 tvg-id="bht1" tvg-name="BHT ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqH47gTd7Hik1tcJmpFzLzlFHBvgwSM_fMEGzFRC_5-S.png" group-title="BiH//BOSNIA AND HERZEGOVINA",BHT ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/345.ts
+#EXTINF:-1 tvg-id="bht1" tvg-name="BHT ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNxx4meNbfBsaKgWPzy5Kq6mUyXjXVbPNOR5Wu6RhoGAeTNSDpDznOABZtmgjpBwOs9HNLFPGiig-__o0M5BbeqA.png" group-title="BiH//BOSNIA AND HERZEGOVINA",BHT ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1694.ts
+#EXTINF:-1 timeshift="7" tvg-id="ftv" tvg-name="FTV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCyoQZoEvItsEKpWTWgsq1Z5peE04IQordzmt38X0l3KzZZex-thq9ogfAIMzQUZF_atSFnonEYMq0w9k4wRX393nVafmgbyYJgHRyPN6qtnlHBJJeoIuNu2hKMrPxymhbbea7V2jdJdTmYGp1dNkKLG51ckb9P_kgSvzqcUck_zTA.png" group-title="BiH//BOSNIA AND HERZEGOVINA",FTV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/344.ts
+#EXTINF:-1 tvg-id="ftv" tvg-name="FTV ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCyoQZoEvItsEKpWTWgsq1Z5peE04IQordzmt38X0l3KzZZex-thq9ogfAIMzQUZF_atSFnonEYMq0w9k4wRX393nVafmgbyYJgHRyPN6qtnlHBJJeoIuNu2hKMrPxymhbbea7V2jdJdTmYGp1dNkKLG51ckb9P_kgSvzqcUck_zTA.png" group-title="BiH//BOSNIA AND HERZEGOVINA",FTV ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1686.ts
+#EXTINF:-1 timeshift="7" tvg-id="rtrs" tvg-name="RTRS" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcoFJiQNP_RDTyYNGE-LLHzAbgE7yzCUMT5WZ8fhVGQZg.png" group-title="BiH//BOSNIA AND HERZEGOVINA",RTRS
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/357.ts
+#EXTINF:-1 tvg-id="rtv-hb" tvg-name="RTV HB ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwEgoRMBx7WbCCjj4gba9vltTv0JExNxtd_d8zYtcuA1DX3PB3IXzbw0CX2u7lFR8Dx7qiBJi5SwyRJqe6qNT4NnJnFY5F7eq4RgrHBHYrLpzJHaP_HAwqYZkRcSvYYJs60H4M4hGNfgR1BdTgt-raAdU3XCWi6Sd9qJiVVn79qRg.png" group-title="BiH//BOSNIA AND HERZEGOVINA",RTV HB ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/166923.ts
+#EXTINF:-1 timeshift="7" tvg-id="obn" tvg-name="OBN ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIZAeqppwHkba097wD5oMNwpC1Xrb6oQS8-vZGZ7Up1cDg.png" group-title="BiH//BOSNIA AND HERZEGOVINA",OBN ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/347.ts
+#EXTINF:-1 tvg-id="obn" tvg-name="OBN ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcrzbacTuHaQmb2X1-bR-s1-aC4YQHwDpZb_hDIMIsMs9.png" group-title="BiH//BOSNIA AND HERZEGOVINA",OBN ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1695.ts
+#EXTINF:-1 timeshift="7" tvg-id="nova-bh" tvg-name="NOVA TV BiH ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNI4IQtH7tW2ewN1SZx_4MEQuGYkNsDlBUCRVrW0QO7l2SYuYMYuHaY8Qpd7i48neda_kKNq5Pd0EDozVKCsy1Eg.png" group-title="BiH//BOSNIA AND HERZEGOVINA",NOVA TV BiH ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1690.ts
+#EXTINF:-1 tvg-id="nova-bh" tvg-name="NOVA TV BiH ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNI4IQtH7tW2ewN1SZx_4MEQuGYkNsDlBUCRVrW0QO7l2SYuYMYuHaY8Qpd7i48neda_kKNq5Pd0EDozVKCsy1Eg.png" group-title="BiH//BOSNIA AND HERZEGOVINA",NOVA TV BiH ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234638.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAYAT ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJKtwaaDyMpfvnOWcWacqYfQBF2TKq_7vZJdkG-crgXBidK0PHk6tFG7eLGiNm1bNF3xujkeRA9hsdJyPan_v6Ew.png" group-title="BiH//BOSNIA AND HERZEGOVINA",HAYAT ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234671.ts
+#EXTINF:-1 timeshift="7" tvg-id="face-tv" tvg-name="FACE TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNNpttNru4-wXuhOWih_IvhJyQQ4_xUcm_0b10vGD7X4miPktDTFJ3FTgWd-Axj5cktjQxK5q-sVHwRSnfAtYiSw.png" group-title="BiH//BOSNIA AND HERZEGOVINA",FACE TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/6555.ts
+#EXTINF:-1 tvg-id="face-tv" tvg-name="FACE TV ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNNpttNru4-wXuhOWih_IvhJyQQ4_xUcm_0b10vGD7X4miPktDTFJ3FTgWd-Axj5cktjQxK5q-sVHwRSnfAtYiSw.png" group-title="BiH//BOSNIA AND HERZEGOVINA",FACE TV ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1691.ts
+#EXTINF:-1 timeshift="7" tvg-id="bn" tvg-name="BN ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIa-kZkPQbvOHNH4u8W3rA-ZZurUnmZz1AQf_OGr49uwW-Df5_vzKoo9iLHT4NRhH9I.png" group-title="BiH//BOSNIA AND HERZEGOVINA",BN ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/355.ts
+#EXTINF:-1 tvg-id="bn-sat" tvg-name="BN 2" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTctVpwkSpPCq927PY5uESJgpDE_mWrD-j4iArxFnegwZt.png" group-title="BiH//BOSNIA AND HERZEGOVINA",BN 2
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/220302.ts
+#EXTINF:-1 timeshift="7" tvg-id="o-kanal" tvg-name="O KANAL" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNA2zzJQGwyflMg4rWT7sBaBohI3LAWKCWFs8KchgnSzDUsZfko3P-ACFqHJr_FnhddY905TvMu1Fwof4yH_37MQ.png" group-title="BiH//BOSNIA AND HERZEGOVINA",O KANAL
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/353.ts
+#EXTINF:-1 tvg-id="atv" tvg-name="ALTERNATIVNA TV" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNVJix53ril0_EMpr_E7iIcrgVvmkKYI9v_4Pk0iJ5sEHEd9gWmvRzGiKL5nM1pYblyNTVxGRJ6Mw6T3w-yWqkPw.png" group-title="BiH//BOSNIA AND HERZEGOVINA",ALTERNATIVNA TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/362.ts
+#EXTINF:-1 tvg-id="kanal-3-prnjavor" tvg-name="K3 PRNJAVOR" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNG_t-VKg1c9hTgF7kim5vU7uFUk9t8G1HeqVY_dx6cPmHJpFgTGpB6Avw7co-V9Rqd5gDFiq9nSSJcS_awlVn4g.png" group-title="BiH//BOSNIA AND HERZEGOVINA",K3 PRNJAVOR
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/176927.ts
+#EXTINF:-1 tvg-id="RTV Sarajevo" tvg-name="TV SARAJEVO" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTckOhmqJgEl1Fau94HdmEUkkDBNMnL8eApnNzWhr8Su5A.png" group-title="BiH//BOSNIA AND HERZEGOVINA",TV SARAJEVO
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/363.ts
+#EXTINF:-1 tvg-id="televizija-alfa" tvg-name="ALFA TV SARAJEVO" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCxCq7e0kXPPFhu3eyM-ZCmqZ7bwEdGJBx7XTwX31TUt9Sz2UwRoZsoZZ8wLp8G962w.png" group-title="BiH//BOSNIA AND HERZEGOVINA",ALFA TV SARAJEVO
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/367.ts
+#EXTINF:-1 tvg-id="rtv-ze" tvg-name="RTV ZENICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQb-eBP0CpquxVKMhO_VZ8mBB9aDfvWEhnkrCQD33ChVwboZYwv&usqp=CAU" group-title="BiH//BOSNIA AND HERZEGOVINA",RTV ZENICA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/166936.ts
+#EXTINF:-1 tvg-id="rtv-vogosca" tvg-name="VOGOSCA TV" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwYMuyBLHxv-8Qn5Fr1dyUyu3pKvRi1Pr9f7IKZibIWIGbjhOWlNTSwZ701IcCv8F4.png" group-title="BiH//BOSNIA AND HERZEGOVINA",VOGOSCA TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/9865.ts
+#EXTINF:-1 tvg-id="rtvtk" tvg-name="RTV TK TUZLA" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcraiq0poO6jZrKBC5cx37TTVVOveocGZS6EhkXcZlFE4.png" group-title="BiH//BOSNIA AND HERZEGOVINA",RTV TK TUZLA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/6617.ts
+#EXTINF:-1 tvg-id="rtv-slon" tvg-name="TV SLON EXTRA" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcvNI1H5Y7lfphj3FBCuqkrM5aLkQRa7yxAVSwt0mS9FL.png" group-title="BiH//BOSNIA AND HERZEGOVINA",TV SLON EXTRA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/6611.ts
+#EXTINF:-1 tvg-id="rtv7" tvg-name="RTV7 TZ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcjjjTJjbFEyOc9yuCl02zrWWaUqjS6yp1u0g2Ag_SNbw.png" group-title="BiH//BOSNIA AND HERZEGOVINA",RTV7 TZ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227450.ts
+#EXTINF:-1 tvg-id="rtv-hit" tvg-name="RTV HIT BRCKO" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQN0Tvt-jqrNTHfmRlZDkqFdELF9yS-7DHipLGovk3GVqB4FiLnT8hTbLopyPOyAIkRnNlETCq6GckAcTjSL8-b5g.jpg" group-title="BiH//BOSNIA AND HERZEGOVINA",RTV HIT BRCKO
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/9867.ts
+#EXTINF:-1 tvg-id="b1-tv" tvg-name="B1-GRADACAC" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcomyPUbKFowBtkNQYVIPddqKJ1Xo-zmhGlQwMF66WC-p.png" group-title="BiH//BOSNIA AND HERZEGOVINA",B1-GRADACAC
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1677.ts
+#EXTINF:-1 tvg-id="tata-brada" tvg-name="TATABRADA TV - SREBRENIK" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIa3z1Bfa8fYChg0-kqiMQSVX4lIzutycJEHtw5_QHsgk2qzGrFkGx-R0c2BMnau_H8.png" group-title="BiH//BOSNIA AND HERZEGOVINA",TATABRADA TV - SREBRENIK
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/201616.ts
+#EXTINF:-1 tvg-id="otv-valentino" tvg-name="OTV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCxC5OZAneOKRqhPlCjSXeZyll-9xgYbyYcQxuLFsynciJhuJK5_7NuODDUkR-Q9bYw.png" group-title="BiH//BOSNIA AND HERZEGOVINA",OTV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/243740.ts
+#EXTINF:-1 tvg-id="posavska-televizija" tvg-name="POSAVINA TV" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNsyadCamyIqwXDv8YSGG-SMEuCWcNA-Z5jFc0Z7n6XFFTWyW7BCf6-GugW-gNP0r-7qfxYMjR_B2N2jPxf5MsWA.png" group-title="BiH//BOSNIA AND HERZEGOVINA",POSAVINA TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/697.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ZIVINICE" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwPh6bzcf_vXD09tnlFlNhXOlj7aBLZyGBs5jrl2cVqQbrkGnAIPy83QvUNbMk8_0XqbANfo0hT8IozOYUzxkKjOc8IieiJkCiLa0W7aXdi1lHwXnbOKrjASvo79PFCvT0Og2bqj67PsmAT-SF1vdFHq9Z3Gm3_ayROehIGLGA62w.png" group-title="BiH//BOSNIA AND HERZEGOVINA",TV ZIVINICE
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/220300.ts
+#EXTINF:-1 tvg-id="rtv-lukavac" tvg-name="RTV LUKAVAC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyE-xtHwQRqFL0-86vfn-9iemQFh4g_ap8TOLqsfvo8A&s" group-title="BiH//BOSNIA AND HERZEGOVINA",RTV LUKAVAC
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227449.ts
+#EXTINF:-1 tvg-id="neon-tv" tvg-name="NEON TV KALESIJA" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTctYpZYpqkNR-fmFFhWtG0huTnzYtgPVslDiQqY6gXM6IO2aCbhNuUk2HfVnWw4-UyQ.png" group-title="BiH//BOSNIA AND HERZEGOVINA",NEON TV KALESIJA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234090.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV BUGOJNO" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCxDlaGhY1k1a-Qhp8y_sMhK0IODlGmBnyoCLcT2_o7D6zCLzRloUOXwq0OlhWC0HLM.png" group-title="BiH//BOSNIA AND HERZEGOVINA",RTV BUGOJNO
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227451.ts
+#EXTINF:-1 tvg-id="super-tv" tvg-name="SUPER TV MEDIA ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCyB8c6R-Rp9QmoC2p5-q5x1I9m0RTWYZoR-1L_glCL2oPUuV3LaWUQ_an6RmK5GInM.png" group-title="BiH//BOSNIA AND HERZEGOVINA",SUPER TV MEDIA ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1676.ts
+#EXTINF:-1 tvg-id="rtv-usk" tvg-name="TV USK ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNwjWvUjorbKNYgnCNqMMo7BSJGaoBSFKmti7YypKKdrqsJlDSEUoCbONxPhD6_jhvffUZiXJRZynGSJtyzm0v4g.png" group-title="BiH//BOSNIA AND HERZEGOVINA",TV USK ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/370.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV SANA" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCykoln0zAkdeu8yN24gwCl95leyYdnBH2RHILcvafPg-Zr5Vq6wyMWUjGB7t9q4nusWWXmnqwZ_tnX_jP22eP8Ukzpn1iUz9nQpRlrtMItl2lX87x4H5L7JBWnCn5LSFVyW6we56T9rbtGI4VVenpeFM7qRmCMX4bENXHdvLKBlyJ9HDGmDI91XQ3EwioBUNRI.png" group-title="BiH//BOSNIA AND HERZEGOVINA",RTV SANA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/166937.ts
+#EXTINF:-1 tvg-id="rtv-cazin" tvg-name="RTV CAZIN" tvg-logo="https://img.sur.ly/favicons/r/rtvcazin.ba.ico" group-title="BiH//BOSNIA AND HERZEGOVINA",RTV CAZIN
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234018.ts
+#EXTINF:-1 tvg-id="rtrs-plus" tvg-name="RTRS PLUS" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcoFJiQNP_RDTyYNGE-LLHzAbgE7yzCUMT5WZ8fhVGQZg.png" group-title="BiH//BOSNIA AND HERZEGOVINA",RTRS PLUS
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234017.ts
+#EXTINF:-1 tvg-id="Izvorna TV" tvg-name="IZVORNA TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNlN8qLhi1Y2Pw8IIv-yR7mtDH7v5k7DYrt4p4k7WSFbHtgvSB0wXBTjiSIo-Ohh7FWbHpjIRpBV8-6ESeGayCxA.png" group-title="BiH//BOSNIA AND HERZEGOVINA",IZVORNA TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1685.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PODRINJE" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIanOmSFBd9EfJoZPUShtcgJgpcQR1CJGYrXauMXhbpXhk_FyY6NCra0JS40osv0zzg.png" group-title="BiH//BOSNIA AND HERZEGOVINA",TV PODRINJE
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/201798.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GLAS DRINE" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNzGs-qGt39wIUvFyeTT3zLssrllNwHTlP_mV9Fazk9lmaYLrwAwQ77Z8UZQHHjhcdBbP-lguvsiTRCBdYdp5tPg.png" group-title="BiH//BOSNIA AND HERZEGOVINA",TV GLAS DRINE
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/693.ts
+#EXTINF:-1 tvg-id="kanal-6" tvg-name="KANAL 6 TRAVNIK" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcuiWkTb7ft52DkbGmsamoGYLOJ3ac6RmI9h1A8b68yBl.png" group-title="BiH//BOSNIA AND HERZEGOVINA",KANAL 6 TRAVNIK
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/9866.ts
+#EXTINF:-1 tvg-id="ntv-ic" tvg-name="NTV KAKANJ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCzwHZgQgOvgecEiBxrZqCgHHsYo5wMWZ6lsCKyt8YfDGh5Opfk6WUUlFH0muuP36BA.png" group-title="BiH//BOSNIA AND HERZEGOVINA",NTV KAKANJ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/249199.ts
+#EXTINF:-1 tvg-id="" tvg-name="HEMA TV" tvg-logo="https://th.bing.com/th/id/R.300e32379490bdb6f2022460b08c0020?rik=mMeE9b3dn1Dq0Q&riu=http%3a%2f%2f2.bp.blogspot.com%2f-v3C0guY3aKA%2fUm7Mq07zF6I%2fAAAAAAAAASw%2ffQANOtrAVFc%2fs400%2fHema%2blogo.png&ehk=%2f4kimIXn%2fueehS%2b0pT1tkuK06Sq7cjHwEYOp3RRt4FU%3d&risl=&pid=ImgRaw&r=0" group-title="BiH//BOSNIA AND HERZEGOVINA",HEMA TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/201370.ts
+#EXTINF:-1 tvg-id="tv-visoko" tvg-name="VISOKO TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNaRwzY_zwHThJ34ba3h4pujjMrI7XOU2RcWgAZ7zir_I8nmvtVHpUM_Qy6EnzpPc4PHgVO1u-CzLcQKjAFMtXKA.png" group-title="BiH//BOSNIA AND HERZEGOVINA",VISOKO TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227281.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRVA HERCEGOVACKA" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNNecyS88zAEgRm83g4Tep7lSnRxwPyGF40XYA6J0Fn7AI3z0uxQ_ONtCFKnJZvNetgA8SeYr_MRz2T3Lua879pm6neFOWTvfwm1SISkh9lC0.png" group-title="BiH//BOSNIA AND HERZEGOVINA",PRVA HERCEGOVACKA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227666.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARY TV MEDJUGORJE" tvg-logo="http://tv.balkanci.net:8080/images/8jJWXVZuQJjDtfFeqUYiwtQAnkNutEHNzcGEcAOekEnokbrvpwBSzQ1Xnz3qT4saEBXQs2QYOnFS8GXNuj1IeKWoMuVS-g2TGTspjlAGzZJW1vBLJQbhG6JMRgYy4popPblyocOiBY69AHBGMA7VgdG9r2R7MEBFEPiWfMGkFL7PvVDyhdsLmaVzMKApLDbBmV_WVFq8Ge55xwlth0C5lA.jpg" group-title="BiH//BOSNIA AND HERZEGOVINA",MARY TV MEDJUGORJE
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/201365.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV JABLANICA" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwbZVDYPA3_Yo5oFKb7cZ6C88jTc_-F_qHKTGOHqSF1pc38gVTajNLjhGfUDp6rNsk.jpg" group-title="BiH//BOSNIA AND HERZEGOVINA",RTV JABLANICA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/220301.ts
+#EXTINF:-1 tvg-id="bir-tv" tvg-name="BIR TV" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcgEbmMEQxilhe5GwdtE66-4l7zKWuJj7sYgXcUPHLv_s.png" group-title="BiH//BOSNIA AND HERZEGOVINA",BIR TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/166122.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV JATA" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcmta3IpoFwNBVBnEBTfd2NE1tJdQPgcNPZt_Nwne1X3h.png" group-title="BiH//BOSNIA AND HERZEGOVINA",NTV JATA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/235246.ts
+#EXTINF:-1 tvg-id="smart-tv" tvg-name="SMART TV-TESANJ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcta8PoZ6UCFEWkQjFcBlrGu1bbeR1xUcT4KDQtgJ10PpRm3QJQ0vmCn9RcF5Qz25Gw.png" group-title="BiH//BOSNIA AND HERZEGOVINA",SMART TV-TESANJ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/235228.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV KRAJINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFVwzKWEfylcR5pDzhL53udNusWF2piYt4mrg5xiOslg&s" group-title="BiH//BOSNIA AND HERZEGOVINA",RTV KRAJINA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/244365.ts
+#EXTINF:-1 tvg-id="" tvg-name="HERCEG TV (TEST)" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCzfpmKSqUKjUz8YBWC39rS92rLinC_bJDE1M3XJfc3OqgHlOIKLsCwKseWMw866ONQ.jpg" group-title="BiH//BOSNIA AND HERZEGOVINA",HERCEG TV (TEST)
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/251657.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRO TV" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcg1_lCiptVvvnGdyNlaedfMUT37n5nG6E2SHa7V7bF-qJcMQwIdHvHrWDPOpGw2F0w.png" group-title="BiH//BOSNIA AND HERZEGOVINA",PRO TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/249139.ts
+#EXTINF:-1 tvg-id="televizija-5" tvg-name="TV 5" tvg-logo="http://tv.balkanci.net:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJJgn6txzKYZdxxJlLGrgzgsNHxLwz7xKT7o6buU8BW8s.png" group-title="BiH//BOSNIA AND HERZEGOVINA",TV 5
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/9864.ts
+#EXTINF:-1 tvg-id="mtv-igman" tvg-name="MTV IGMAN" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcnNGGdoUsEFb_LDxciSA3t_WJ75hzwbiRcwuVd1xhrjx.png" group-title="BiH//BOSNIA AND HERZEGOVINA",MTV IGMAN
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/358.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEKKA TV" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwYtZzuk-qWlZhYRGM2AnVq9WmNFYmmeMCWF_bH6PfwciO2QxnNBzWkiNfRae08rRo.png" group-title="BiH//BOSNIA AND HERZEGOVINA",MEKKA TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/371.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISLAM CHANNEL" tvg-logo="https://assets-global.website-files.com/603f858b79d25a14328c00e7/63504c1adca652ecb4e04d11_logo.png" group-title="BiH//BOSNIA AND HERZEGOVINA",ISLAM CHANNEL
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/235243.ts
+#EXTINF:-1 tvg-id="" tvg-name="* * * HRVATSKI KANALI  * * * *" tvg-logo="https://ak.picdn.net/shutterstock/videos/1039857233/thumb/1.jpg?ip=x480" group-title="HRVATSKA//CROATIA",* * * HRVATSKI KANALI  * * * *
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/524.ts
+#EXTINF:-1 timeshift="7" tvg-id="htv1" tvg-name="HRT 1 ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNfXwrhSNyV4USsVAvySYtIThENOBirpSdZCcVQgvhImDsA5_u4EARNOHb7UE_kvlt_VABRCSaCx9ottvdRiyV3Q.png" group-title="HRVATSKA//CROATIA",HRT 1 ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/532.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCxC_ichTpncXsFKf8DBGZLON6PuplJNnSF22vgvvRyk6Ji0kDIT-0tzoppGZ1V8mP8.png" group-title="HRVATSKA//CROATIA",HRT 1 ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234083.ts
+#EXTINF:-1 timeshift="7" tvg-id="htv2" tvg-name="HRT 2 ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQN7DXqjWF-wmQZaWgVowsWJLmWdf4Qc0RYgovL48Fpvf1pXDBymUrmvisD3EUgDfzB87nsW_gCJJ6d7es0sJ1iVg.png" group-title="HRVATSKA//CROATIA",HRT 2 ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/533.ts
+#EXTINF:-1 tvg-id="htv2" tvg-name="HRT 2 ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCxNfq6cWGlF3NDFDh5BiAlwlJ9VjHc2JlgLPEjgq70KysCgWjGktNWGTNnr6H0t2pc.png" group-title="HRVATSKA//CROATIA",HRT 2 ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234086.ts
+#EXTINF:-1 timeshift="7" tvg-id="htv3" tvg-name="HRT 3 ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNHr_16K-3rJ4GmiQaom-wsv53ijE3LlrBdTjtTKX9YuPnBat9hIy3-90oZLRD-UzcUVjHighob2Xn9J8tqFePXg.png" group-title="HRVATSKA//CROATIA",HRT 3 ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/534.ts
+#EXTINF:-1 tvg-id="htv4" tvg-name="HRT 4 ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQN7E9DfaBQKYkQCzYWmspMXgodhgC-FidjSiT2z2X-FuW42eoseCXZCzNM3dZSdMTz4yHdWlV-97F-2_s_zAZ5Aw.png" group-title="HRVATSKA//CROATIA",HRT 4 ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/535.ts
+#EXTINF:-1 tvg-id="htv5" tvg-name="HRT INT ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNNtYdkQ9fAhwrRwxZ-OifypFfr179SO8Ct19m1pPLMKtsDDO-wmObYKxOtejnu-Ahti2SPPIhKlf1hY5MnEheoQHjCNC-JxykPj6L9lhjAco.png" group-title="HRVATSKA//CROATIA",HRT INT ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/536.ts
+#EXTINF:-1 timeshift="7" tvg-id="nova" tvg-name="NOVA TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQN9xKqnmpSqreFRJlHSCGCGJQy4wlR0WRbR693Em1RuWTC7JdNpVMZLrIxHvHxnyNxQvI5BuZv4rNSlwRGtG8NpA.png" group-title="HRVATSKA//CROATIA",NOVA TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/526.ts
+#EXTINF:-1 tvg-id="nova" tvg-name="NOVA TV ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQN9xKqnmpSqreFRJlHSCGCGJQy4wlR0WRbR693Em1RuWTC7JdNpVMZLrIxHvHxnyNxQvI5BuZv4rNSlwRGtG8NpA.png" group-title="HRVATSKA//CROATIA",NOVA TV ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1696.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOVA PLUS ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCxOGZGQyaEdfnlIQhdVDLbBB1dWFBnmDw6xF2fjaGif8TEa83fbGOrqEatU563heTE.png" group-title="HRVATSKA//CROATIA",NOVA PLUS ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234079.ts
+#EXTINF:-1 timeshift="7" tvg-id="doma-tv" tvg-name="DOMA TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIY-jMcfAUfv0s50xJuYsZZpwqqENcpyfhyoW_mDLKkAbQ.png" group-title="HRVATSKA//CROATIA",DOMA TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/528.ts
+#EXTINF:-1 tvg-id="doma-tv" tvg-name="DOMA TV ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIY-jMcfAUfv0s50xJuYsZZpwqqENcpyfhyoW_mDLKkAbQ.png" group-title="HRVATSKA//CROATIA",DOMA TV ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1697.ts
+#EXTINF:-1 timeshift="7" tvg-id="rtl" tvg-name="RTL ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQN9LlKYWAnpc-X95KM_ButRjQq40oAQLhofo3FiOWEWvOA-3hVIUnp7fWId_e6t0Q4XbWMz6mnAqechzl6WiDSaQ.png" group-title="HRVATSKA//CROATIA",RTL ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/529.ts
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCz_jdgmv2eHRa6jz4lm2-e8VgVzwzNAPX5zSZSC8eDh6ty_x5RrnoABGZr6CzZ5fsk.png" group-title="HRVATSKA//CROATIA",RTL ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234085.ts
+#EXTINF:-1 timeshift="7" tvg-id="rtl2" tvg-name="RTL 2 ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNfFER06zhj5skNo5wiss2764tyZVGfLsBo4aXcYRQicEOEySxoDxhIQLc00JwIztaTSJuIw7do436O4tuV7TBCw.png" group-title="HRVATSKA//CROATIA",RTL 2 ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/530.ts
+#EXTINF:-1 tvg-id="rtl2" tvg-name="RTL 2 ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCxY8YWN3UMuUjw87Jjo-6xz1AZ7OjrVh3WSJwMHLVXrxfJemGUdRVXnGkzZX5Z3Zp0.png" group-title="HRVATSKA//CROATIA",RTL 2 ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234080.ts
+#EXTINF:-1 timeshift="7" tvg-id="rtl-crime" tvg-name="RTL CRIME" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQN1IC0iimd83Avn3pU_6_9dz3JVaFgQT6k8JESKbwc0Y5i4mpqVhtMy1ZIk7QEF4IK4oBHM2qysJD3MyJR3f0hqA.png" group-title="HRVATSKA//CROATIA",RTL CRIME
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/520.ts
+#EXTINF:-1 timeshift="7" tvg-id="rtl-passion" tvg-name="RTL PASSION" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNER92Edwqi6obAVS_SQoxeT4oYAnH4zRc0H0z1aHaoi2hPPbalEiNarRwU86MtZhVoC1jKdlteqBtaQnv0Xl9qg.png" group-title="HRVATSKA//CROATIA",RTL PASSION
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/521.ts
+#EXTINF:-1 tvg-id="rtl-living" tvg-name="RTL LIVING ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNUsWQWW_jw6y6LC1_Eygo0Dk8b5oRjs_GcqJbj-xLFPuyfwcnHhzLm8VPi7s7si90ekeriZiFPjKIhsq6pYQkIA.png" group-title="HRVATSKA//CROATIA",RTL LIVING ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/531.ts
+#EXTINF:-1 tvg-id="rtl-adria" tvg-name="RTL ADRIA ᴴᴰ" tvg-logo="https://ssc.a1.hr/documents/10307706/1415022958/rtl_adria.png/0e619670-6541-ef8b-e842-7fae7111ecb3?t=1617878765138" group-title="HRVATSKA//CROATIA",RTL ADRIA ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234005.ts
+#EXTINF:-1 tvg-id="rtl-croworld" tvg-name="RTL CROATIA WORLD ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RTL_Croatia_World.svg/revision/latest/scale-to-width-down/250?cb=20210511105344" group-title="HRVATSKA//CROATIA",RTL CROATIA WORLD ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/172767.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL PLUS ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/5kU32ZC0IER8GXh_v115_YZHkzEatFWoRPZW3LxMXC1bkqyyQrR-gqjm5Wusq6vWiUs" group-title="HRVATSKA//CROATIA",RTL PLUS ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/229154.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTL PLAY PREMIUM ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/8jJWXVZuQJjDtfFeqUYiwtQAnkNutEHNzcGEcAOekEnZjepmehqbsuxeservCW3LhfnPR3VZWaoKzRnlxhDiitSVl5uA21u2u4n293hMzd8yGs0JdtZMYcYE_aDvdAx8XkUM3ULYLwHqInA01cGY9R_V7oAtqr74s_5NVto1Y122Z2hsPjZi9EoP0UnkaAZTWLyW7GYemGvw1cZGEIJ_RWet7nZSPyfUYUTxFSFpvQk.png" group-title="HRVATSKA//CROATIA",RTL PLAY PREMIUM ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/229138.ts
+#EXTINF:-1 tvg-id="nova-plus-family" tvg-name="NOVA FAMILY ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCw6gNkfZCljWJ9qpYVOfwa0pNKOMHhxNR3wyaZtimmX1iRBBwyz5WfCWaAHAkPiHBRzD9OgeVY3IjyWF032bXJJdqHuSXkVulefZEQo84IZiKFQ1Hss7IZSXNefvNPofLNz5L3xcA7eBUgjXDh8_E4izaF3dsxUKqzRhmHfdbG55g.jpg" group-title="HRVATSKA//CROATIA",NOVA FAMILY ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227088.ts
+#EXTINF:-1 tvg-id="nova-world" tvg-name="NOVA WORLD ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNTwBVqhczEXdRQoFqExVY8sKbjY44yRHL53X0cJqCZLuRNwC1jsiIJoh8YcmRhlZB8jJHhyprJZPsnxiuSgzbVA.png" group-title="HRVATSKA//CROATIA",NOVA WORLD ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227788.ts
+#EXTINF:-1 tvg-id="nova-plus-cinema" tvg-name="NOVA CINEMA ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTchi2SEP9wI8dwKkv8Ks5qKuQwwK7k0Z2URL0XPvCOmeC.png" group-title="HRVATSKA//CROATIA",NOVA CINEMA ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234010.ts
+#EXTINF:-1 tvg-id="net" tvg-name="MREZA ZAGREB ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCxYIHisOpNlR-X4Q02ghrL0Z_r8B2qSi0_N-SP78bujlYIFnKsxEoUlN1fYplMo5rGigu_X0tgvsAEMGzWJ60gNDfz5COifedTp6EvbNmo7cwmiNTMsVIlRlJ-y3LYKuKgKykNtlseuA8Gy2a5BpKP1UVeKhPIqbn7h_ff_UsvtVITFY-FSKEIv1BVhMpTYOi0.png" group-title="HRVATSKA//CROATIA",MREZA ZAGREB ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/200487.ts
+#EXTINF:-1 tvg-id="z1" tvg-name="Z 1 ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCzCtF8teoEC24OPeAxgcAfkNQ0zu2-osqcwsshKwn0_2F883bBACo19ZEWtKiRLxZQ.png" group-title="HRVATSKA//CROATIA",Z 1 ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/537.ts
+#EXTINF:-1 tvg-id="ostv" tvg-name="OSJECKA TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQN6ojdi_j6cwHu1PC6O5B50LFSC6Xb396jG6PD3Sf12cJcPEaX1xKPT1V59Th_aSA7tK3LpmHSMlKUnpRitmaMBQ.png" group-title="HRVATSKA//CROATIA",OSJECKA TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/538.ts
+#EXTINF:-1 tvg-id="vinkovacka-tv" tvg-name="PLAVA VINKOVACKA TV" tvg-logo="http://logos.skini.link/logo/plava%20tv.jpg.crdownload" group-title="HRVATSKA//CROATIA",PLAVA VINKOVACKA TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/9466.ts
+#EXTINF:-1 tvg-id="slavonska-tv" tvg-name="SBTV  ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNJkmuW9o_Q3zEBs0uDhRzYpjUpEUDf73YmNDr-gfNhXXUnCHhdJcjYAJHgkFXHdcNeXlaOgI3GMNLZVxxbErfQA.jpg" group-title="HRVATSKA//CROATIA",SBTV  ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/200485.ts
+#EXTINF:-1 tvg-id="slavonska-tv" tvg-name="SLAVONSKA TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNOWI_oWq1i7W8SIsm37Pars5Jsudl1xrXig-1HMbR8Vnv2Gbr6Wxn5teu78K9r9MBdpLda84zk6tbTpswpbEBHg.png" group-title="HRVATSKA//CROATIA",SLAVONSKA TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/540.ts
+#EXTINF:-1 tvg-id="varazdinska-tv" tvg-name="VTV VARAZDIN" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCz070gI8ITPUAJesyKyMBXUEAnjW10XsWVD0jzKjLguH_a81iC_fuu2wGS7ffgWtoXhvh7dFc73FOUj1vfN29PQFHETzPfMz92iwB99idloegblQfhe2ir7aNU-L2pocgA.png" group-title="HRVATSKA//CROATIA",VTV VARAZDIN
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/9465.ts
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-name="TV BANOVINA" tvg-logo="http://tv.balkanci.net:8080/images/8jJWXVZuQJjDtfFeqUYiwtQAnkNutEHNzcGEcAOekEnokbrvpwBSzQ1Xnz3qT4saEBXQs2QYOnFS8GXNuj1IeKWoMuVS-g2TGTspjlAGzZJW1vBLJQbhG6JMRgYy4popw1QOZHAWldEuH_o0GjwXazuxhnFutv9_3FNrHTow_1iltXa0VqDcUxfLSfr2QiSTkEw4dsmnt5G62g-wxNgwCQ.png" group-title="HRVATSKA//CROATIA",TV BANOVINA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/542.ts
+#EXTINF:-1 tvg-id="jabukatv" tvg-name="OTv" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCxa9-RyrNnC-_LzIjtLVcVHJPHIXw4I7Z02UYVRel_iBhaMBSLVSdpGTDyBNLDyY7wne5T63zK2VohbW5JMmppnsTdYqIfYr5bubzrRSmFcVHh5EC1KWusVMMJiprSTkzxnSo0LqwSJOxIURJ08T6HVPlPd7fc969DSilIIe4oBkQ.png" group-title="HRVATSKA//CROATIA",OTv
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/9443.ts
+#EXTINF:-1 tvg-id="tv-jadran" tvg-name="JADRAN TV" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIYxHELOm4iBBYwxQBzxA-wn3zEhy8AHofNCpucfNJck6g.png" group-title="HRVATSKA//CROATIA",JADRAN TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/9444.ts
+#EXTINF:-1 tvg-id="kanal-ri" tvg-name="KANAL RI" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCz155-YJhIRxYm0urGtyXm-c-kXyTs3x7k4toyWh6x1TJw7eHXpJtCBLWfJNXtLIeNeFjAcRFvAaqtUecwfCRl3l5k4CSzC7h35lWRvIptxbkizFP3uQWHEwDC-gSI-UcmbIa_LkVttt5Ulzv5HkTIU-k6ERt3rQvSLpT60JfvO_w.png" group-title="HRVATSKA//CROATIA",KANAL RI
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/9467.ts
+#EXTINF:-1 tvg-id="libertas-tv" tvg-name="LIBERTAS TV ᴴᴰ" tvg-logo="https://play-lh.googleusercontent.com/MYXa_6GGvIwOF2BXKbUxkpp7pygqnpBz1BbXAPJxQamWPAmcup5iFHmaIFZOtuprhC8" group-title="HRVATSKA//CROATIA",LIBERTAS TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227280.ts
+#EXTINF:-1 tvg-id="laudato-tv" tvg-name="LAUDATO TV" tvg-logo="http://tv.balkanci.net:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWU3L9je_bF9PexbBduigLe-stJOZ_zG7TF4xKB5AmHggQ.png" group-title="HRVATSKA//CROATIA",LAUDATO TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/9442.ts
+#EXTINF:-1 tvg-id="Maria Vision Međugorje_max" tvg-name="MARY TV MEDJUGORJE" tvg-logo="http://cms.optimalteve.com:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJy-hxZn_m-cCIwPjmmDPTsIGOULkmxX42VK9vo08vAC8.jpg" group-title="HRVATSKA//CROATIA",MARY TV MEDJUGORJE
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/201364.ts
+#EXTINF:-1 tvg-id="tv-nova" tvg-name="TV NOVA PULA" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCw_J0lGDHSOoPVswIn3d_hGsG8C4u5gpuFymP13d1D9-ue4bWunItwL6ctNKR-kH4Q.png" group-title="HRVATSKA//CROATIA",TV NOVA PULA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/249114.ts
+#EXTINF:-1 tvg-id="zdrava-televizija" tvg-name="ZDRAVA TV" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwQjkLfAkeYbOrlXU57yQ9648mKUOuRbLost9UD4JgBb1CbJ2e7d1vuyG7NKwlVtXZTxbILxtlrA-bi1vWp3oB3Ohr9HHI7aJqTRDxa94uX1HNaRXQQc7ito6bfIjv2FpMVrzc4CMw7EVq3cdZmByJ2V81pyETKlgl1MlS34JutxKAxvR3ZgKykOp_5CsdLXE8.png" group-title="HRVATSKA//CROATIA",ZDRAVA TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/9468.ts
+#EXTINF:-1 tvg-id="tv-dalmacija" tvg-name="TV DALMACIJA" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqCzTKubpv_0090S9vmSOlfigfxx4TE7rRhwadd8E1HHNhW9bUGKfzwH3iK4EN6Kyg.png" group-title="HRVATSKA//CROATIA",TV DALMACIJA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/249115.ts
+#EXTINF:-1 tvg-id="" tvg-name="TREND TV" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCx1O9gCG35fu6-Vh9_i2drF4hbtxB5YbHJm0FFdMipCLtBcg2usvYwHMHoYdbO_IsQ.jpg" group-title="HRVATSKA//CROATIA",TREND TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/251659.ts
+#EXTINF:-1 tvg-id="" tvg-name="* * * * SRPSKI KANALI * * * *" tvg-logo="http://tv.balkanci.net:8080/images/644b212541537cf91ba206790583a5fe.jpg" group-title="SRBIJA//SERBIA",* * * * SRPSKI KANALI * * * *
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/909.ts
+#EXTINF:-1 timeshift="7" tvg-id="rts1" tvg-name="RTS 1 ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIbtw6hOJMLzu9mc5-dLXSre-MMba58i0pWuvrp6F0tz4Q.png" group-title="SRBIJA//SERBIA",RTS 1 ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/911.ts
+#EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIbtw6hOJMLzu9mc5-dLXSre-MMba58i0pWuvrp6F0tz4Q.png" group-title="SRBIJA//SERBIA",RTS 1 ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/229832.ts
+#EXTINF:-1 timeshift="7" tvg-id="rts2" tvg-name="RTS 2 ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkmzB2VHE8OypHrdmO_xtoTdS26vtMXcQ3cPpxc7Um6K-Cva4DoX2slh2D1iOTRxewM-qQPXsJWTzv6hAlPonnrZI.png" group-title="SRBIJA//SERBIA",RTS 2 ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/912.ts
+#EXTINF:-1 tvg-id="rts2" tvg-name="RTS 2 ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkmzB2VHE8OypHrdmO_xtoTdS26vtMXcQ3cPpxc7Um6K-Cva4DoX2slh2D1iOTRxewM-qQPXsJWTzv6hAlPonnrZI.png" group-title="SRBIJA//SERBIA",RTS 2 ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1703.ts
+#EXTINF:-1 tvg-id="rts-digital" tvg-name="RTS 3 ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJMa9IfCH9TS_kLUEb4uIritcXnhQ2a6QCq61GnCnR8v0ZXtFtdU8P2o9mYKiD440vpMDUkGsvrOmzWr9s4R6YFg.png" group-title="SRBIJA//SERBIA",RTS 3 ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/913.ts
+#EXTINF:-1 timeshift="7" tvg-id="prva-srpska-tv" tvg-name="PRVA TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm4-NeSFyc2aW6Vm6snuh4JydRKWxmEyT-G_vROP-kBFrsHg1bnQhz-sPSjPvi6dRMc3hKyNdq0qsSbNm9LfpP8A.png" group-title="SRBIJA//SERBIA",PRVA TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/914.ts
+#EXTINF:-1 tvg-id="prva-srpska-tv" tvg-name="PRVA TV ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm4-NeSFyc2aW6Vm6snuh4JydRKWxmEyT-G_vROP-kBFrsHg1bnQhz-sPSjPvi6dRMc3hKyNdq0qsSbNm9LfpP8A.png" group-title="SRBIJA//SERBIA",PRVA TV ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1704.ts
+#EXTINF:-1 tvg-id="prva-plus" tvg-name="PRVA PLUS ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwN2V7H3_Kc1vORcZpC9X6jReeNDzVgcJNf-EiXVYeKBXg88Q-xEsT6GJkHlVTtCHob_lkWMuqInqpphxLfnymLtriUfA3IJjdi1NXwi_E1PK-XL-218yoZVwChc1q2tT9ICBJbwgHvsnP6O5s3G15nonv0s6HrwR4bLoaXeySRoA.png" group-title="SRBIJA//SERBIA",PRVA PLUS ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/915.ts
+#EXTINF:-1 timeshift="7" tvg-id="happytv" tvg-name="HAPPY TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJKtwaaDyMpfvnOWcWacqYfeQo22df4g4nB1RMFiZja7Q4F6fNPbeCv6r55tVkFSR5GsbuKt9NfQDsLgW0h62UXA.png" group-title="SRBIJA//SERBIA",HAPPY TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/922.ts
+#EXTINF:-1 tvg-id="happytv" tvg-name="HAPPY TV ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJKtwaaDyMpfvnOWcWacqYfeQo22df4g4nB1RMFiZja7Q4F6fNPbeCv6r55tVkFSR5GsbuKt9NfQDsLgW0h62UXA.png" group-title="SRBIJA//SERBIA",HAPPY TV ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/310192.ts
+#EXTINF:-1 tvg-id="moj-happy-zivot" tvg-name="HAPPY ZIVOT ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCzatyQMsGxBL_Bj1L_QXng_h-KGah0mTM62EBPg8QA1hmsYKfI8o4knshfTZm7wvJI.png" group-title="SRBIJA//SERBIA",HAPPY ZIVOT ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/251889.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAPPY ZEMLJA ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwlrwOGkk0Y2Nm2mTI2FNrPYsu8yeYFtQAA5wpj5Gsgwyl8i3Mmv3WzpAYu2T1KcJg.png" group-title="SRBIJA//SERBIA",HAPPY ZEMLJA ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/251890.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAPPY MUZIKA" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCxF7sNOoWSFyFSjawu2Thd5SIwZNAhM_s8iWjs7DDByG6jX7RxfYj5IXtFx2KRVcIA.png" group-title="SRBIJA//SERBIA",HAPPY MUZIKA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/254733.ts
+#EXTINF:-1 timeshift="7" tvg-id="B92.rs" tvg-name="B92 TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQN6AbmRJQXycR9m4L0-b5aP5chkUUZ7DcIE0JwiFFfb4gwDGx1L7yLiyzFXyS6svemHiGgGPfWrxz8IqjQgB8mHA.png" group-title="SRBIJA//SERBIA",B92 TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/920.ts
+#EXTINF:-1 timeshift="7" tvg-id="nova-s" tvg-name="NOVA S ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwN2V7H3_Kc1vORcZpC9X6jReeNDzVgcJNf-EiXVYeKBaTuBo_mKe_l6vFf-uOCBA66p6i2hR45O0Q-rDSiW8NxppUEz5Hv1UCDQW1J23Y6JNHdosdYWOzYJCwYNmsHoiYSk51KHMEH4XxeK9sGg08ZC4bVvKEWfDeNFjIHx7Nd4Q.png" group-title="SRBIJA//SERBIA",NOVA S ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/921.ts
+#EXTINF:-1 tvg-id="nova-s" tvg-name="NOVA S ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwN2V7H3_Kc1vORcZpC9X6jReeNDzVgcJNf-EiXVYeKBaTuBo_mKe_l6vFf-uOCBA66p6i2hR45O0Q-rDSiW8NxppUEz5Hv1UCDQW1J23Y6JNHdosdYWOzYJCwYNmsHoiYSk51KHMEH4XxeK9sGg08ZC4bVvKEWfDeNFjIHx7Nd4Q.png" group-title="SRBIJA//SERBIA",NOVA S ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1707.ts
+#EXTINF:-1 tvg-id="" tvg-name="YU PLANET" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIak_QsW6PGgGF6B-s6DsA-lhVvHVWsERTJ93f-i99lcaAS7dS2Lcyu95z3izqSCeR4.png" group-title="SRBIJA//SERBIA",YU PLANET
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1902.ts
+#EXTINF:-1 tvg-id="rts-drama" tvg-name="RTS DRAMA ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/ow7FSi1DOiTj1SYj0Di0n1K9sN7j0Y5HkfmQ54b1UOBsDH6L0bR7794HaGEROHbJNrCy39B5k7RK7j9lTU6Pfg.png" group-title="SRBIJA//SERBIA",RTS DRAMA ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1912.ts
+#EXTINF:-1 tvg-id="rts-zivot" tvg-name="RTS ZIVOT ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm0CvDCrQM0tEP3VracfE481VQAQIzTKNVFPAmdOOaWZrzqmDdql18CBwfG9fr6NxlgI0X3LGfgrvmW0aG-B7ik8.png" group-title="SRBIJA//SERBIA",RTS ZIVOT ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/10197.ts
+#EXTINF:-1 tvg-id="rts-trezor" tvg-name="RTS TREZOR ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm5ALyY9ZyuHrJ9dkJSLaw2oc109wqM7ZeqpgOz9XZT_jOVgxCZmoPzgEVanmrXXiEZjM0PFzrPumn6RNkJ3eQEE.png" group-title="SRBIJA//SERBIA",RTS TREZOR ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/10196.ts
+#EXTINF:-1 tvg-id="rts-sat" tvg-name="RTS SVET ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJMa9IfCH9TS_kLUEb4uIrihxf-_j2KGpdZ2wPfK2wQLRF0R6S9lkjrBQdlfo7NC1kfntAkZ1UY1J9D2ZUoabGXw.png" group-title="SRBIJA//SERBIA",RTS SVET ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/10198.ts
+#EXTINF:-1 tvg-id="rts-nauka" tvg-name="RTS NAUKA ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJMa9IfCH9TS_kLUEb4uIrijhVs06MD42MChkOcR1SD_Sva8KET3Ra_2TIJTV04keu1Lc608YmFv_7IafduTd3Jw.png" group-title="SRBIJA//SERBIA",RTS NAUKA ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227658.ts
+#EXTINF:-1 tvg-id="rts-poletarac" tvg-name="RTS POLETARAC ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJMa9IfCH9TS_kLUEb4uIrig-euZCKgvDXBv9jxiPB2CpZlVDga0XNFVtfyEwvbHPf3UR48T4XUJ3tKpdSl5m_JTsV78VYN--jFaxYnYQW6MU.png" group-title="SRBIJA//SERBIA",RTS POLETARAC ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/233672.ts
+#EXTINF:-1 tvg-id="rts-kolo" tvg-name="RTS KOLO ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm2KjUcEh5QCVp-ZJ6rT0dQ72Y_V1kdPW7s9Mr8bx3pbLwowA5PcX-plTWiBAIYVIpD1ofTKcxuV2zDF8wuvx83g.png" group-title="SRBIJA//SERBIA",RTS KOLO ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1915.ts
+#EXTINF:-1 tvg-id="rts-muzika" tvg-name="RTS MUZIKA ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm5vbBXBzUrBewAUFtBZfTOmeNNTTX9YV3JfPh5M8f_jZ7fQEP59z-DxeIWFgEADJIDH4iW21VMiLz08swjcKlrQ.png" group-title="SRBIJA//SERBIA",RTS MUZIKA ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227663.ts
+#EXTINF:-1 tvg-id="rts-klasika" tvg-name="RTS KLASIKA ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJMa9IfCH9TS_kLUEb4uIrinyIo9w9eni55Pd8p5NzFxcvI9r_6gzbtHR-aJZLvubMZzPvBGM4KtojM90KP0sCpRx_3xMpg3AyCBtnA9lghW4.png" group-title="SRBIJA//SERBIA",RTS KLASIKA ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227657.ts
+#EXTINF:-1 timeshift="7" tvg-id="prva-max" tvg-name="PRVA MAX ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIbHdcSluO94-mTLqnaNXH1-l7Ee5k8zlD5P2yDV9e_AKw.png" group-title="SRBIJA//SERBIA",PRVA MAX ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/917.ts
+#EXTINF:-1 tvg-id="prva-world" tvg-name="PRVA WORLD ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm-BAA47s9WdspsSInsQyiUfGCBWb5xHa5BMFHfgnOKXLhRJ1-_rmmJHofAZSciXp-u-9w4WPQ6ERVU0ceqUykvU.png" group-title="SRBIJA//SERBIA",PRVA WORLD ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/916.ts
+#EXTINF:-1 timeshift="7" tvg-id="prva-kick" tvg-name="PRVA KICK ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIYjuktdAS0fYF2i8URqSfKdbZFcXmRjBNe4bx4WqtwaTg.png" group-title="SRBIJA//SERBIA",PRVA KICK ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/918.ts
+#EXTINF:-1 timeshift="7" tvg-id="prva-life" tvg-name="PRVA LIFE ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcs6uQp0sn0kC31pFugNPkdS6i6t16ZCK-9PMXQu7E0bg.png" group-title="SRBIJA//SERBIA",PRVA LIFE ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227665.ts
+#EXTINF:-1 tvg-id="prva-files" tvg-name="PRVA FILES ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcs6uQp0sn0kC31pFugNPkdTPULI9AAW9bdEtd3OSAHzI.png" group-title="SRBIJA//SERBIA",PRVA FILES ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227283.ts
+#EXTINF:-1 tvg-id="Hype TV" tvg-name="HYPE TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwFDfrxdUshVsCQoXLRoEdwEONNgnLvfpDAKGzhq26yBFReM5oyaflg-nvb0vIfTBA.png" group-title="SRBIJA//SERBIA",HYPE TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/254634.ts
+#EXTINF:-1 tvg-id="Hype TV 2 HD" tvg-name="HYPE TV 2 ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/284390a3b478254c4b61b09d2193b43d.png" group-title="SRBIJA//SERBIA",HYPE TV 2 ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/254635.ts
+#EXTINF:-1 tvg-id="k1-tv" tvg-name="K1 TV ᴴᴰ" tvg-logo="https://th.bing.com/th/id/OIP.uAtCAwv5hwWAUGgtgfzD0QHaHa?w=178&h=180&c=7&r=0&o=5&pid=1.7" group-title="SRBIJA//SERBIA",K1 TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/213755.ts
+#EXTINF:-1 tvg-id="htv1" tvg-name="BALKAN TRIP ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJNplniA-ckKpaiaqcEgWqXPlBoZ7dXmreELf361GaAr06VLlwXFIY2VA2M5I6V81jp4KftlIXdXY9tUibWRMTUw.png" group-title="SRBIJA//SERBIA",BALKAN TRIP ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/228690.ts
+#EXTINF:-1 tvg-id="kurir-tv" tvg-name="KURIR TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJyuazLYBHBf1wvI4KGK91QlP-YCeaP8cBcH9jBK0Hj8l9fwEQM0uId6QIgleLDk_bOk9PZfPynwKfc7poC8oByQ.png" group-title="SRBIJA//SERBIA",KURIR TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/201366.ts
+#EXTINF:-1 tvg-id="nova-series" tvg-name="NOVA SERIES ᴴᴰ (TEST)" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQN9xKqnmpSqreFRJlHSCGCGJQy4wlR0WRbR693Em1RuWTC7JdNpVMZLrIxHvHxnyNxQvI5BuZv4rNSlwRGtG8NpA.png" group-title="SRBIJA//SERBIA",NOVA SERIES ᴴᴰ (TEST)
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234246.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV VOJVODINA 1" tvg-logo="http://tv.balkanci.net:8080/images/ow7FSi1DOiTj1SYj0Di0n1K9sN7j0Y5HkfmQ54b1UOACUKUqF3Z7KckWYlgIjeMqTU5AYC3MPg4nfkie3_qetA.png" group-title="SRBIJA//SERBIA",RTV VOJVODINA 1
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/252955.ts
+#EXTINF:-1 tvg-id="vojvodina-2" tvg-name="RTV VOJVODINA 2" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcjjjTJjbFEyOc9yuCl02zrW3Naw02TDKKy2jiTPkH8GISPQx1itTfe27qQVLpHgwqw.png" group-title="SRBIJA//SERBIA",RTV VOJVODINA 2
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/930.ts
+#EXTINF:-1 tvg-id="Sandzak TV" tvg-name="SANDZAK TV" tvg-logo="http://tv.balkanci.net:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJKtwaaDyMpfvnOWcWacqYfb4VJ11Y7Gd4nj5ZfZT4QK5LnHD0oeVYR1_-TsEV6T_0THQgnqO84Cg4ng-OdUePCA.png" group-title="SRBIJA//SERBIA",SANDZAK TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/925.ts
+#EXTINF:-1 tvg-id="Pink Show (SR)" tvg-name="PESTER TV" tvg-logo="http://logos.skini.link/logo/pester%20tv.jpg.crdownload" group-title="SRBIJA//SERBIA",PESTER TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227455.ts
+#EXTINF:-1 tvg-id="novi-pazar" tvg-name="RTV NOVI PAZAR ᴴᴰ" tvg-logo="https://th.bing.com/th/id/OIP.Ul1K9hBJ7yMUAXbpK5ByBwHaHa?w=169&h=180&c=7&r=0&o=5&pid=1.7" group-title="SRBIJA//SERBIA",RTV NOVI PAZAR ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/924.ts
+#EXTINF:-1 tvg-id="TV BOR (SN)" tvg-name="RTV BOR ᴴᴰ" tvg-logo="https://seeklogo.com/images/R/RTV_Bor-logo-1612169FF6-seeklogo.com.gif" group-title="SRBIJA//SERBIA",RTV BOR ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227459.ts
+#EXTINF:-1 tvg-id="studio-b-yu" tvg-name="STUDIO B ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm_10uSgdFb20O064yTBHJ17F7ShQBjzTwgKYbgc1mFgmAN55uhs5okYWA_PsDWNI7gCCzwL9sA1omxBJ0WAO-G4.png" group-title="SRBIJA//SERBIA",STUDIO B ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234082.ts
+#EXTINF:-1 tvg-id="kcn1" tvg-name="KCN 1 KOPERNIKUS" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm76Z-tYxyv4nEeaeJedSQIU5O2zeVYRfFdMSj3QvlSMK5cSPLmhrtUcQvR3C6qnb74fEvQmr-lwYla2r5ltw5ryl47tPLqD1o3iqh1CITwS5gTcFViAOPo8uz0oQDZH3gQ.png" group-title="SRBIJA//SERBIA",KCN 1 KOPERNIKUS
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/713.ts
+#EXTINF:-1 tvg-id="Palma plus (SR)" tvg-name="PALMA PLUS JAGODINA" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm2M8PkDN3S_l1pOqhd7CLtWQLgB8iRTcS_a87w0otbUGNV6HKlQa35BAF5KXoF17fwA_4iFIK4rJEZdx2hxQQ6Q.png" group-title="SRBIJA//SERBIA",PALMA PLUS JAGODINA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/931.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ISTOK 1" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-O1bpF8fLshDKBtJu7BqAQhBlrHqci-CjY0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="SRBIJA//SERBIA",TV ISTOK 1
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/65697.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ISTOK 2" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSybeSR_MTX2E0YUAB7KKwIg5Efn6rIIkDbXqMe=s900-c-k-c0x00ffffff-no-rj" group-title="SRBIJA//SERBIA",TV ISTOK 2
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234088.ts
+#EXTINF:-1 tvg-id="TV Leskovac" tvg-name="LESKOVAC" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJHQncRr3d9zXL9CvUrVct4QEkcbOeJ2rZCH5PsMzxuU8l5_s5xpthTTp8qga4w5DH73UaB1N2pM3ISAfXRWHp1v0woHiRfoNhExF_ADhS1fA.png" group-title="SRBIJA//SERBIA",LESKOVAC
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/228327.ts
+#EXTINF:-1 tvg-id="" tvg-name="AGRO TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCyn58V1IMITeRKxnX9THey7QuKCTdulUkzg8IOR2u9ZLIaRgMqjb3Gc5V7Iv8aRga4.png" group-title="SRBIJA//SERBIA",AGRO TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/254806.ts
+#EXTINF:-1 tvg-id="belle-amie" tvg-name="BELLE AMIE ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm__-Svn2g97JfjbtKgcIfFxgESDgJi5vfJ2Z3Q6OakSJfkUZBTAPe53xC8axmbb1dYA1_huDhNfrnr6tFWF1oGs.png" group-title="SRBIJA//SERBIA",BELLE AMIE ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234019.ts
+#EXTINF:-1 tvg-id="alternativnatv.ba" tvg-name="BLIC TV" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCyAUc7ojnY41KZhOD9EzsJPeUqKawjHaFt-Kv-aiTDWbpODFDdCxIPyfisCrtiTb0U.png" group-title="SRBIJA//SERBIA",BLIC TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234077.ts
+#EXTINF:-1 tvg-id="TV Jefimija" tvg-name="JEFIMIJA TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJHQncRr3d9zXL9CvUrVct4bzAWhhahmAniwm2Qwh6jjYYeSz_YDi5JN4VhkjLoztv4AtKwbj98QbbDv_baDbnjmYF5DTifkFy_H34hy9YHQA.png" group-title="SRBIJA//SERBIA",JEFIMIJA TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/201368.ts
+#EXTINF:-1 tvg-id="UNA TV" tvg-name="UNA TV ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwKVNGnI2hw7zx3SIsyAe-cwrDtMCPURe5CRUHBs8bj_oc8O5BUFWgC-R656PiNi2BPJAAEtNXkIsafPmSyBjIlBQWn_4lHHTnI3mKZjrwEzQ.png" group-title="SRBIJA//SERBIA",UNA TV ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/227911.ts
+#EXTINF:-1 tvg-id="TV Hram" tvg-name="HRAM" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm2dzTeZfDpMqpBlhrX1gpqs8tqXg-_1_t4jH3ZM1WglyhQLHvwhpDiXxvt2JzDY7SA5KF-CYKPAfmry3Vob4XMo.png" group-title="SRBIJA//SERBIA",HRAM
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/10195.ts
+#EXTINF:-1 tvg-id="TV KRALJEVO (SN)" tvg-name="TV KRALJEVO ᴴᴰ" tvg-logo="https://th.bing.com/th/id/OIP.Ol8pQj1TQmeGcY1_2DEpsgAAAA?w=255&h=162&c=7&r=0&o=5&pid=1.7" group-title="SRBIJA//SERBIA",TV KRALJEVO ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/201382.ts
+#EXTINF:-1 tvg-id="TV Kruševac" tvg-name="RTV KRUSEVAC" tvg-logo="https://th.bing.com/th/id/OIP.q0UDNq71ldA-u1_NOchnUQAAAA?w=157&h=110&c=7&r=0&o=5&pid=1.7" group-title="SRBIJA//SERBIA",RTV KRUSEVAC
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/201367.ts
+#EXTINF:-1 tvg-id="tvmelos.rs" tvg-name="TV MELOS" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCzouftkt8sGUBbMSkG4Hf_uj3CKCNdDqbzXW4m6Drw1_thBI4ZwIk1LfWnnkshHugE.png" group-title="SRBIJA//SERBIA",TV MELOS
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/253938.ts
+#EXTINF:-1 tvg-id="" tvg-name="INSAJDER- TV" tvg-logo="http://tv.balkanci.net:8080/images/5aedf893b3835c03719900ae57c5d230.png" group-title="SRBIJA//SERBIA",INSAJDER- TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/254696.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOX" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIazk6phKyLnaNNUEi7NkJHYrzaC9mqOtZh0CXCEL0VqFA.png" group-title="SRBIJA//SERBIA",DOX
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/254655.ts
+#EXTINF:-1 tvg-id="" tvg-name="* * * * PINK MEDIA * * * *" tvg-logo="http://logos.skini.link/logo/pink%20media.jpg" group-title="PINK MEDIA",* * * * PINK MEDIA * * * *
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/716.ts
+#EXTINF:-1 timeshift="7" tvg-id="pink" tvg-name="PINK ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqF61e2XAnNl35y8Vkju-aNFADUrKx_O4e7cIGhSuj-g.png" group-title="PINK MEDIA",PINK ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/719.ts
+#EXTINF:-1 tvg-id="pink" tvg-name="PINK ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqF61e2XAnNl35y8Vkju-aNFADUrKx_O4e7cIGhSuj-g.png" group-title="PINK MEDIA",PINK ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1730.ts
+#EXTINF:-1 tvg-id="pink-plus" tvg-name="PINK PLUS" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkmyqaaQiGpy6mXFqCWpjjBJOJWL2lMNZ95_OYce-x2skanYhVUj-lOurlpQVyk9qm5Kkz77Xn7BlC_s0XW-nFXOY.png" group-title="PINK MEDIA",PINK PLUS
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/722.ts
+#EXTINF:-1 timeshift="7" tvg-id="pink-bih" tvg-name="PINK BH ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJKgghni9sDyH-lmo01pGgCNuLI4BFKx4Ak4qbi_h3PcxGUwYEWK7N9MDNB3Yu4yT0YXg584XeCy2uDX7vFJwWCw.png" group-title="PINK MEDIA",PINK BH ᴴᴰ
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/717.ts
+#EXTINF:-1 tvg-id="pink-bih" tvg-name="PINK BH ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCy8gmLnVKaSljDmBp5dhsYbgrfrZCgR2IPv9oAjGb3NvyplfnirZjXDUumf3BpELWU.png" group-title="PINK MEDIA",PINK BH ᴴᴰ²
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/1729.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK ACTION" tvg-logo="http://tv.balkanci.net:8080/images/ow7FSi1DOiTj1SYj0Di0n1K9sN7j0Y5HkfmQ54b1UOAMQoyWV83WCg29yh-L5GGyjmv0NdmDeQ1Ow2RqpmvtGA.png" group-title="PINK MEDIA",PINK ACTION
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/253878.ts
+#EXTINF:-1 tvg-id="pink-comedy" tvg-name="PINK COMEDY" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm9dihMw5a8xTKorOMODxGoIlykYIkJPlrKbmFZmpChS31zy408SF1xUpMCLn_qnJbtQ_eXHNwXV4juEnaWQHP84.png" group-title="PINK MEDIA",PINK COMEDY
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/736.ts
+#EXTINF:-1 tvg-id="pink-classic" tvg-name="PINK CLASSIC" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqF61e2XAnNl35y8Vkju-aPGGd9P6jVrQ0HoG-dvvrr7.png" group-title="PINK MEDIA",PINK CLASSIC
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/726.ts
+#EXTINF:-1 tvg-id="pink-family" tvg-name="PINK FAMILY" tvg-logo="http://tv.balkanci.net:8080/images/ow7FSi1DOiTj1SYj0Di0n1K9sN7j0Y5HkfmQ54b1UODAsHoHwY3JHRO96hhjJinvBi1fbVemPQhGZKjQrI_iYg.png" group-title="PINK MEDIA",PINK FAMILY
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/9457.ts
+#EXTINF:-1 tvg-id="pink-film" tvg-name="PINK FILM" tvg-logo="http://tv.balkanci.net:8080/images/ow7FSi1DOiTj1SYj0Di0n1K9sN7j0Y5HkfmQ54b1UOAEJ2BAMuLT80cHW7gMrRW-aeWJsIwkDIIP70_VRWmV5Q.png" group-title="PINK MEDIA",PINK FILM
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/724.ts
+#EXTINF:-1 tvg-id="pink-horror" tvg-name="PINK HORROR" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqF61e2XAnNl35y8Vkju-aPdFaFYqQ7JmmjtjvIYleE6.png" group-title="PINK MEDIA",PINK HORROR
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/735.ts
+#EXTINF:-1 tvg-id="pink-premium" tvg-name="PINK PREMIUM" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm-EX2pHLMUXpaFZWqAwF9fqPjVmK6TgZQMhA4Wdd0QrfeDn2gGIU6lp0KB3NFl6LvfyTiAG3hshje6cgxP4D30jQEFNe8Wwl53NfqWEQ7EIe1yfOkFC2DPUQkt2XLRw2_Q.png" group-title="PINK MEDIA",PINK PREMIUM
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/729.ts
+#EXTINF:-1 tvg-id="pink-movies-2" tvg-name="PINK ROMANCE" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqF61e2XAnNl35y8Vkju-aMSUgWVV5OCZYs9zRzUaZxf.png" group-title="PINK MEDIA",PINK ROMANCE
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/734.ts
+#EXTINF:-1 tvg-id="pink-action-2" tvg-name="PINK THRILLER" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqF61e2XAnNl35y8Vkju-aNp17wv6zRdtXtpRrKMpR1S.png" group-title="PINK MEDIA",PINK THRILLER
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/730.ts
+#EXTINF:-1 tvg-id="pink-western" tvg-name="PINK WESTERN" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm_w3dEuv4MAKlrNAxcP5Z3SAfiXA0Hz1Hp7W8omesQhrzMCe-jjjkVqXyDgps6AIaHaMYN1ooI3F6SfrX9A5N0RVsbV1rtOMLg66sG6cYiHXqbMDlXglCkiDguvAOM1sIQ.png" group-title="PINK MEDIA",PINK WESTERN
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/725.ts
+#EXTINF:-1 tvg-id="pink-action-3" tvg-name="PINK CRIME & MYSTERY" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqF61e2XAnNl35y8Vkju-aMUZ-PZUFlo83sa8uBppv7Z9O1nuXkvE3A1gHtfqjVFSg.png" group-title="PINK MEDIA",PINK CRIME & MYSTERY
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/252821.ts
+#EXTINF:-1 tvg-id="pink-world-cinema" tvg-name="PINK WORLD CINEMA" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqF61e2XAnNl35y8Vkju-aO09im8gRB-E5XmrvizKhJTOR55TclcOC-u0aXBoWOU_g.png" group-title="PINK MEDIA",PINK WORLD CINEMA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/745.ts
+#EXTINF:-1 tvg-id="pink-movies-3" tvg-name="PINK SCI-FI & FANTASY" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqF61e2XAnNl35y8Vkju-aNFLBJ8IlIfelRojigznn1a.png" group-title="PINK MEDIA",PINK SCI-FI & FANTASY
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/10448.ts
+#EXTINF:-1 tvg-id="pink-movies" tvg-name="PINK MOVIES" tvg-logo="http://tv.balkanci.net:8080/images/51692a55f7f51b7c913e4f76dfb12581.png" group-title="PINK MEDIA",PINK MOVIES
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/254633.ts
+#EXTINF:-1 tvg-id="pink-serije" tvg-name="PINK SERIJE" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqF61e2XAnNl35y8Vkju-aMhCCBqwnOXD0QmtjVuQUWO.png" group-title="PINK MEDIA",PINK SERIJE
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/255523.ts
+#EXTINF:-1 tvg-id="pink-soap" tvg-name="PINK SOAP" tvg-logo="http://tv.balkanci.net:8080/images/qnZj2iE7vplZQ0iUJldgHG2X5P0bQqxVmxyff8GeYPT6uLnX7IJjzhW8OTn0iLnJKtwaaDyMpfvnOWcWacqYfeMSuMjYkCM1TcKQid2lubmYNDuO1EjdRDKyIMtMJVVreTMslz1NmgYjARmR3g8lOg.png" group-title="PINK MEDIA",PINK SOAP
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/738.ts
+#EXTINF:-1 tvg-id="pink-extra" tvg-name="PINK EXTRA" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm6mS_dZ1cY22AIlPUgWBLECYRsLmz3gqX3DKSST9RLibt8yBIqopJSALS0hJHgbDfTPQo7CDz1ubH-vS4bRCUJ8.png" group-title="PINK MEDIA",PINK EXTRA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/255524.ts
+#EXTINF:-1 tvg-id="pink-fashion" tvg-name="PINK FASHION" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIYCt-8mRh_k9pKicF1JITW6MvpLW7zkGMvtBr8dAsFHkkcxIqgBS8XjEgXzWMRsH14.png" group-title="PINK MEDIA",PINK FASHION
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/220306.ts
+#EXTINF:-1 tvg-id="pink-ha-ha" tvg-name="PINK HA HA" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIYTsZU55e9upYqi4zABFh2wdA1AqsTm1ANZP2mkaB8oyKuRsIarsi3HY33s-jdgmsA.png" group-title="PINK MEDIA",PINK HA HA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/746.ts
+#EXTINF:-1 tvg-id="pink-kuvar" tvg-name="PINK KUVAR" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIba4EiYho3w7_sTJ1yuoXRcnNMaT-aPkUTlcAFXep13dhQ9eAieQxvUAlvilVQCwas.png" group-title="PINK MEDIA",PINK KUVAR
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/740.ts
+#EXTINF:-1 tvg-id="pink-lol" tvg-name="PINK LOL" tvg-logo="http://tv.balkanci.net:8080/images/ow7FSi1DOiTj1SYj0Di0n1K9sN7j0Y5HkfmQ54b1UOC6DlWn6cjcJyZ2-i3NllQl2YFOrV_GsaOGMTLW2TPI4Q.png" group-title="PINK MEDIA",PINK LOL
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/747.ts
+#EXTINF:-1 tvg-id="pink-pedia" tvg-name="PINK PEDIA" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkm24Wzk_0ekhyzZihBhcdqHtzt23XWqOJaGCNRS_VC1tDYRfy1uVv6k6qsEr2AFpCUNlEQ0qCTBqZPFuX1F_-mwc.png" group-title="PINK MEDIA",PINK PEDIA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/737.ts
+#EXTINF:-1 tvg-id="pink-reality" tvg-name="PINK REALITY" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIYrdR5wOJ-FU8R4JhAdlP98pjdaImFd0d3HjxMhLB9-zSnk5SMmnpn5VQPzhHZRqo8.png" group-title="PINK MEDIA",PINK REALITY
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/739.ts
+#EXTINF:-1 tvg-id="pink-show" tvg-name="PINK SHOW" tvg-logo="http://tv.balkanci.net:8080/images/Ekj0RBIv3Ts_S_sZAMm5N-lzn_c11yhrWaWCO3iiIr_NktY66l1jCUkCllNqvoMUh333qawgvOV6gBLkqeVf6SKx-q2jsKWIZO8U9vUif0w.png" group-title="PINK MEDIA",PINK SHOW
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/220304.ts
+#EXTINF:-1 tvg-id="pink-world" tvg-name="PINK WORLD" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqF61e2XAnNl35y8Vkju-aPXAJck7u-jW1sGYRS4kT8G.png" group-title="PINK MEDIA",PINK WORLD
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/220307.ts
+#EXTINF:-1 tvg-id="pink-zabava" tvg-name="PINK ZABAVA" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJoY_o41TqalUVg060oBMkmxfWYWVc09C5D9o1RHjBy9CNSpmW8uuFCfguqfQ5tmedkmP1jHnSn9knxZpz0a7rg6IhjRkmuyFmbKEAyBL1eeE.png" group-title="PINK MEDIA",PINK ZABAVA
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/741.ts
+#EXTINF:-1 tvg-id="pink-style" tvg-name="PINK STYLE" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIY9k5807YDe__cuLqFKBIoIlhrWvU7lKInZusRSrAwXGvysDKXHz1a16eEkSPjWWvo.png" group-title="PINK MEDIA",PINK STYLE
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/234432.ts
+#EXTINF:-1 timeshift="7" tvg-id="pink-2" tvg-name="RED" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwt-f1WrMNq_j9IeaYBorQJMa9IfCH9TS_kLUEb4uIrilB5qin4qFUxXP8Ic4MTHdgWiKWfl5-PJ6dpG1x9Q-_v8V5Gu48adOQTx57HAsS0gFqE0hM-GnajRLv0Iol1iiQ.png" group-title="PINK MEDIA",RED
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/720.ts
+#EXTINF:-1 tvg-id="" tvg-name="NARODNA TV" tvg-logo="http://tv.balkanci.net:8080/images/6c15cfc32f7bc6954811d6042ee499a8.jpg" group-title="PINK MEDIA",NARODNA TV
+http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/252776.ts
+
+
+
+
+
+#EXTINF:-1  tvg-id="N1BIH" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="N1",N1 BIH
+https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
+
+#EXTINF:-1  tvg-id="N1HR" tvg-logo="http://epg.netsolutionpro.com/logo-tv/104.hr.png" group-title="N1",N1 HR
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&playe
+
+#EXTINF:-1  tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png",group-title="N1", Al Jazeera Balkans
+https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Jednotka" tvg-name="Jednotka" tvg-logo="http://46.36.40.22/1023/stv1hd.png" group-title="Slovenské",Jednotka
+http://212.102.38.45/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Dvojka" tvg-name="Dvojka" tvg-logo="http://46.36.40.22/1023/stv2hd.png" group-title="Slovenské",Dvojka
+http://212.102.38.45/live/test_dvojka_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVS :24" tvg-name="RTVS :24" tvg-logo="http://46.36.40.22/1023/rtvs.png" group-title="Slovenské",RTVS :24
+http://212.102.38.45/live/test_trojka_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Markíza" tvg-name="Markiza" tvg-logo="http://46.36.40.22/1023/markizahd.png" group-title="Slovenské",Markiza
+http://212.102.38.45/live/test_markiza_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="MarkizaKlasik.sk" tvg-logo="https://sledovanietv.sk/cache/logos256/markiza_klasik.png" group-title="Slovenské",Markiza Klasik (1080p)
+https://cdnsk003.panaccess.com/local/Markiza_Klasik/index.m3u8
+
+
+#EXTINF:-1 tvg-country="SK" tvg-id="MarkizaKrimi.sk" tvg-logo="https://i.imgur.com/5KnajhP.png" group-title="Slovenské",Markiza Krimi (1080p)
+https://cdnsk003.panaccess.com/local/Markiza_krimi/index.m3u8
+
+#EXTINF:-1 tvg-id="Dajto" tvg-name="Dajto" tvg-logo="http://46.36.40.22/1023/dajtohd.png" group-title="Slovenské",Dajto
+http://212.102.38.45/live/test_dajto_25p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Doma" tvg-name="Doma" tvg-logo="http://46.36.40.22/1023/domahd.png" group-title="Slovenské",Doma
+http://212.102.38.45/live/test_doma_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Folklorika" tvg-name="Folklorika" tvg-logo="http://46.36.40.22/1023/Folklorika.png" group-title="Slovenské",Folklorika TV
+http://212.102.38.45/live/test_folklorika_atktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cXzdnhJ.jpeg" group-title="Slovenské",JOJ S VAMI (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj-720.m3u8
+
+#EXTINF:-1 tvg-id="JOJ24.sk" tvg-logo="https://i.imgur.com/Tv12wOd.png" group-title="Slovenské",JOJ24 (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
+
+#EXTINF:-1 tvg-id="JOJCinema.sk" tvg-logo="https://i.imgur.com/5Auduch.png" group-title="Slovenské",JOJ Cinema (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cinema-720.m3u8
+
+#EXTINF:-1 tvg-id="JOJFamily.sk" tvg-logo="https://i.imgur.com/k1COMHi.png" group-title="Slovenské",JOJ Family (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/family-720.m3u8
+
+#EXTINF:-1 tvg-id="JOJPlus.sk" tvg-logo="https://i.imgur.com/1LHa0EI.png" group-title="Slovenské",JOJ Plus (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/plus-720.m3u8
+
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+#EXTINF:-1 tvg-id="JOJSport.sk" tvg-logo="https://i.imgur.com/KirqaU4.png" group-title="Slovenské",JOJ Šport (1080p)
+https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
+
+#EXTINF:-1 tvg-id="JOJWAU.sk" tvg-logo="https://i.imgur.com/j51uAjL.png" group-title="Slovenské",JOJ WAU (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TA3" tvg-name="TA3" tvg-logo="http://46.36.40.22/1023/ta3hd.png" group-title="Slovenské",TA3
+http://212.102.38.45/live/test_ta3_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVLux.sk" tvg-name="TV Lux" tvg-logo="http://46.36.40.22/1023/tvlux.png" group-title="Slovenské",TV Lux
+http://212.102.38.45/live/test_lux_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="BTV.sk" tvg-logo="https://i.imgur.com/5CZ6HHn.png" group-title="Slovenské",BTV (480p)
+https://fs3.kabelko.sk/9011/index.m3u8?token=btv
+
+#EXTINF:-1 tvg-country="SK" tvg-id="MTR.sk" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="Slovenské",MTR (1080p)
+https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="Senzi.sk" tvg-logo="https://i.imgur.com/1qJMmBu.png" group-title=SlovenskéK",Senzi (720p)
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="TeleviziaMocenok.sk" tvg-logo="https://i.imgur.com/psb8GxZ.png" group-title="Slovenské",Televízia Močenok (720p)
+https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-country="SK" tvg-id="TVCentral.sk" tvg-logo="https://i.imgur.com/LqGT8o9.png" group-title="Slovenské",TV Central (540p)
+https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="TVDK.sk" tvg-logo="https://i.imgur.com/qTOnPXe.png" group-title="Slovenské",TV DK (486p) [Not 24/7]
+http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="TVLiptov.sk" tvg-logo="https://i.imgur.com/CkvB3af.png" group-title="Slovenské",TV Liptov (1080p)
+http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="TVLocAll.sk" tvg-logo="https://i.imgur.com/xN1CJol.png" group-title="Slovenské",TV LocAll (406p)
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="NZTV.sk" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="Slovenské",TV Nové Zámky (486p)
+http://s1.media-planet.sk/live/novezamky/lihattv.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="TVRuzinov.sk" tvg-logo="https://i.imgur.com/bUGuntH.png" group-title="Slovenské",TV Ružinov (1080p) [Not 24/7]
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="TVT.sk" tvg-logo="https://i.imgur.com/QG0iZlG.png" group-title="Slovenské",TVT (486p)
+https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
+
+#EXTINF:-1 tvg-country="SK" tvg-id="VIOTV.sk" tvg-logo="https://i.imgur.com/7EL3VZ5.png" group-title="Slovenské",VIO TV (480p)
+http://slovanet-livestream.ceelabs.com:1935/live/VioTV.stream_transcoded/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CT1" tvg-name="CT1" tvg-logo="http://46.36.40.22/1023/ct1hd.png" group-title="Ceské",CT1
+http://212.102.38.45/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CT2" tvg-name="CT2" tvg-logo="http://46.36.40.22/1023/ct2hd.png" group-title="Ceské",CT2
+http://212.102.38.45/live/test_ct2_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CT24" tvg-name="CT24" tvg-logo="http://46.36.40.22/1023/ct24hd.png" group-title="Ceské",CT24
+http://212.102.38.45/live/test_ct24_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Prima Star" tvg-name="Prima Star" tvg-logo="http://46.36.40.22/1023/primastar.png" group-title="Ceské",Prima Star
+http://212.102.38.45/live/test_prima_star_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima Show" tvg-name="Prima Show" tvg-logo="http://46.36.40.22/1023/primashow.png" group-title="Ceské",Prima Show
+http://212.102.38.45/live/test_prima_show_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima Cool" tvg-name="Prima COOL" tvg-logo="http://46.36.40.22/1023/primacoolhd.png" group-title="Ceské",Prima COOL
+http://212.102.38.45/live/test_prima_cool_hd_hevc_50/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima Zoom" tvg-name="Prima ZOOM" tvg-logo="http://46.36.40.22/1023/primazoomhd.png" group-title="Ceské",Prima ZOOM
+http://212.102.38.45/live/test_prima_zoom_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima Love" tvg-name="Prima Love" tvg-logo="http://46.36.40.22/1023/primalovehd.png" group-title="Ceské",Prima Love
+http://212.102.38.45/live/test_prima_love_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima MAX" tvg-name="Prima MAX" tvg-logo="http://46.36.40.22/1023/primamaxhd.png" group-title="Ceské",Prima MAX
+http://212.102.38.45/live/test_prima_max_hd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima Plus" tvg-name="Prima Plus" tvg-logo="http://46.36.40.22/1023/primamaxhd.png" group-title="Ceské",Prima Plus
+http://212.102.38.45/live/test_prima_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Prima Krimi" tvg-name="Prima Krimi" tvg-logo="http://46.36.40.22/1023/primakrimit2.png" group-title="Ceské",Prima Krimi
+http://212.102.38.45/live/test_prima_krimi_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN Prima News" tvg-name="CNN Prima News" tvg-logo="http://46.36.40.22/1023/cnnprimanewshd.png" group-title="Ceské",CNN Prima News
+http://212.102.38.45/live/test_cnn_pirma_news/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Nova International" tvg-name="Nova International" tvg-logo="http://46.36.40.22/1023/novainternational.png" group-title="Ceské",Nova International
+http://212.102.38.45/live/test_nova_int_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Barrandov" tvg-name="TV Barrandov" tvg-logo="http://46.36.40.22/1023/tvbarrandovhd.png" group-title="Ceské",TV Barrandov
+http://212.102.38.45/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 tvg-id="Kino Barrandov" tvg-name="Kino Barrandov" tvg-logo="http://46.36.40.22/1023/kinobarrandovhd.png" group-title="Ceské",Kino Barrandov
+http://212.102.38.45/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+#EXTINF:-1 tvg-id="Krimi Barrandov" tvg-name="Krimi Barrandov" tvg-logo="http://46.36.40.22/1023/krimibarrandov.png" group-title="Ceské",Krimi Barrandov
+http://212.102.38.45/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Paprika" tvg-name="TV Paprika" tvg-logo="http://46.36.40.22/1023/tvpaprika.png" group-title="Ceské",TV Paprika
+http://212.102.38.45/live/test_parpika_tv_sd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Park" tvg-name="Park" tvg-logo="http://46.36.40.22/1023/park.png" group-title="Ceské",Park
+http://212.102.38.45/live/test_park_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Televize Seznam" tvg-name="TV Seznam" tvg-logo="http://46.36.40.22/1023/seznamtv.png" group-title="Ceské",TV Seznam
+http://212.102.38.45/live/test_seznam_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNOE.cz" tvg-name="TV Noe" tvg-logo="http://46.36.40.22/1023/tvnoehd.png" group-title="Ceské",TV Noe
+http://212.102.38.45/live/test_noe_hevc/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://46.36.40.22/1023/amchd.png" group-title="Filmové",AMC
+http://212.102.38.45/live/test_amc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://46.36.40.22/1023/hbohd.png" group-title="Filmové",HBO
+http://212.102.38.45/live/test_hbo_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="http://46.36.40.22/1023/hbo2hd.png" group-title="Filmové",HBO2
+http://212.102.38.45/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO3" tvg-name="HBO3" tvg-logo="http://46.36.40.22/1023/hbo3hd.png" group-title="Filmové",HBO3
+http://212.102.38.45/live/test_hbo3_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://46.36.40.22/1023/cinemaxhd.png" group-title="Filmové",Cinemax
+http://212.102.38.45/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax 2" tvg-name="Cinemax 2" tvg-logo="http://46.36.40.22/1023/cinemax2hd.png" group-title="Filmové",Cinemax 2
+http://212.102.38.45/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmBox" tvg-name="Filmbox" tvg-logo="http://46.36.40.22/1023/filmbox.png" group-title="Filmové",Filmbox
+http://212.102.38.45/live/test_filmbox/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmBox Extra" tvg-name="Filmbox Extra" tvg-logo="http://46.36.40.22/1023/filmboxextrahd.png" group-title="Filmové",Filmbox Extra
+http://212.102.38.45/live/test_film_boxextra_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmBox Premium" tvg-name="Filmbox Premium" tvg-logo="http://46.36.40.22/1023/filmboxpremiumhd.png" group-title="Filmové",Filmbox Premium
+http://212.102.38.45/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmBox Family" tvg-name="Filmbox Family" tvg-logo="http://46.36.40.22/1023/filmboxfamily.png" group-title="Filmové",Filmbox Family
+http://212.102.38.45/live/test_filmbox_family_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmBox Stars" tvg-name="FilmBox Stars" tvg-logo="http://46.36.40.22/1023/filmboxstars.png" group-title="Filmové",FilmBox Stars
+http://212.102.38.45/live/test_filmbox_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmPlus.cz" tvg-name="Film+" tvg-logo="http://46.36.40.22/1023/filmplus.png" group-title="Filmové",Film+
+http://212.102.38.45/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="AXN" tvg-logo="http://46.36.40.22/1023/axn.png" group-title="Filmové",AXN
+http://212.102.38.45/live/test_axn/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" tvg-logo="http://46.36.40.22/1023/axnblack.png" group-title="Filmové",AXN Black
+http://212.102.38.45/live/test_black/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNWhite.us" tvg-name="AXN White" tvg-logo="http://46.36.40.22/1023/axnwhite.png" group-title="Filmové",AXN White
+http://212.102.38.45/live/test_white/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="http://46.36.40.22/1023/history.png" group-title="Dokumentárne",History Channel
+http://212.102.38.45/live/test_history/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="Discovery" tvg-logo="http://46.36.40.22/1023/discovery.png" group-title="Dokumentárne",Discovery
+http://212.102.38.45/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="SpektrumCzech.hu" tvg-name="Spektrum" tvg-logo="http://46.36.40.22/1023/spektrum.png" group-title="Dokumentárne",Spektrum
+http://212.102.38.45/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-name="Investigation Discovery" tvg-logo="http://46.36.40.22/1023/investigationdiscovery.png" group-title="Dokumentárne",Investigation Discovery
+http://212.102.38.45/live/test_id_hevc_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Crime and Investigation" tvg-name="Sat crime invest" tvg-logo="http://46.36.40.22/1023/crimeandinvestigation.png" group-title="Dokumentárne",Crime and Investigation
+http://212.102.38.45/live/test_cai_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="http://46.36.40.22/1023/nationalgeographic.png" group-title="Dokumentárne",National Geographic
+http://212.102.38.45/live/test_ngc/playlist.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo WILD" tvg-logo="http://46.36.40.22/1023/natgeowild.png" group-title="Dokumentárne",Nat Geo WILD
+http://212.102.38.45/live/test_ngw/playlist.m3u8
+#EXTINF:-1 tvg-id="0porMovistarPlus.es" tvg-name="Animal Planet" tvg-logo="http://46.36.40.22/1023/animalplanet.png" group-title="Dokumentárne",Animal Planet
+http://212.102.38.45/live/test_animal_planet_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://46.36.40.22/1023/tlc.png" group-title="Dokumentárne",TLC
+http://212.102.38.45/live/test_tlc_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="CShistory" tvg-name="CShistory " tvg-logo="http://46.36.40.22/1023/cshistory.png" group-title="Dokumentárne",CS History
+http://212.102.38.45/live/test_cs_history_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CSmystery" tvg-name="CSmystery " tvg-logo="http://46.36.40.22/1023/csmystery.png" group-title="Dokumentárne",CS Mystery
+http://212.102.38.45/live/test_cs_mystery_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Up network" tvg-name="Up network" tvg-logo="http://46.36.40.22/1023/Upnetwork.png" group-title="Dokumentárne",Up network
+http://212.102.38.45/live/test_upnetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="http://46.36.40.22/1023/lovenature.png" group-title="Dokumentárne",Love Nature
+http://212.102.38.45/live/test_lovenature/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelChannelEMEA.uk" tvg-name="Travel Channel" tvg-logo="http://46.36.40.22/1023/travelchannel.png" group-title="Dokumentárne",Travel Channel
+http://212.102.38.45/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="SpektrumHome.hu" tvg-name="Spektrum Home" tvg-logo="http://46.36.40.22/1023/spektrumhome.png" group-title="Dokumentárne",Spektrum Home
+http://212.102.38.45/live/test_home_hevc/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-name="JimJam" tvg-logo="http://46.36.40.22/1023/jimjam.png" group-title="Detské",JimJam
+http://212.102.38.45/live/test_jim_jam/playlist.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCzechia.cz" tvg-name="Nickelodeon" tvg-logo="http://46.36.40.22/1023/nickelodeoncz.png" group-title="Detské",Nickelodeon
+http://212.102.38.45/live/test_nickelodeon_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="NickJrCzechia.cz" tvg-name="Nick Jr." tvg-logo="http://46.36.40.22/1023/nickjr.png" group-title="Detské",Nick Jr.
+http://212.102.38.45/live/test_nick_jr/playlist.m3u8
+#EXTINF:-1 tvg-id="NicktoonsCzechia.cz" tvg-name="Nicktoons" tvg-logo="http://46.36.40.22/1023/nicktoons.png" group-title="Detské",Nicktoons
+http://212.102.38.45/live/test_nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="MinimaxCzechia.hu" tvg-name="Minimax" tvg-logo="http://46.36.40.22/1023/minimax.png" group-title="Detské",Minimax
+http://212.102.38.45/live/test_minimax/playlist.m3u8
+#EXTINF:-1 tvg-id="LalaTV.sk" tvg-name="LALA TV" tvg-logo="http://46.36.40.22/1023/lalatv.png" group-title="Detské",LALA TV
+http://212.102.38.45/live/test_lala_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Rik.sk" tvg-name="Rik" tvg-logo="http://46.36.40.22/1023/rik.png" group-title="Detské",Rik
+http://212.102.38.45/live/test_rik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jojko.sk" tvg-logo="https://i.imgur.com/JBB1n1Z.png" group-title="Detské",Jojko 
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/jojko-720.m3u8
+
+#EXTINF:-1 tvg-id="Ducktv" tvg-name="Baby TV" tvg-logo="http://46.36.40.22/1023/ducktv.png" group-title="Detské",Duck TV
+http://212.102.38.45/live/test_duck_tv_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelCentralEurope.us" tvg-name="Disney Channel" tvg-logo="http://46.36.40.22/1023/disneychannel.png" group-title="Detské",Disney Channel
+http://212.102.38.45/live/test_disney/playlist.m3u8
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://46.36.40.22/1023/disneyjunior.png" group-title="Detské",Disney Junior
+http://212.102.38.45/live/test_disney_junior/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arena Sport 1" tvg-name="Arena Sport 1 " tvg-logo="http://46.36.40.22/1023/arenasport1.png" group-title="Športové",Arena Sport 1
+http://212.102.38.45/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 tvg-id="Arena Sport 2" tvg-name="Arena Sport 2" tvg-logo="http://46.36.40.22/1023/arenasport2.png" group-title="Športové",Arena Sport 2
+http://212.102.38.45/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1 tvg-id="Auto Motor und Sport Channel" tvg-name="Auto Motor und Sport Channel" tvg-logo="http://46.36.40.22/1023/automotorsporthd.png" group-title="Športové",Auto Motor und Sport Channel
+http://212.102.38.45/live/test_ams/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FightBox" tvg-name="Fightbox" tvg-logo="http://46.36.40.22/1023/fightbox.png" group-title="Športové",Fightbox
+http://212.102.38.45/live/test_fightbox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="Fishing and Hunting" tvg-name="Fishinghunting" tvg-logo="http://46.36.40.22/1023/fishingandhunting.png" group-title="Športové",Fishinghunting
+http://212.102.38.45/live/test_fishing_hunting/playlist.m3u8
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-logo="http://46.36.40.22/1023/golfchannel.png" group-title="Športové",Golf Channel
+http://212.102.38.45/live/test_golf_channel/playlist.m3u8
+#EXTINF:-1 tvg-id="CT Sport" tvg-name="CT Sport " tvg-logo="http://46.36.40.22/1023/ctsport.png" group-title="Športové",CT Sport
+http://212.102.38.45/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVS Sport" tvg-name="RTVS Šport" tvg-logo="http://46.36.40.22/1023/rtvs.png" group-title="Športové",RTVS Šport
+http://212.102.38.45/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Joj Sport" tvg-name="JoJ Šport" tvg-logo="http://46.36.40.22/1023/jojsport.png" group-title="Športové",JoJ Šport
+http://212.102.38.45/live/test_joj_sport_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport1" tvg-name="Sport1 " tvg-logo="http://46.36.40.22/1023/sport1.png" group-title="Športové",Sport1
+http://212.102.38.45/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport2" tvg-name="Sport2 " tvg-logo="http://46.36.40.22/1023/sport2.png" group-title="Športové",Sport2
+http://212.102.38.45/live/test_sport_2/playlist.m3u8
+
+#EXTINF:-1 group-title="Radio" ,Radio Petrovec 
+http://217.17.97.1:18180
+
+#EXTINF:-1 group-title="Radio"  tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioj10.jpg",Radio Janko Hrasko (Folklor) 
+http://78.24.9.110:31088/;stream/1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
