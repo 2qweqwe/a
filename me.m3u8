@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_2_01r1"
-#EXTINF:-1 tvg-id="" tvg-name="* * * * VIJESTI//NEWS * * * *" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaqsX-m6hP6HRsAsvXvm-oSBuVu70GMLh0Lg&usqp=CAU" group-title="VIJESTI//NEWS",* * * * VIJESTI//NEWS * * * *
-http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/229952.ts
+
 #EXTINF:-1 tvg-id="al-jazeera-balkans" tvg-name="AL JAZZERA BALKANS ᴴᴰ" tvg-logo="http://cms.optimalteve.com:8080/images/ow7FSi1DOiTj1SYj0Di0n2jp-u-pypIpK-SNp8CMeHYp7chA6zs6mOic_k0pvB4oMpu3xtoLOOPS3KQdyFWNSw.png" group-title="VIJESTI//NEWS",AL JAZZERA BALKANS ᴴᴰ
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/369.ts
 #EXTINF:-1 tvg-id="n1" tvg-name="N1 INFO BiH" tvg-logo="http://tv.balkanci.net:8080/images/8jJWXVZuQJjDtfFeqUYiwtQAnkNutEHNzcGEcAOekElNeg9Lgm13Zzrv8MyYsn-rZPhBZrzaCYxmVHNEcImIcKzaVDyR6CmP0yr80v_IV2jnf6IHmcpbHgkS0PSRO9u6VFNs3f_K3DCjjz8SclxKCuusHjS7katg22MW_r0cluUrIQJ2L_UJYIzhgdU3-d_4zpfQCUxrwvGQdqZGmlekRg.png" group-title="VIJESTI//NEWS",N1 INFO BiH
@@ -35,8 +34,7 @@ http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/249137.ts
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/249117.ts
 #EXTINF:-1 tvg-id="" tvg-name="NEWSMAX- BALKANS" tvg-logo="https://mtel.ba/Picture/41352/jpeg/newsmax" group-title="VIJESTI//NEWS",NEWSMAX- BALKANS
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/254702.ts
-#EXTINF:-1 tvg-id="" tvg-name="* * * * EXTRA* * * *" tvg-logo="https://www.shutterstock.com/image-vector/extra-grunge-brush-stroke-word-260nw-1636661932.jpg" group-title="EXTRA",* * * * EXTRA* * * *
-http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/235191.ts
+
 #EXTINF:-1 timeshift="7" tvg-id="hayat-tv" tvg-name="HAYAT ᴴᴰ Extra" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcsyOlxhpbHqUIPR4QrvsTU4wYc4KNn_ziEED_JnSanka.png" group-title="EXTRA",HAYAT ᴴᴰ Extra
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/348.ts
 #EXTINF:-1 tvg-id="hayat-tv" tvg-name="HAYAT ᴴᴰ² Extra" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCyXb0gAdP8hiOXR2iFQOZTdsvEYW8AlKFooMwWMN9EUJ_m_-n0GxBX46xTno6DPBoY.png" group-title="EXTRA",HAYAT ᴴᴰ² Extra
@@ -53,8 +51,7 @@ http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/692.ts
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/251762.ts
 #EXTINF:-1 tvg-id="" tvg-name="HAYAT LOVE BOX" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwdLH4mkY_LbXqM4_oDIonkFk09JWgT7yD2_-QuRQ6HI1DvZ_no0H59uLCGg6d71vY.png" group-title="EXTRA",HAYAT LOVE BOX
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/251763.ts
-#EXTINF:-1 tvg-id="" tvg-name="* * * *  BiH KANALI * * * *" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5iylUvqIKvnHNvA5tVCYrsRlzKsQ5BMphX2eq8-AbiyDJM_c6Haw9&usqp=CAE&s" group-title="BiH//BOSNIA AND HERZEGOVINA",* * * *  BiH KANALI * * * *
-http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/343.ts
+
 #EXTINF:-1 tvg-id="bht1" tvg-name="BHT ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqH47gTd7Hik1tcJmpFzLzlFHBvgwSM_fMEGzFRC_5-S.png" group-title="BiH//BOSNIA AND HERZEGOVINA",BHT ᴴᴰ
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/345.ts
 #EXTINF:-1 tvg-id="bht1" tvg-name="BHT ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNxx4meNbfBsaKgWPzy5Kq6mUyXjXVbPNOR5Wu6RhoGAeTNSDpDznOABZtmgjpBwOs9HNLFPGiig-__o0M5BbeqA.png" group-title="BiH//BOSNIA AND HERZEGOVINA",BHT ᴴᴰ²
@@ -173,8 +170,7 @@ http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/358.ts
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/371.ts
 #EXTINF:-1 tvg-id="" tvg-name="ISLAM CHANNEL" tvg-logo="https://assets-global.website-files.com/603f858b79d25a14328c00e7/63504c1adca652ecb4e04d11_logo.png" group-title="BiH//BOSNIA AND HERZEGOVINA",ISLAM CHANNEL
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/235243.ts
-#EXTINF:-1 tvg-id="" tvg-name="* * * HRVATSKI KANALI  * * * *" tvg-logo="https://ak.picdn.net/shutterstock/videos/1039857233/thumb/1.jpg?ip=x480" group-title="HRVATSKA//CROATIA",* * * HRVATSKI KANALI  * * * *
-http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/524.ts
+
 #EXTINF:-1 timeshift="7" tvg-id="htv1" tvg-name="HRT 1 ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCwLqWLloYQG4RWoaoWb7MmC_JMDJiDQAjquzivOGelzVEErut-u6Wd4pGmZEojJuGj9ynEPH6YiVv9dyIS3zaQNfXwrhSNyV4USsVAvySYtIThENOBirpSdZCcVQgvhImDsA5_u4EARNOHb7UE_kvlt_VABRCSaCx9ottvdRiyV3Q.png" group-title="HRVATSKA//CROATIA",HRT 1 ᴴᴰ
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/532.ts
 #EXTINF:-1 tvg-id="htv1" tvg-name="HRT 1 ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCxC_ichTpncXsFKf8DBGZLON6PuplJNnSF22vgvvRyk6Ji0kDIT-0tzoppGZ1V8mP8.png" group-title="HRVATSKA//CROATIA",HRT 1 ᴴᴰ²
@@ -263,8 +259,7 @@ http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/9468.ts
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/249115.ts
 #EXTINF:-1 tvg-id="" tvg-name="TREND TV" tvg-logo="http://tv.balkanci.net:8080/images/eoNWLNxwXVovkyTxoHmLRxV6EcjRT1heawup4A1zwCx1O9gCG35fu6-Vh9_i2drF4hbtxB5YbHJm0FFdMipCLtBcg2usvYwHMHoYdbO_IsQ.jpg" group-title="HRVATSKA//CROATIA",TREND TV
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/251659.ts
-#EXTINF:-1 tvg-id="" tvg-name="* * * * SRPSKI KANALI * * * *" tvg-logo="http://tv.balkanci.net:8080/images/644b212541537cf91ba206790583a5fe.jpg" group-title="SRBIJA//SERBIA",* * * * SRPSKI KANALI * * * *
-http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/909.ts
+
 #EXTINF:-1 timeshift="7" tvg-id="rts1" tvg-name="RTS 1 ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIbtw6hOJMLzu9mc5-dLXSre-MMba58i0pWuvrp6F0tz4Q.png" group-title="SRBIJA//SERBIA",RTS 1 ᴴᴰ
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/911.ts
 #EXTINF:-1 tvg-id="rts1" tvg-name="RTS 1 ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIbtw6hOJMLzu9mc5-dLXSre-MMba58i0pWuvrp6F0tz4Q.png" group-title="SRBIJA//SERBIA",RTS 1 ᴴᴰ²
@@ -385,8 +380,7 @@ http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/253938.ts
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/254696.ts
 #EXTINF:-1 tvg-id="" tvg-name="DOX" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTciFZzGYnT2M3eSrywDOZtIazk6phKyLnaNNUEi7NkJHYrzaC9mqOtZh0CXCEL0VqFA.png" group-title="SRBIJA//SERBIA",DOX
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/254655.ts
-#EXTINF:-1 tvg-id="" tvg-name="* * * * PINK MEDIA * * * *" tvg-logo="http://logos.skini.link/logo/pink%20media.jpg" group-title="PINK MEDIA",* * * * PINK MEDIA * * * *
-http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/716.ts
+
 #EXTINF:-1 timeshift="7" tvg-id="pink" tvg-name="PINK ᴴᴰ" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqF61e2XAnNl35y8Vkju-aNFADUrKx_O4e7cIGhSuj-g.png" group-title="PINK MEDIA",PINK ᴴᴰ
 http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/719.ts
 #EXTINF:-1 tvg-id="pink" tvg-name="PINK ᴴᴰ²" tvg-logo="http://tv.balkanci.net:8080/images/s6ek-dfjLMC-4MYH2vJTcqF61e2XAnNl35y8Vkju-aNFADUrKx_O4e7cIGhSuj-g.png" group-title="PINK MEDIA",PINK ᴴᴰ²
@@ -460,14 +454,7 @@ http://tv.balkanci.net:8080/amirmilak/NSNm3H:g:4@B/252776.ts
 
 
 
-#EXTINF:-1  tvg-id="N1BIH" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="N1",N1 BIH
-https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
 
-#EXTINF:-1  tvg-id="N1HR" tvg-logo="http://epg.netsolutionpro.com/logo-tv/104.hr.png" group-title="N1",N1 HR
-https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&playe
-
-#EXTINF:-1  tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png",group-title="N1", Al Jazeera Balkans
-https://live-hls-apps-ajb-v3-fa.getaj.net/AJB/index.m3u8
 
 
 
@@ -749,6 +736,7 @@ http://217.17.97.1:18180
 
 #EXTINF:-1 group-title="Radio"  tvg-logo="https://i11.servimg.com/u/f11/19/40/01/67/radioj10.jpg",Radio Janko Hrasko (Folklor) 
 http://78.24.9.110:31088/;stream/1
+
 
 
 
