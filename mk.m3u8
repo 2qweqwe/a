@@ -317,18 +317,7 @@ http://79.127.207.193:80/Supersport5/playlist.m3u8
 http://79.127.207.193:80/Supersport6/playlist.m3u8
 #EXTINF:-1 group-title="SRB",Super Sport 7 HD
 http://79.127.207.193:80/Supersport7/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Tring Sport 1 HD
-http://79.127.207.193:80/TringSport1HD/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Tring Sport 2 HD
-http://79.127.207.193:80/TringSport2HD/playlist.m3u8
-#EXTINF:-1 group-title="SRB",KSport 1 HD
-http://79.127.207.193:80/KSport1/playlist.m3u8
-#EXTINF:-1 group-title="SRB",KSport 2 HD
-http://79.127.207.193:80/KSport2/playlist.m3u8
-#EXTINF:-1 group-title="SRB",KSport 3 HD
-http://79.127.207.193:80/KSport3/playlist.m3u8
-#EXTINF:-1 group-title="SRB",KSport 4 HD
-http://79.127.207.193:80/KSport4/playlist.m3u8
+
 #EXTINF:-1 group-title="SRB",Euro Sport 1 HD
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 #EXTINF:-1 group-title="SRB",Euro Sport 2 HD
@@ -405,46 +394,7 @@ http://79.127.207.193:80/TopChannel/playlist.m3u8
 http://79.127.207.193:80/TopNews/playlist.m3u8
 #EXTINF:-1 group-title="SRB",Prva Plus HD
 http://79.127.207.193:80/PrvaPlus/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Stinet
-http://79.127.207.193:80/Stinet/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Tring Action HD
-http://79.127.207.193:80/TringAction/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Tring Fantasy HD
-http://79.127.207.193:80/TringFantasy/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Tring Life HD
-http://79.127.207.193:80/TringLife/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Tring Super
-http://79.127.207.193:80/TringSuper/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Tring World
-http://79.127.207.193:80/TringWorld/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Tring Comedy
-http://79.127.207.193:80/TringComedy/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Tring Shqip
-http://79.127.207.193:80/TringShqip/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Tring Tring
-http://79.127.207.193:80/TringTring/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Tring Planet
-http://79.127.207.193:80/TringPlanet/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Tring Planet
-http://79.127.207.193:80/TringJolly/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Tring Smile
-http://79.127.207.193:80/TringSmile/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Tring Kids
-http://79.127.207.193:80/TringKids/playlist.m3u8
-#EXTINF:-1 group-title="SRB",EuroFilm
-http://79.127.207.193:80/EuroFilm/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Film Komedi
-http://79.127.207.193:80/FilmKomedi/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Film Gold
-http://79.127.207.193:80/FilmNje/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Film Thriller
-http://79.127.207.193:80/FilmThriller/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Film Drame
-http://79.127.207.193:80/FilmDrame/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Film Autor HD
-http://79.127.207.193:80/FilmAutor/playlist.m3u8
-#EXTINF:-1 group-title="SRB",Film Hits HD
-http://79.127.207.193:80/FilmHits/playlist.m3u8
+
 #EXTINF:-1 group-title="SRB",Pink Western
 http://79.127.207.193:80/PinkWestern/playlist.m3u8
 #EXTINF:-1 group-title="SRB",Pink Serije
@@ -669,6 +619,7 @@ http://51.83.135.95/CartoonNetwork/index.m3u8
 http://51.83.135.95/Minimax/index.m3u8
 #EXTINF:-1 group-title="SRB",Nicktoons
 http://51.83.135.95/Nicktoons/index.m3u8
+
 
 
 
