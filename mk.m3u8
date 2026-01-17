@@ -285,328 +285,392 @@ http://nocable.cc:8080/ollie246/7ly1kqN8y1/14823
 #EXTINF:-1 group-title="Sleep",Ambient Sleeping Pill [Opt-2]
 http://nocable.cc:8080/ollie246/7ly1kqN8y1/14824
 
-#EXTINF:-1,Arena Sport 1 HD
+#EXTINF:-1 group-title="SRB",Arena Sport 1 HD
 http://79.127.207.193:80/ArenaSport1HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 2 HD
+#EXTINF:-1 group-title="SRB",Arena Sport 2 HD
 http://79.127.207.193:80/ArenaSport2HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 3 HD
+#EXTINF:-1group-title="SRB",Arena Sport 3 HD
 http://79.127.207.193:80/ArenaSport3HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 4 HD
+#EXTINF:-1 group-title="SRB",Arena Sport 4 HD
 http://79.127.207.193:80/ArenaSport4HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 5 HD
+#EXTINF:-1 group-title="SRB",Arena Sport 5 HD
 http://79.127.207.193:80/ArenaSport5HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 6 HD
+#EXTINF:-1 group-title="SRB",Arena Sport 6 HD
 http://79.127.207.193:80/ArenaSport6HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 7 HD
+#EXTINF:-1 group-title="SRB",Arena Sport 7 HD
 http://79.127.207.193:80/ArenaSport7HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 9 HD
+#EXTINF:-1 group-title="SRB",Arena Sport 9 HD
 http://79.127.207.193:80/ArenaSport9HD/playlist.m3u8
-#EXTINF:-1,Arena Sport 10 HD
+#EXTINF:-1 group-title="SRB",Arena Sport 10 HD
 http://79.127.207.193:80/ArenaSport10HD/playlist.m3u8
-#EXTINF:-1,Super Sport 1 HD
+#EXTINF:-1 group-title="SRB",Super Sport 1 HD
 http://79.127.207.193:80/Supersport1/playlist.m3u8
-#EXTINF:-1,Super Sport 2 HD
+#EXTINF:-1 group-title="SRB",Super Sport 2 HD
 http://79.127.207.193:80/Supersport2/playlist.m3u8
-#EXTINF:-1,Super Sport 3 HD
+#EXTINF:-1 group-title="SRB",Super Sport 3 HD
 http://79.127.207.193:80/Supersport3/playlist.m3u8
-#EXTINF:-1,Super Sport 4 HD
+#EXTINF:-1 group-title="SRB",Super Sport 4 HD
 http://79.127.207.193:80/Supersport4/playlist.m3u8
-#EXTINF:-1,Super Sport 5 HD
+#EXTINF:-1 group-title="SRB",Super Sport 5 HD
 http://79.127.207.193:80/Supersport5/playlist.m3u8
-#EXTINF:-1,Super Sport 6 HD
+#EXTINF:-1 group-title="SRB",Super Sport 6 HD
 http://79.127.207.193:80/Supersport6/playlist.m3u8
-#EXTINF:-1,Super Sport 7 HD
+#EXTINF:-1 group-title="SRB",Super Sport 7 HD
 http://79.127.207.193:80/Supersport7/playlist.m3u8
-#EXTINF:-1,Tring Sport 1 HD
+#EXTINF:-1 group-title="SRB",Tring Sport 1 HD
 http://79.127.207.193:80/TringSport1HD/playlist.m3u8
-#EXTINF:-1,Tring Sport 2 HD
+#EXTINF:-1 group-title="SRB",Tring Sport 2 HD
 http://79.127.207.193:80/TringSport2HD/playlist.m3u8
-#EXTINF:-1,KSport 1 HD
+#EXTINF:-1 group-title="SRB",KSport 1 HD
 http://79.127.207.193:80/KSport1/playlist.m3u8
-#EXTINF:-1,KSport 2 HD
+#EXTINF:-1 group-title="SRB",KSport 2 HD
 http://79.127.207.193:80/KSport2/playlist.m3u8
-#EXTINF:-1,KSport 3 HD
+#EXTINF:-1 group-title="SRB",KSport 3 HD
 http://79.127.207.193:80/KSport3/playlist.m3u8
-#EXTINF:-1,KSport 4 HD
+#EXTINF:-1 group-title="SRB",KSport 4 HD
 http://79.127.207.193:80/KSport4/playlist.m3u8
-#EXTINF:-1,Euro Sport 1 HD
+#EXTINF:-1 group-title="SRB",Euro Sport 1 HD
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
-#EXTINF:-1,Euro Sport 2 HD
+#EXTINF:-1 group-title="SRB",Euro Sport 2 HD
 http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
-#EXTINF:-1,Fight Network HD
+#EXTINF:-1 group-title="SRB",Fight Network HD
 http://79.127.207.193:80/FightNetwork/playlist.m3u8
-#EXTINF:-1,HRT 1 HD
+#EXTINF:-1 group-title="SRB",HRT 1 HD
 http://79.127.207.193:80/HRT1/playlist.m3u8
-#EXTINF:-1,HRT 2 HD
+#EXTINF:-1 group-title="SRB",HRT 2 HD
 http://79.127.207.193:80/HRT2/playlist.m3u8
-#EXTINF:-1,HRT 3 HD
+#EXTINF:-1 group-title="SRB",HRT 3 HD
 http://79.127.207.193:80/HRT3/playlist.m3u8
-#EXTINF:-1,HRT 4 HD
+#EXTINF:-1 group-title="SRB",HRT 4 HD
 http://79.127.207.193:80/HRT4/playlist.m3u8
-#EXTINF:-1,AMC HD
+#EXTINF:-1 group-title="SRB",AMC HD
 http://79.127.207.193:80/AMC/playlist.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="SRB",AXN
 http://79.127.207.193:80/AXN/playlist.m3u8
-#EXTINF:-1,ZDF HD
+#EXTINF:-1 group-title="SRB",ZDF HD
 http://79.127.207.193:80/ZDF/playlist.m3u8
-#EXTINF:-1,SAT 1
+#EXTINF:-1 group-title="SRB",SAT 1
 http://79.127.207.193:80/Sat1/playlist.m3u8
-#EXTINF:-1,ORF 1
+#EXTINF:-1 group-title="SRB",ORF 1
 http://79.127.207.193:80/ORF1/playlist.m3u8
-#EXTINF:-1,ORF 2
+#EXTINF:-1 group-title="SRB",ORF 2
 http://79.127.207.193:80/ORF2/playlist.m3u8
-#EXTINF:1,Kabel1
+#EXTINF:1 group-title="SRB",Kabel1
 http://79.127.207.193:80/Kabel1/playlist.m3u8
-#EXTINF:-1,FOX
+#EXTINF:-1 group-title="SRB",FOX
 http://79.127.207.193:80/Fox/playlist.m3u8
-#EXTINF:-1,HBO 1 HD
+#EXTINF:-1 group-title="SRB",HBO 1 HD
 http://79.127.207.193:80/HBO1/playlist.m3u8
-#EXTINF:-1,HBO 2 HD
+#EXTINF:-1 group-title="SRB",HBO 2 HD
 http://79.127.207.193:80/HBO2/playlist.m3u8
-#EXTINF:-1,HBO 3 HD
+#EXTINF:-1 group-title="SRB",HBO 3 HD
 http://79.127.207.193:80/HBO3/playlist.m3u8
-#EXTINF:-1,Cinemax HD
+#EXTINF:-1 group-title="SRB",Cinemax HD
 http://79.127.207.193:80/CinemaxHD/playlist.m3u8
-#EXTINF:-1,Cinemax 2 HD
+#EXTINF:-1 group-title="SRB",Cinemax 2 HD
 http://79.127.207.193:80/Cinemax2HD/playlist.m3u8
-#EXTINF:-1,Epic Drama HD
+#EXTINF:-1 group-title="SRB",Epic Drama HD
 http://79.127.207.193:80/EpicDramaHD/playlist.m3u8
-#EXTINF:-1,LoviRibolov HD
+#EXTINF:-1 group-title="SRB",LoviRibolov HD
 http://79.127.207.193:80/LoviRibolov/playlist.m3u8
-#EXTINF:-1,M1Gold
+#EXTINF:-1 group-title="SRB",M1Gold
 http://79.127.207.193:80/M1Gold/playlist.m3u8
-#EXTINF:-1,RTS1 HD
+#EXTINF:-1 group-title="SRB",RTS1 HD
 http://79.127.207.193:80/RTS1HD/playlist.m3u8
-#EXTINF:-1,RTS 2 HD
+#EXTINF:-1 group-title="SRB",RTS 2 HD
 http://79.127.207.193:80/RTS1HD/playlist.m3u8
-#EXTINF:-1,RTS 3 HD
+#EXTINF:-1 group-title="SRB",RTS 3 HD
 http://79.127.207.193:80/RTS3HD/playlist.m3u8
-#EXTINF:-1,RTK 1 HD
+#EXTINF:-1 group-title="SRB",RTK 1 HD
 http://79.127.207.193:80/RTK1/playlist.m3u8
-#EXTINF:-1,RTK 2 HD
+#EXTINF:-1, group-title="SRB"RTK 2 HD
 http://79.127.207.193:80/RTK2/playlist.m3u8
-#EXTINF:-1,RTK 3 HD
+#EXTINF:-1 group-title="SRB",RTK 3 HD
 http://79.127.207.193:80/RTK3/playlist.m3u8
-#EXTINF:-1,RTK 4 HD
+#EXTINF:-1 group-title="SRB",RTK 4 HD
 http://79.127.207.193:80/RTK4/playlist.m3u8
-#EXTINF:-1,KTV
+#EXTINF:-1 group-title="SRB",KTV
 http://79.127.207.193:80/KTV/playlist.m3u8
-#EXTINF:-1,RTV21 HD
+#EXTINF:-1 group-title="SRB",RTV21 HD
 http://79.127.207.193:80/RTV21/playlist.m3u8
-#EXTINF:-1,RTV21 Plus HD
+#EXTINF:-1 group-title="SRB",RTV21 Plus HD
 http://79.127.207.193:80/RTV21Plus/playlist.m3u8
-#EXTINF:-1,RTV 21 HD
+#EXTINF:-1 group-title="SRB",RTV 21 HD
 http://79.127.207.193:80/RTV21Popullore/playlist.m3u8
-#EXTINF:-1,Kanal 10 HD
+#EXTINF:-1 group-title="SRB",Kanal 10 HD
 http://79.127.207.193:80/Kanal10/playlist.m3u8
-#EXTINF:-1,Top Channel
+#EXTINF:-1 group-title="SRB",Top Channel
 http://79.127.207.193:80/TopChannel/playlist.m3u8
-#EXTINF:-1,Top News HD
+#EXTINF:-1 group-title="SRB",Top News HD
 http://79.127.207.193:80/TopNews/playlist.m3u8
-#EXTINF:-1,Prva Plus HD
+#EXTINF:-1 group-title="SRB",Prva Plus HD
 http://79.127.207.193:80/PrvaPlus/playlist.m3u8
-#EXTINF:-1,Stinet
+#EXTINF:-1 group-title="SRB",Stinet
 http://79.127.207.193:80/Stinet/playlist.m3u8
-#EXTINF:-1,Tring Action HD
+#EXTINF:-1 group-title="SRB",Tring Action HD
 http://79.127.207.193:80/TringAction/playlist.m3u8
-#EXTINF:-1,Tring Fantasy HD
+#EXTINF:-1 group-title="SRB",Tring Fantasy HD
 http://79.127.207.193:80/TringFantasy/playlist.m3u8
-#EXTINF:-1,Tring Life HD
+#EXTINF:-1 group-title="SRB",Tring Life HD
 http://79.127.207.193:80/TringLife/playlist.m3u8
-#EXTINF:-1,Tring Super
+#EXTINF:-1 group-title="SRB",Tring Super
 http://79.127.207.193:80/TringSuper/playlist.m3u8
-#EXTINF:-1,Tring World
+#EXTINF:-1 group-title="SRB",Tring World
 http://79.127.207.193:80/TringWorld/playlist.m3u8
-#EXTINF:-1,Tring Comedy
+#EXTINF:-1 group-title="SRB",Tring Comedy
 http://79.127.207.193:80/TringComedy/playlist.m3u8
-#EXTINF:-1,Tring Shqip
+#EXTINF:-1 group-title="SRB",Tring Shqip
 http://79.127.207.193:80/TringShqip/playlist.m3u8
-#EXTINF:-1,Tring Tring
+#EXTINF:-1 group-title="SRB",Tring Tring
 http://79.127.207.193:80/TringTring/playlist.m3u8
-#EXTINF:-1,Tring Planet
+#EXTINF:-1 group-title="SRB",Tring Planet
 http://79.127.207.193:80/TringPlanet/playlist.m3u8
-#EXTINF:-1,Tring Planet
+#EXTINF:-1 group-title="SRB",Tring Planet
 http://79.127.207.193:80/TringJolly/playlist.m3u8
-#EXTINF:-1,Tring Smile
+#EXTINF:-1 group-title="SRB",Tring Smile
 http://79.127.207.193:80/TringSmile/playlist.m3u8
-#EXTINF:-1,Tring Kids
+#EXTINF:-1 group-title="SRB",Tring Kids
 http://79.127.207.193:80/TringKids/playlist.m3u8
-#EXTINF:-1,EuroFilm
+#EXTINF:-1 group-title="SRB",EuroFilm
 http://79.127.207.193:80/EuroFilm/playlist.m3u8
-#EXTINF:-1,Film Komedi
+#EXTINF:-1 group-title="SRB",Film Komedi
 http://79.127.207.193:80/FilmKomedi/playlist.m3u8
-#EXTINF:-1,Film Gold
+#EXTINF:-1 group-title="SRB",Film Gold
 http://79.127.207.193:80/FilmNje/playlist.m3u8
-#EXTINF:-1,Film Thriller
+#EXTINF:-1 group-title="SRB",Film Thriller
 http://79.127.207.193:80/FilmThriller/playlist.m3u8
-#EXTINF:-1,Film Drame
+#EXTINF:-1 group-title="SRB",Film Drame
 http://79.127.207.193:80/FilmDrame/playlist.m3u8
-#EXTINF:-1,Film Autor HD
+#EXTINF:-1 group-title="SRB",Film Autor HD
 http://79.127.207.193:80/FilmAutor/playlist.m3u8
-#EXTINF:-1,Film Hits HD
+#EXTINF:-1 group-title="SRB",Film Hits HD
 http://79.127.207.193:80/FilmHits/playlist.m3u8
-#EXTINF:-1,Pink Western
+#EXTINF:-1 group-title="SRB",Pink Western
 http://79.127.207.193:80/PinkWestern/playlist.m3u8
-#EXTINF:-1,Pink Serije
+#EXTINF:-1 group-title="SRB",Pink Serije
 http://79.127.207.193:80/PinkSerije/playlist.m3u8
-#EXTINF:-1,Pink Zabava
+#EXTINF:-1 group-title="SRB",Pink Zabava
 http://79.127.207.193:80/PinkZabava/playlist.m3u8
-#EXTINF:-1,Pink Hits 1
+#EXTINF:-1 group-title="SRB",Pink Hits 1
 http://79.127.207.193:80/PinkHits1/playlist.m3u8
-#EXTINF:-1,Pink Hits
+#EXTINF:-1 group-title="SRB",Pink Hits
 http://79.127.207.193:80/PinkHits2/playlist.m3u8
-#EXTINF:-1,Pink Folk
+#EXTINF:-1 group-title="SRB",Pink Folk
 http://79.127.207.193:80/PinkFolk/playlist.m3u8
-#EXTINF:-1,Pink Folk 2
+#EXTINF:-1 group-title="SRB",Pink Folk 2
 http://79.127.207.193:80/PinkFolk2/playlist.m3u8
-#EXTINF:-1,Pink Plus Elita
+#EXTINF:-1 group-title="SRB",Pink Plus Elita
 http://79.127.207.193:80/PinkPlus/playlist.m3u8
-#EXTINF:-1,Folk Plus
+#EXTINF:-1 group-title="SRB",Folk Plus
 http://79.127.207.193:80/FolkPlus/playlist.m3u8
-#EXTINF:-1,Pink Reality
+#EXTINF:-1 group-title="SRB",Pink Reality
 http://79.127.207.193:80/PinkReality/playlist.m3u8
-#EXTINF:-1,Pink Extra
+#EXTINF:-1 group-title="SRB",Pink Extra
 http://79.127.207.193:80/PinkExtra/playlist.m3u8
-#EXTINF:-1,Pink Pedia
+#EXTINF:-1 group-title="SRB",Pink Pedia
 http://79.127.207.193:80/PinkPedia/playlist.m3u8
-#EXTINF:-1,Pink Music
+#EXTINF:-1 group-title="SRB",Pink Music
 http://79.127.207.193:80/PinkMusic/playlist.m3u8
-#EXTINF:-1,Pink Music 2
+#EXTINF:-1 group-title="SRB",Pink Music 2
 http://79.127.207.193:80/PinkMusic2/playlist.m3u8
-#EXTINF:-1,Pink Koncert
+#EXTINF:-1 group-title="SRB",Pink Koncert
 http://79.127.207.193:80/PinkKoncert/playlist.m3u8
-#EXTINF:-1,Pink Pedia
+#EXTINF:-1 group-title="SRB",Pink Pedia
 http://79.127.207.193:80/PinkPedia/playlist.m3u8
-#EXTINF:-1,Pink Film
+#EXTINF:-1 group-title="SRB",Pink Film
 http://79.127.207.193:80/PinkFilm/playlist.m3u8
-#EXTINF:-1,Pink Action
+#EXTINF:-1 group-title="SRB",Pink Action
 http://79.127.207.193:80/PinkAction/playlist.m3u8
-#EXTINF:-1,Pink Comedy
+#EXTINF:-1 group-title="SRB",Pink Comedy
 http://79.127.207.193:80/PinkComedy/playlist.m3u8
-#EXTINF:-1,Pink Horor
+#EXTINF:-1 group-title="SRB",Pink Horor
 http://79.127.207.193:80/PinkHoror/playlist.m3u8
-#EXTINF:-1,Pink Movies
+#EXTINF:-1 group-title="SRB",Pink Movies
 http://79.127.207.193:80/PinkMovies/playlist.m3u8
-#EXTINF:-1,Pink Premium HD
+#EXTINF:-1 group-title="SRB",Pink Premium HD
 http://79.127.207.193:80/PinkPremium/playlist.m3u8
-#EXTINF:-1,Pink Thriller
+#EXTINF:-1 group-title="SRB",Pink Thriller
 http://79.127.207.193:80/PinkThriller/playlist.m3u8
-#EXTINF:-1,Pink Soap
+#EXTINF:-1 group-title="SRB",Pink Soap
 http://79.127.207.193:80/PinkSoap/playlist.m3u8
-#EXTINF:-1,Pink Fashion
+#EXTINF:-1 group-title="SRB",Pink Fashion
 http://79.127.207.193:80/PinkFashion/playlist.m3u8
-#EXTINF:-1,Red HD
+#EXTINF:-1 group-title="SRB",Red HD
 http://79.127.207.193:80/Pink2/playlist.m3u8
-#EXTINF:-1,Vesdi HD
+#EXTINF:-1 group-title="SRB",Vesdi HD
 http://79.127.207.193:80/Pink3/playlist.m3u8
-#EXTINF:-1,Pink Family
+#EXTINF:-1 group-title="SRB",Pink Family
 http://79.127.207.193:80/PinkFamily/playlist.m3u8
-#EXTINF:-1,Pink Romance
+#EXTINF:-1 group-title="SRB",Pink Romance
 http://79.127.207.193:80/PinkRomance/playlist.m3u8
-#EXTINF:-1,Pink World Cinema
+#EXTINF:-1 group-title="SRB",Pink World Cinema
 http://79.127.207.193:80/PinkWorldCinema/playlist.m3u8
-#EXTINF:-1,Pink World
+#EXTINF:-1 group-title="SRB",Pink World
 http://79.127.207.193:80/PinkWorld/playlist.m3u8
-#EXTINF:-1,Hayat FOLK HD
+#EXTINF:-1 group-title="SRB",Hayat FOLK HD
 http://79.127.207.193:80/HayatFolk/playlist.m3u8
-#EXTINF:-1,Bubble TV
-http://79.127.207.193:80/RTV21Junior/playlist.m3u8
-#EXTINF:-1,Tip TV
-http://79.127.207.193:80/TipTV/playlist.m3u8
-#EXTINF:-1,Klan Plus
-http://79.127.207.193:80/KlanPlus/playlist.m3u8
-#EXTINF:-1,Klan Kosova HD
-http://79.127.207.193:80/KlanKosova/playlist.m3u8
-#EXTINF:-1,Klan Music
-http://79.127.207.193:80/KlanMusic/playlist.m3u8
-#EXTINF:-1,RTV Ora HD
-http://79.127.207.193:80/OraNews/playlist.m3u8
-#EXTINF:-1,RTSH 1 HD
-http://79.127.207.193:80/RTSH1/playlist.m3u8
-#EXTINF:-1,RTSH 2 HD
-http://79.127.207.193:80/RTSH2/playlist.m3u8
-#EXTINF:-1,T7 HD
-http://79.127.207.193:80/T7/playlist.m3u8
-#EXTINF:-1,Syri Vision HD
-http://79.127.207.193:80/SyriVision/playlist.m3u8
-#EXTINF:-1,Kanali 7
-http://79.127.207.193:80/Kanali7/playlist.m3u8
-#EXTINF:-1,News 24 HD
-http://79.127.207.193:80/News24/playlist.m3u8
-#EXTINF:-1,Report TV HD
-http://79.127.207.193:80/ReportTV/playlist.m3u8
-#EXTINF:-1,Bn Music HD
-http://79.127.207.193:80/BNMusic/playlist.m3u8
-#EXTINF:-1,MRT 1 HD
-http://79.127.207.193:80/MRT1/playlist.m3u8
-#EXTINF:-1,MRT 2 HD
-http://79.127.207.193:80/MRT2/playlist.m3u8
-#EXTINF:-1,MRT 3 HD
-http://79.127.207.193:80/MRT3/playlist.m3u8
-#EXTINF:-1,KCN 1
+
+#EXTINF:-1 group-title="SRB" ,KCN 1
 http://79.127.207.193:80/KCN1/playlist.m3u8
-#EXTINF:-1,KCN 2
+#EXTINF:-1 group-title="SRB",KCN 2
 http://79.127.207.193:80/KCN2/playlist.m3u8
-#EXTINF:-1,KCN 3
+#EXTINF:-1 group-title="SRB",KCN 3
 http://79.127.207.193:80/KCN3/playlist.m3u8
-#EXTINF:-1,TVSlovenija 1 HD
-http://79.127.207.193:80/SLO1/playlist.m3u8
-#EXTINF:-1,TV Slovenija 2 HD
-http://79.127.207.193:80/SLO2/playlist.m3u8
-#EXTINF:-1,TV Slovenija 3 HD
-http://79.127.207.193:80/SLO3/playlist.m3u8
-#EXTINF:-1,Discovery Channel
-http://79.127.207.193:80/DiscoveryChannel/playlist.m3u8
-#EXTINF:-1,Discovery Science
+
+#EXTINF:-1 group-title="SRB",Discovery Science
 http://79.127.207.193:80/DiscoveryScience/playlist.m3u8
-#EXTINF:-1,AnimalPlanet HD
+#EXTINF:-1 group-title="SRB",AnimalPlanet HD
 http://79.127.207.193:80/AnimalPlanet/playlist.m3u8
-#EXTINF:-1,ViasatHistory HD
+#EXTINF:-1 group-title="SRB",ViasatHistory HD
 http://79.127.207.193:80/ViasatHistory/playlist.m3u8
-#EXTINF:-1,ViasatExplorer HD
+#EXTINF:-1 group-title="SRB",ViasatExplorer HD
 http://79.127.207.193:80/ViasatExplorer/playlist.m3u8
-#EXTINF:-1,ViasatNature HD
+#EXTINF:-1 group-title="SRB",ViasatNature HD
 http://79.127.207.193:80/ViasatNature/playlist.m3u8
-#EXTINF:-1,Dmax HD
+#EXTINF:-1 group-title="SRB",Dmax HD
 http://79.127.207.193:80/Dmax/playlist.m3u8
-#EXTINF:-1,TLC HD
+#EXTINF:-1 group-title="SRB",TLC HD
 http://79.127.207.193:80/TLCHD/playlist.m3u8
-#EXTINF:-1,Euronews
+#EXTINF:-1 group-title="SRB",Euronews
 http://79.127.207.193:80/Euronews/playlist.m3u8
-#EXTINF:-1,Deutsche Welle
+#EXTINF:-1 group-title="SRB",Deutsche Welle
 http://79.127.207.193:80/DW/playlist.m3u8
-#EXTINF:-1,N1
+#EXTINF:-1 group-title="SRB",Nova
 http://79.127.207.193:80/test/playlist.m3u8
-#EXTINF:-1,KinoTV
+#EXTINF:-1 group-title="SRB",KinoTV
 http://79.127.207.193:80/KinoTV/playlist.m3u8
-#EXTINF:-1,Agro TV
+#EXTINF:-1 group-title="SRB",Agro TV
 http://79.127.207.193:80/AgroTV/playlist.m3u8
-#EXTINF:-1,TV1000
+#EXTINF:-1 group-title="SRB",TV1000
 http://79.127.207.193:80/TV1000/playlist.m3u8
-#EXTINF:-1,OBN HD
+#EXTINF:-1 group-title="SRB",OBN HD
 http://79.127.207.193:80/OBN/playlist.m3u8
-#EXTINF:-1,Minimax
+#EXTINF:-1 group-title="SRB",Minimax
 http://79.127.207.193:80/Minimax/playlist.m3u8
-#EXTINF:-1,Cartoonito
+#EXTINF:-1 group-title="SRB",Cartoonito
 http://79.127.207.193:80/Cartoonito/playlist.m3u8
-#EXTINF:-1,Jugoton
+#EXTINF:-1 group-title="SRB",Jugoton
 http://79.127.207.193:80/Jugoton/playlist.m3u8
 #EXTINF:-1,DuckTV HD
 http://79.127.207.193:80/DuckTV/playlist.m3u8
-#EXTINF:-1,BabyTV HD
+#EXTINF:-1 group-title="SRB",BabyTV HD
 http://79.127.207.193:80/BabyTV/playlist.m3u8
-#EXTINF:-1,Nickelodeon HD
+#EXTINF:-1 group-title="SRB",Nickelodeon HD
 http://79.127.207.193:80/Nickelodeon/playlist.m3u8
-#EXTINF:-1,CMC TV
+#EXTINF:- group-title="SRB"1,CMC TV
 http://79.127.207.193:80/CMC/playlist.m3u8
-#EXTINF:-1,MTV HD
+#EXTINF:-1 group-title="SRB",MTV HD
 http://79.127.207.193:80/MTV/playlist.m3u8
-#EXTINF:-1,MTV80 HD
+#EXTINF:-1 group-title="SRB",MTV80 HD
 http://79.127.207.193:80/MTV80/playlist.m3u8
-#EXTINF:-1,MTVHits HD
+#EXTINF:-1 group-title="SRB",MTVHits HD
 http://79.127.207.193:80/MTVHits/playlist.m3u8
-#EXTINF:-1,VH1
+#EXTINF:-1 group-title="SRB",VH1
 http://79.127.207.193:80/VH1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SRB",RTS 1 HD
+http://51.83.135.95/RTS1/index.m3u8
+#EXTINF:-1 group-title="SRB",RTS 2 HD
+http://51.83.135.95/RTS2/index.m3u8
+#EXTINF:- group-title="SRB"1,RTS 3 HD
+http://51.83.135.95/RTS3/index.m3u8
+#EXTINF:-1 group-title="SRB",AlsatM HD
+http://51.83.135.95/AlsatM/index.m3u8
+#EXTINF:-1 group-title="SRB",NovaTV
+http://51.83.135.95/NovaTV/index.m3u8
+#EXTINF:-1 group-title="SRB",TLC HD
+http://51.83.135.95/TLCHD/index.m3u8
+#EXTINF:-1 group-title="SRB",K1 HD
+http://51.83.135.95/K1/index.m3u8
+#EXTINF:-1 group-title="SRB",RTL
+http://51.83.135.95/RTL/index.m3u8
+#EXTINF:-1 group-title="SRB",RTL 2 HD
+http://51.83.135.95/RTL2/index.m3u8
+#EXTINF:-1 group-title="SRB",RTLde HD
+http://51.83.135.95/rtlde/index.m3u8
+#EXTINF:-1 group-title="SRB",Pink TV HD
+http://51.83.135.95/Pink/index.m3u8
+#EXTINF:-1 group-title="SRB",Cinemax 1 HD
+http://51.83.135.95/Cinemax/index.m3u8
+#EXTINF:-1 group-title="SRB",Cinemax 2 HD
+http://51.83.135.95/Cinemax2/index.m3u8
+#EXTINF:-1 group-title="SRB",Star Movies HD
+http://51.83.135.95/StarMovies/index.m3u8
+#EXTINF:-1 group-title="SRB",Star HD
+http://51.83.135.95/StarHD/index.m3u8
+#EXTINF:-1 group-title="SRB",HBO 1 HD
+http://51.83.135.95/HBO1/index.m3u8
+#EXTINF:-1 group-title="SRB",HBO 2 HD
+http://51.83.135.95/HBO2/index.m3u8
+#EXTINF:-1 group-title="SRB",HBO 3 HD
+http://51.83.135.95/HBO3/index.m3u8
+#EXTINF:-1 group-title="SRB",Dox TV
+http://51.83.135.95/DoxTV/index.m3u8
+#EXTINF:-1 group-title="SRB",Viasat Nature HD
+http://51.83.135.95/ViasatNature/index.m3u8
+#EXTINF:-1 group-title="SRB",Viasat History HD
+http://51.83.135.95/ViasatHistory/index.m3u8
+#EXTINF:-1 group-title="SRB",DocuBox HD
+http://51.83.135.95/DocuBox/index.m3u8
+#EXTINF:-1 group-title="SRB",National Geographic HD
+http://51.83.135.95/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="SRB",Animal Planet
+http://51.83.135.95/AnimalPlanet/index.m3u8
+#EXTINF:-1 group-title="SRB",Discovery
+http://51.83.135.95/Discovery/index.m3u8
+#EXTINF:-1 group-title="SRB",TravelChannel HD
+http://51.83.135.95/TravelChannel/index.m3u8
+#EXTINF:-1 group-title="SRB",Cartoon Network
+http://51.83.135.95/CartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="SRB",Minimax
+http://51.83.135.95/Minimax/index.m3u8
+#EXTINF:-1 group-title="SRB",Nicktoons
+http://51.83.135.95/Nicktoons/index.m3u8
+#EXTINF:-1 group-title="SRB",DaVinciLearning HD
+http://51.83.135.95/DaVinciLearning/index.m3u8
+#EXTINF:-1 group-title="SRB",BabyTV
+http://51.83.135.95/BabyTV/index.m3u8
+#EXTINF:-1 group-title="SRB",RADIO Happy HD
+http://51.83.135.95/Happy/index.m3u8
+
+
+#EXTINF:-1 group-title="SRB",TLCHD
+http://51.83.135.95/TLCHD/index.m3u8
+#EXTINF:-1 group-title="SRB",AlsatM HD
+http://51.83.135.95/AlsatM/index.m3u8
+#EXTINF:-1 group-title="SRB",DaVinciLearning HD
+http://51.83.135.95/DaVinciLearning/index.m3u8
+#EXTINF:-1 group-title="SRB",BabyTV
+http://51.83.135.95/BabyTV/index.m3u8
+#EXTINF:-1 group-title="SRB",RTS1 HD
+http://51.83.135.95/RTS1/index.m3u8
+#EXTINF:-1 group-title="SRB",DocuBox HD
+http://51.83.135.95/DocuBox/index.m3u8
+#EXTINF:-1 group-title="SRB",NationalGeographic HD
+http://51.83.135.95/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="SRB",K1 HD
+http://51.83.135.95/K1/index.m3u8
+#EXTINF:-1 group-title="SRB",rtlde HD
+http://51.83.135.95/rtlde/index.m3u8
+#EXTINF:-1 group-title="SRB",TravelChannel HD
+http://51.83.135.95/TravelChannel/index.m3u8
+#EXTINF:-1 group-title="SRB",StarHD
+http://51.83.135.95/StarHD/index.m3u8
+#EXTINF:-1 group-title="SRB",HBO1 HD
+http://51.83.135.95/HBO1/index.m3u8
+#EXTINF:-1 group-title="SRB",HBO2 HD
+http://51.83.135.95/HBO2/index.m3u8
+#EXTINF:-1,HBO3 HD
+http://51.83.135.95/HBO3/index.m3u8
+#EXTINF:-1 group-title="SRB",CartoonNetwork
+http://51.83.135.95/CartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="SRB",Minimax
+http://51.83.135.95/Minimax/index.m3u8
+#EXTINF:-1 group-title="SRB",Nicktoons
+http://51.83.135.95/Nicktoons/index.m3u8
+
+
 
 
 
