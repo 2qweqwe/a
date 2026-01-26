@@ -289,8 +289,7 @@ http://nocable.cc:8080/ollie246/7ly1kqN8y1/14824
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: N1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/23e43b629246f876ee5502db95fa67f5.png" group-title="SRB ➾ News",RS: N1
 http://svods.net:8080/leila50/8e0f2fb0/23055
-#EXTINF:-1 tvg-id="" tvg-name="RS: Nova S" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/412eb963b7baa7ba2b514a8c0d940e8c.png" group-title="SRB ➾ News",RS: Nova S
-http://svods.net:8080/leila50/8e0f2fb0/10717
+
 
 
 #EXTINF:-1 group-title="SRB",Arena Sport 1 HD
@@ -627,6 +626,7 @@ http://51.83.135.95/CartoonNetwork/index.m3u8
 http://51.83.135.95/Minimax/index.m3u8
 #EXTINF:-1 group-title="SRB",Nicktoons
 http://51.83.135.95/Nicktoons/index.m3u8
+
 
 
 
