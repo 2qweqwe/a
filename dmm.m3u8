@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="" tvg-name="RS: N1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/23e43b629246f876ee5502db95fa67f5.png" group-title="N1 ➾ News",RS: N1
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=infon1&channel=n1srp&u=infon1&p=n1Sh4redSecre7iNf0&player=m3u8
+
+
+
 #EXTINF:-1 tvg-id="Jednotka" tvg-name="Jednotka" tvg-logo="http://46.36.40.22/1023/stv1hd.png" group-title="Slovenské",Jednotka
 http://212.102.38.45/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Dvojka" tvg-name="Dvojka" tvg-logo="http://46.36.40.22/1023/stv2hd.png" group-title="Slovenské",Dvojka
