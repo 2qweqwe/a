@@ -288,7 +288,9 @@ http://nocable.cc:8080/ollie246/7ly1kqN8y1/14824
 
 
 #EXTINF:-1 tvg-id="" tvg-name="RS: N1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/23e43b629246f876ee5502db95fa67f5.png" group-title="SRB ➾ News",RS: N1
-http://svods.net:8080/leila50/8e0f2fb0/23055
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=infon1&channel=n1srp&u=infon1&p=n1Sh4redSecre7iNf0&player=m3u8
+
+
 
 
 
@@ -626,6 +628,7 @@ http://51.83.135.95/CartoonNetwork/index.m3u8
 http://51.83.135.95/Minimax/index.m3u8
 #EXTINF:-1 group-title="SRB",Nicktoons
 http://51.83.135.95/Nicktoons/index.m3u8
+
 
 
 
