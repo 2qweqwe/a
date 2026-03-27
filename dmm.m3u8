@@ -1092,6 +1092,8 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/166218
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/298437
 #EXTINF:-1 tvg-id="" tvg-name="RS: Lov i ribolov" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c89f9d04554604311a56430fd70f5da5.png" group-title="Serbia ➾ Nature",RS: Lov i ribolov
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/65878
+#EXTINF:-1, tvg-name="WORLD FISHING NETWORK" group-title="Serbia ➾ Nature",RS: WORLD FISHING NETWORK
+http://bgdc.live:25461/tarawalker/74456338/4615
 #EXTINF:-1 tvg-id="" tvg-name="RS: NAT GEO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/47c824d96c25ee74c0f81296c3d2c065.png" group-title="Serbia ➾ Nature",RS: NAT GEO
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/197010
 #EXTINF:-1 tvg-id="" tvg-name="RS: NAT GEO Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/84926dfdd209c787387dbbd325be24ba.png" group-title="Serbia ➾ Nature",RS: NAT GEO Wild
