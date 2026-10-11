@@ -328,620 +328,380 @@ http://roi-tv.net:9000/live/Pacha%40KeEnv/zJmvZZBm7MZN/1084.m3u
 http://roi-tv.net:9000/live/Pacha%40KeEnv/zJmvZZBm7MZN/830.m3u
 #EXTINF:-1 tvg-id="BooB" tvg-name="XXX: Hot ᴴᴰ" tvg-logo="" group-title="EXCHANGE XXX",XXX: Hot ᴴᴰ
 http://roi-tv.net:9000/live/Pacha%40KeEnv/zJmvZZBm7MZN/827.m3u
+#EXTINF:-1 group-title="EXCHANGE XXX",Brazzers TV
+http://185.23.80.23:8080/BrazzersTV/index.m3u8
+#EXTINF:-1 group-title="EXCHANGE XXX",BarelyLegal
+http://185.23.80.23:8080/BarelyLegal/index.m3u8
+#EXTINF:-1 group-title="EXCHANGE XXX",PlayboyTV
+http://185.23.80.23:8080/PlayboyTV/index.m3u8
+#EXTINF:-1 group-title="EXCHANGE XXX",Blue Hustler
+http://185.23.80.23:8080/BlueHustler/index.m3u8
 
 
-#EXTINF:-1 tvg-id="tvrinternational.ro" tvg-name="RS: Alternativna TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/1a84f233b3fcc701b9e7dda7d45bf3ea.png" group-title="Serbia",RS: Alternativna TV HD
-http://filex.me:8080/live/3114654477/5787654467/317487.ts
-#EXTINF:-1 tvg-id="axn.pl" tvg-name="RS: AXN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Serbia",RS: AXN HD
-http://filex.me:8080/live/3114654477/5787654467/317488.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Balkan Radio HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Serbia",RS: Balkan Radio HD
-http://filex.me:8080/live/3114654477/5787654467/317489.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Balkan TRIP HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/9d5e79e7ea97c38f3d0c795148a7ddcb.png" group-title="Serbia",RS: Balkan TRIP HD
-http://filex.me:8080/live/3114654477/5787654467/317490.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: BLIC HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/4b2cb146c255edd2fcffe75950711150.png" group-title="Serbia",RS: BLIC HD
-http://filex.me:8080/live/3114654477/5787654467/317491.ts
-#EXTINF:-1 tvg-id="investigationdiscovery.bg" tvg-name="RS: Investigation Discovery HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Serbia",RS: Investigation Discovery HD
-http://filex.me:8080/live/3114654477/5787654467/317492.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Kazbuka HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/e596f4995753694f644efd6d1bbc7744.png" group-title="Serbia",RS: Kazbuka HD
-http://filex.me:8080/live/3114654477/5787654467/317493.ts
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="RS: MIS TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/ecf70aeff7b5e582a52b65dc1c556b4e.png" group-title="Serbia",RS: MIS TV HD
-http://filex.me:8080/live/3114654477/5787654467/317494.ts
-#EXTINF:-1 tvg-id="mutv.uk" tvg-name="RS: Muzzik HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Serbia",RS: Muzzik HD
-http://filex.me:8080/live/3114654477/5787654467/317495.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Novosadska TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/84efe6d38893911e9d727467189d6146.png" group-title="Serbia",RS: Novosadska TV HD
-http://filex.me:8080/live/3114654477/5787654467/317496.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Partizan HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Serbia",RS: Partizan HD
-http://filex.me:8080/live/3114654477/5787654467/317497.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PI Kanal HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Serbia",RS: PI Kanal HD
-http://filex.me:8080/live/3114654477/5787654467/317498.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK S! HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/a5b9649e789ef8a49a565a95b625ff48.jpg" group-title="Serbia",RS: PINK S! HD
-http://filex.me:8080/live/3114654477/5787654467/317499.ts
-#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="RS: RED TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8026212d3dfee1cb70fd9a244895af4c.png" group-title="Serbia",RS: RED TV HD
-http://filex.me:8080/live/3114654477/5787654467/317500.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: RTV BOR HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/da48e65977e47e3aec62c80292b89e4f.jpg" group-title="Serbia",RS: RTV BOR HD
-http://filex.me:8080/live/3114654477/5787654467/317501.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: RTV Fontana HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/63ba20a8c50f85e6657b79fe709b3956.jpg" group-title="Serbia",RS: RTV Fontana HD
-http://filex.me:8080/live/3114654477/5787654467/317502.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: RTV MIR HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Serbia",RS: RTV MIR HD
-http://filex.me:8080/live/3114654477/5787654467/317503.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Sandzak TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/77fc0f82b2f841611de3d23dd45b927b.jpg" group-title="Serbia",RS: Sandzak TV HD
-http://filex.me:8080/live/3114654477/5787654467/317504.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: SOS Kanal PLUS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7572271c108c24ef599141ac0f186633.png" group-title="Serbia",RS: SOS Kanal PLUS HD
-http://filex.me:8080/live/3114654477/5787654467/317505.ts
-#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="RS: Sport KLUB 6 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/3d3625edc8a744fbced185b8647c17c6.png" group-title="Serbia",RS: Sport KLUB 6 HD
-http://filex.me:8080/live/3114654477/5787654467/317506.ts
-#EXTINF:-1 tvg-id="studiomed.pl" tvg-name="RS: Studio B HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c6487d01bd31cf7a7ad92c01d9f5e6ee.png" group-title="Serbia",RS: Studio B HD
-http://filex.me:8080/live/3114654477/5787654467/317507.ts
-#EXTINF:-1 tvg-id="startv.tr" tvg-name="RS: Superstar HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cc2bb9c046a16998e7ffd68e62571a5c.png" group-title="Serbia",RS: Superstar HD
-http://filex.me:8080/live/3114654477/5787654467/317508.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Tanjug HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/8363c2bdcd9d8cb77e76688f13e93927.png" group-title="Serbia",RS: Tanjug HD
-http://filex.me:8080/live/3114654477/5787654467/317509.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: TV HRAM HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d5da1b06850261764063251198bb7207.png" group-title="Serbia",RS: TV HRAM HD
-http://filex.me:8080/live/3114654477/5787654467/317510.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: TV Kladovo HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/d3a25fb85fa176155c48e3f0d92790aa.png" group-title="Serbia",RS: TV Kladovo HD
-http://filex.me:8080/live/3114654477/5787654467/317511.ts
-#EXTINF:-1 tvg-id="nova.bg" tvg-name="RS: TV NOVI Pazar HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f769c2ab10a0c68303a9a8fd20e33ff8.png" group-title="Serbia",RS: TV NOVI Pazar HD
-http://filex.me:8080/live/3114654477/5787654467/317512.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: TV Palma PLUS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c34ae8a3c2460122f9263720eb6b095a.png" group-title="Serbia",RS: TV Palma PLUS HD
-http://filex.me:8080/live/3114654477/5787654467/317513.ts
-#EXTINF:-1 tvg-id="protv.ro" tvg-name="RS: TV Pirot HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Serbia",RS: TV Pirot HD
-http://filex.me:8080/live/3114654477/5787654467/317514.ts
-#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="RS: Arena Esport HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/23dffbbe5386161aeed488d37ab14424.png" group-title="Serbia ➾ Sports",RS: Arena Esport HD
-http://filex.me:8080/live/3114654477/5787654467/317464.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Arena Fight HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/24a3bcf4b80c09121f750ea441d61aad.png" group-title="Serbia ➾ Sports",RS: Arena Fight HD
-http://filex.me:8080/live/3114654477/5787654467/317465.ts
-#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="RS: Arena Premium 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/090de75234de847112cba1cece75f848.png" group-title="Serbia ➾ Sports",RS: Arena Premium 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317466.ts
-#EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="RS: Arena Premium 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/975c7b2205f06f913fe2a189b15f0b28.png" group-title="Serbia ➾ Sports",RS: Arena Premium 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317467.ts
-#EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="RS: Arena Premium 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bd4b8dcc76204c0d067249a3b62a085d.png" group-title="Serbia ➾ Sports",RS: Arena Premium 3 HD
-http://filex.me:8080/live/3114654477/5787654467/317468.ts
-#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="RS: Arena Sport 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/28a5988d58871ad37addfecddb8781dd.png" group-title="Serbia ➾ Sports",RS: Arena Sport 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317469.ts
-#EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="RS: Arena Sport 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/27a53b708ea0b3ab77447d5acf013093.png" group-title="Serbia ➾ Sports",RS: Arena Sport 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317470.ts
-#EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="RS: Arena Sport 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c4084fb33d4ad424d6f069449027760f.png" group-title="Serbia ➾ Sports",RS: Arena Sport 3 HD
-http://filex.me:8080/live/3114654477/5787654467/317471.ts
-#EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="RS: Arena Sport 3 Premium HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/04c0022e713c886ddf275eed944d0a15.png" group-title="Serbia ➾ Sports",RS: Arena Sport 3 Premium HD
-http://filex.me:8080/live/3114654477/5787654467/317472.ts
-#EXTINF:-1 tvg-id="arenasport4.hr" tvg-name="RS: Arena Sport 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/294bde9c094cfed3084c2826c4c620f1.png" group-title="Serbia ➾ Sports",RS: Arena Sport 4 HD
-http://filex.me:8080/live/3114654477/5787654467/317473.ts
-#EXTINF:-1 tvg-id="arenasport5.hr" tvg-name="RS: Arena Sport 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/cf5884cab1ace95e7c47ec405435f0ed.png" group-title="Serbia ➾ Sports",RS: Arena Sport 5 HD
-http://filex.me:8080/live/3114654477/5787654467/317474.ts
-#EXTINF:-1 tvg-id="arenasport6.hr" tvg-name="RS: Arena Sport 6 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7023fc92e934bffc62766072ad7b0d02.png" group-title="Serbia ➾ Sports",RS: Arena Sport 6 HD
-http://filex.me:8080/live/3114654477/5787654467/317475.ts
-#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="RS: Arena Sport 7 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/322021fc3fa230a288ac966a1b600955.png" group-title="Serbia ➾ Sports",RS: Arena Sport 7 HD
-http://filex.me:8080/live/3114654477/5787654467/317476.ts
-#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="RS: Arena Sport 8 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/67e73106daaa942dc325b486aa17d111.png" group-title="Serbia ➾ Sports",RS: Arena Sport 8 HD
-http://filex.me:8080/live/3114654477/5787654467/317477.ts
-#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="RS: Arena Sport 9 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/da40f0a92fdc53fd567f71858a0aae1d.png" group-title="Serbia ➾ Sports",RS: Arena Sport 9 HD
-http://filex.me:8080/live/3114654477/5787654467/317478.ts
-#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="RS: Arena Sport 1X2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/e1141a37c5cfbbf7ce52f4109f89aea4.png" group-title="Serbia ➾ Sports",RS: Arena Sport 1X2 HD
-http://filex.me:8080/live/3114654477/5787654467/317479.ts
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="RS: Eurosport 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f07f831112c0411fb3fc560fec738afa.png" group-title="Serbia ➾ Sports",RS: Eurosport 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317480.ts
-#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="RS: Eurosport 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5040dc1ab3654feade6e2e37a89f1adf.png" group-title="Serbia ➾ Sports",RS: Eurosport 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317481.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: NOVA Sport HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/eae34caa8b38c300a9ad1b7fad7bdb51.png" group-title="Serbia ➾ Sports",RS: NOVA Sport HD
-http://filex.me:8080/live/3114654477/5787654467/317482.ts
-#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="RS: Sport KLUB 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d1fe0f9118f2c6c8d1ae0c9f704701c8.png" group-title="Serbia ➾ Sports",RS: Sport KLUB 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317483.ts
-#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="RS: Sport KLUB 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4c1330777185e47ef3f0ee3ea69aa0fc.png" group-title="Serbia ➾ Sports",RS: Sport KLUB 3 HD
-http://filex.me:8080/live/3114654477/5787654467/317484.ts
-#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="RS: Sport KLUB 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/133fc2e99d0909d750bd414d1c22a7be.jpg" group-title="Serbia ➾ Sports",RS: Sport KLUB 4 HD
-http://filex.me:8080/live/3114654477/5787654467/317485.ts
-#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="RS: Sport KLUB 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f0217ea7a76646241a84a64122d79c25.jpg" group-title="Serbia ➾ Sports",RS: Sport KLUB 5 HD
-http://filex.me:8080/live/3114654477/5787654467/317486.ts
-#EXTINF:-1 tvg-id="crimeinvestigation.ca" tvg-name="RS: Crime+ Investigation HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/197d6608c304c6d5c7a7603ba64faa4d.png" group-title="Serbia ➾ Documentary",RS: Crime+ Investigation HD
-http://filex.me:8080/live/3114654477/5787654467/317394.ts
-#EXTINF:-1 tvg-id="discoveryscience.no" tvg-name="RS: Discovery Science HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/08a78648e5e48e1976e30d287dd83074.png" group-title="Serbia ➾ Documentary",RS: Discovery Science HD
-http://filex.me:8080/live/3114654477/5787654467/317395.ts
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="RS: Discovery World HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/097362b353851fdfde37efd8ffc2a4d9.png" group-title="Serbia ➾ Documentary",RS: Discovery World HD
-http://filex.me:8080/live/3114654477/5787654467/317396.ts
-#EXTINF:-1 tvg-id="history.de" tvg-name="RS: History HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/e41359894904028aaf9a547c0b30ff4d.png" group-title="Serbia ➾ Documentary",RS: History HD
-http://filex.me:8080/live/3114654477/5787654467/317397.ts
-#EXTINF:-1 tvg-id="history2.ca" tvg-name="RS: History 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/009138f9f74c2f917b0e4db19da13bb6.png" group-title="Serbia ➾ Documentary",RS: History 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317398.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Pedia HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/be210427ce7cd6962e05a5e13a6da6c4.png" group-title="Serbia ➾ Documentary",RS: PINK Pedia HD
-http://filex.me:8080/live/3114654477/5787654467/317399.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Sci-fi & Fantasy HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9de636f1b13795a0c0877d0dad32bf04.png" group-title="Serbia ➾ Documentary",RS: PINK Sci-fi & Fantasy HD
-http://filex.me:8080/live/3114654477/5787654467/317400.ts
-#EXTINF:-1 tvg-id="scifiuniversal.pl" tvg-name="RS: Scifi HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4ad46aff6407c1ed5dae1fba49c958a7.png" group-title="Serbia ➾ Documentary",RS: Scifi HD
-http://filex.me:8080/live/3114654477/5787654467/317401.ts
-#EXTINF:-1 tvg-id="cinemax.bg" tvg-name="RS: Cinemania HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9f0aec8729c2d95136f11f98a0671540.png" group-title="Serbia ➾ Movie",RS: Cinemania HD
-http://filex.me:8080/live/3114654477/5787654467/317402.ts
-#EXTINF:-1 tvg-id="cinemax.bg" tvg-name="RS: Cinemax HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/78675430e94adbda94e4d4a9ae49b3ac.png" group-title="Serbia ➾ Movie",RS: Cinemax HD
-http://filex.me:8080/live/3114654477/5787654467/317403.ts
-#EXTINF:-1 tvg-id="cinemax2.bg" tvg-name="RS: Cinemax 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/793b5dcca184e138584261dafdfb959f.png" group-title="Serbia ➾ Movie",RS: Cinemax 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317404.ts
-#EXTINF:-1 tvg-id="cinestartv.hr" tvg-name="RS: Cinestar TV 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/a2810f2c9c0995467ae22fdf3b17bb7f.png" group-title="Serbia ➾ Movie",RS: Cinestar TV 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317405.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Cinestar TV Action HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/5cd96074e70e4a5f96314759a5fe75fd.png" group-title="Serbia ➾ Movie",RS: Cinestar TV Action HD
-http://filex.me:8080/live/3114654477/5787654467/317406.ts
-#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="RS: Cinestar TV Comedy HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/be3c38936a463140603005c7260e785b.png" group-title="Serbia ➾ Movie",RS: Cinestar TV Comedy HD
-http://filex.me:8080/live/3114654477/5787654467/317407.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Cinestar TV Fantasy HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/1e419d7eb64537970357721b97bb7727.png" group-title="Serbia ➾ Movie",RS: Cinestar TV Fantasy HD
-http://filex.me:8080/live/3114654477/5787654467/317408.ts
-#EXTINF:-1 tvg-id="cinestarpremiere1.hr" tvg-name="RS: Cinestar TV Premiere 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/b29ae309ad7a90640dffd428fa4d103c.png" group-title="Serbia ➾ Movie",RS: Cinestar TV Premiere 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317409.ts
-#EXTINF:-1 tvg-id="cinestarpremiere2.hr" tvg-name="RS: Cinestar TV Premiere 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/ae57f2005a6f370a736d11c7f9c91fe9.png" group-title="Serbia ➾ Movie",RS: Cinestar TV Premiere 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317410.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: FILM KLUB HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3e638b1ac51e5b32d183d4da5e88b5a0.png" group-title="Serbia ➾ Movie",RS: FILM KLUB HD
-http://filex.me:8080/live/3114654477/5787654467/317411.ts
-#EXTINF:-1 tvg-id="filmboxextra.pl" tvg-name="RS: FILM KLUB Extra HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/467a778ada967b78c418c94054034ad8.png" group-title="Serbia ➾ Movie",RS: FILM KLUB Extra HD
-http://filex.me:8080/live/3114654477/5787654467/317412.ts
-#EXTINF:-1 tvg-id="filmboxextra.pl" tvg-name="RS: Filmbox Extra HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/3084f3e8f293583783789d97ec3e0a94.png" group-title="Serbia ➾ Movie",RS: Filmbox Extra HD
-http://filex.me:8080/live/3114654477/5787654467/317413.ts
-#EXTINF:-1 tvg-id="fox.no" tvg-name="RS: FOX HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/6e8f4a79008813dfa45f1c1eee94e266.svg" group-title="Serbia ➾ Movie",RS: FOX HD
-http://filex.me:8080/live/3114654477/5787654467/317414.ts
-#EXTINF:-1 tvg-id="foxcrime.hr" tvg-name="RS: FOX Crime HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/88f6ebe36cc7c12ff456434cb10e7279.png" group-title="Serbia ➾ Movie",RS: FOX Crime HD
-http://filex.me:8080/live/3114654477/5787654467/317415.ts
-#EXTINF:-1 tvg-id="foxlife.us" tvg-name="RS: FOX LIFE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a14a09ca407f56f014500493246ecf69.png" group-title="Serbia ➾ Movie",RS: FOX LIFE HD
-http://filex.me:8080/live/3114654477/5787654467/317416.ts
-#EXTINF:-1 tvg-id="hbo.bg" tvg-name="RS: HBO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/64f7d06c04a371ef26ab38fe0567995e.png" group-title="Serbia ➾ Movie",RS: HBO HD
-http://filex.me:8080/live/3114654477/5787654467/317417.ts
-#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="RS: HBO 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bde667ecb5cafc6a6fd52c84fc7ae451.png" group-title="Serbia ➾ Movie",RS: HBO 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317418.ts
-#EXTINF:-1 tvg-id="hbo3.bg" tvg-name="RS: HBO 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/e4aec659862ba7ae7331df55306a9563.png" group-title="Serbia ➾ Movie",RS: HBO 3 HD
-http://filex.me:8080/live/3114654477/5787654467/317419.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Kurir TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f70dbd20ef46301ad48d5a9c04fa6b29.png" group-title="Serbia ➾ Movie",RS: Kurir TV HD
-http://filex.me:8080/live/3114654477/5787654467/317420.ts
-#EXTINF:-1 tvg-id="tvo.ch" tvg-name="RS: LOL HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/719ae0fbeff314066be6ac852bbb35be.png" group-title="Serbia ➾ Movie",RS: LOL HD
-http://filex.me:8080/live/3114654477/5787654467/317421.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: NOVA MAX HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/94b56329770ae7b39cd37099b9b2c57a.png" group-title="Serbia ➾ Movie",RS: NOVA MAX HD
-http://filex.me:8080/live/3114654477/5787654467/317422.ts
-#EXTINF:-1 tvg-id="nova.bg" tvg-name="RS: NOVA Series HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/fbaa9fe169c7f533d6a3ffda50baa792.png" group-title="Serbia ➾ Movie",RS: NOVA Series HD
-http://filex.me:8080/live/3114654477/5787654467/317423.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK FILM HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/40668ee6b656b3750e63bbd722fe3906.png" group-title="Serbia ➾ Movie",RS: PINK FILM HD
-http://filex.me:8080/live/3114654477/5787654467/317424.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Horror HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6fdc94285077107062bc55b53046c64a.png" group-title="Serbia ➾ Movie",RS: PINK Horror HD
-http://filex.me:8080/live/3114654477/5787654467/317425.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Movies HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/71c8860a6da5d267a52d61f51496608c.png" group-title="Serbia ➾ Movie",RS: PINK Movies HD
-http://filex.me:8080/live/3114654477/5787654467/317426.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Thriller HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f3d1458da608a31f7b2caba666f1ed99.png" group-title="Serbia ➾ Movie",RS: PINK Thriller HD
-http://filex.me:8080/live/3114654477/5787654467/317427.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Western HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/20c6caa4b1d150d77de5a7bde0bd55a8.png" group-title="Serbia ➾ Movie",RS: PINK Western HD
-http://filex.me:8080/live/3114654477/5787654467/317428.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK World HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/83d83fae78bfab2223dbef5beb57178a.png" group-title="Serbia ➾ Movie",RS: PINK World HD
-http://filex.me:8080/live/3114654477/5787654467/317429.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK World Cinema HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ba8ecd3a2bc9f22416d05db6ef5df2bc.png" group-title="Serbia ➾ Movie",RS: PINK World Cinema HD
-http://filex.me:8080/live/3114654477/5787654467/317430.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PRVA KICK HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/cc7bca5246df51f0b5ceaec6708050c7.png" group-title="Serbia ➾ Movie",RS: PRVA KICK HD
-http://filex.me:8080/live/3114654477/5787654467/317431.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PRVA LIFE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d8da16c642bcb67d353798827cabe8a4.jpg" group-title="Serbia ➾ Movie",RS: PRVA LIFE HD
-http://filex.me:8080/live/3114654477/5787654467/317432.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: RTS Drama HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2d667e6f371bcd2e09f07e7681b7a08c.png" group-title="Serbia ➾ Movie",RS: RTS Drama HD
-http://filex.me:8080/live/3114654477/5787654467/317433.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: RTS Poletarac HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/b3d16398189dbb65f5f08a2dab042a16.png" group-title="Serbia ➾ Movie",RS: RTS Poletarac HD
-http://filex.me:8080/live/3114654477/5787654467/317434.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: RTS Trezor HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6e5241f5413df332cef27eb3fa74bffb.png" group-title="Serbia ➾ Movie",RS: RTS Trezor HD
-http://filex.me:8080/live/3114654477/5787654467/317435.ts
-#EXTINF:-1 tvg-id="moviesmartplatin.tr" tvg-name="RS: TV 1000 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/48a7cb96eb02d218693bc5491784f0c6.png" group-title="Serbia ➾ Movie",RS: TV 1000 HD
-http://filex.me:8080/live/3114654477/5787654467/317436.ts
-#EXTINF:-1 tvg-id="24kitchen.bg" tvg-name="RS: 24 Kitchen HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ccff1d410258b7d5b1a298c1ba3c8755.png" group-title="Serbia ➾ LifeStyle",RS: 24 Kitchen HD
-http://filex.me:8080/live/3114654477/5787654467/317531.ts
-#EXTINF:-1 tvg-id="divauniversal.ro" tvg-name="RS: DIVA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/417e7ad51324d16613bef50c7090ad59.png" group-title="Serbia ➾ LifeStyle",RS: DIVA HD
-http://filex.me:8080/live/3114654477/5787654467/317532.ts
-#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="RS: E! HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d7ef038e56890705ffcc033cf0f23cb4.png" group-title="Serbia ➾ LifeStyle",RS: E! HD
-http://filex.me:8080/live/3114654477/5787654467/317533.ts
-#EXTINF:-1 tvg-id="fox.bg" tvg-name="RS: First Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/2dc9563eb666bc5d5a4886d96843a3c9.png" group-title="Serbia ➾ LifeStyle",RS: First Channel HD
-http://filex.me:8080/live/3114654477/5787654467/317534.ts
-#EXTINF:-1 tvg-id="foodnetwork.bg" tvg-name="RS: FOOD Network HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/341e54375745e21c1b8dbdd7bc94346c.png" group-title="Serbia ➾ LifeStyle",RS: FOOD Network HD
-http://filex.me:8080/live/3114654477/5787654467/317535.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Grand HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/50c4cd426b7225a97161bf5a55422f67.png" group-title="Serbia ➾ LifeStyle",RS: Grand HD
-http://filex.me:8080/live/3114654477/5787654467/317536.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: HA HA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5921299b8e46d3f257cf94db317e2d30.png" group-title="Serbia ➾ LifeStyle",RS: HA HA HD
-http://filex.me:8080/live/3114654477/5787654467/317537.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Happy HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/589226212bc6155d44200a9273a8c50b.png" group-title="Serbia ➾ LifeStyle",RS: Happy HD
-http://filex.me:8080/live/3114654477/5787654467/317538.ts
-#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="RS: Jefimija HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0d3371f46f5e72578f5a88cbf578789d.png" group-title="Serbia ➾ LifeStyle",RS: Jefimija HD
-http://filex.me:8080/live/3114654477/5787654467/317539.ts
-#EXTINF:-1 tvg-id="ktv.de" tvg-name="RS: K1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/3e1bc424a9296a9f1662551ae8f22950.png" group-title="Serbia ➾ LifeStyle",RS: K1 HD
-http://filex.me:8080/live/3114654477/5787654467/317540.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: KCN 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/73a89af6f3e092e860051b9f4ce84525.png" group-title="Serbia ➾ LifeStyle",RS: KCN 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317541.ts
-#EXTINF:-1 tvg-id="ctv2.ca" tvg-name="RS: KCN 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ac327892acb6b354939d9bc25209047d.png" group-title="Serbia ➾ LifeStyle",RS: KCN 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317542.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: KCN 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/359a6d9f88caa8ea0cec15bfe993dc27.png" group-title="Serbia ➾ LifeStyle",RS: KCN 3 HD
-http://filex.me:8080/live/3114654477/5787654467/317543.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: KTV Kohavision HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/083ed4b7291d455b953451e3b4ca455b.jpg" group-title="Serbia ➾ LifeStyle",RS: KTV Kohavision HD
-http://filex.me:8080/live/3114654477/5787654467/317544.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Mlava HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/35f3c3fa2ed574443a334f7efa1c5346.png" group-title="Serbia ➾ LifeStyle",RS: Mlava HD
-http://filex.me:8080/live/3114654477/5787654467/317545.ts
-#EXTINF:-1 tvg-id="nova.bg" tvg-name="RS: NOVA BH HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8c94ce2d9fa6ce9a84257d4e1d5ce979.png" group-title="Serbia ➾ LifeStyle",RS: NOVA BH HD
-http://filex.me:8080/live/3114654477/5787654467/317546.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Parovi HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4a7daef907d26ada5a061e84de86d4d6.jpeg" group-title="Serbia ➾ LifeStyle",RS: Parovi HD
-http://filex.me:8080/live/3114654477/5787654467/317547.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/01ad15d7fed5e535be3edc10cef0e4b9.png" group-title="Serbia ➾ LifeStyle",RS: PINK HD
-http://filex.me:8080/live/3114654477/5787654467/317548.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Action HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/62a932613055a578e905d0112d3425d3.png" group-title="Serbia ➾ LifeStyle",RS: PINK Action HD
-http://filex.me:8080/live/3114654477/5787654467/317549.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK BH HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b069235391539682bf58e469959ce48e.png" group-title="Serbia ➾ LifeStyle",RS: PINK BH HD
-http://filex.me:8080/live/3114654477/5787654467/317550.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Classic HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/11097b36d6de13ad29546729dcee327a.png" group-title="Serbia ➾ LifeStyle",RS: PINK Classic HD
-http://filex.me:8080/live/3114654477/5787654467/317551.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Comedy HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ff5241fb1435027a2498a36fc7202e2e.png" group-title="Serbia ➾ LifeStyle",RS: PINK Comedy HD
-http://filex.me:8080/live/3114654477/5787654467/317552.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Crime & Mystery HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d4316f3e48df532a007f507d9895e632.png" group-title="Serbia ➾ LifeStyle",RS: PINK Crime & Mystery HD
-http://filex.me:8080/live/3114654477/5787654467/317553.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Extra HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c73c466c00e0846eb152a8474f7566f7.png" group-title="Serbia ➾ LifeStyle",RS: PINK Extra HD
-http://filex.me:8080/live/3114654477/5787654467/317554.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Family HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/830397e0f8e0d32a6862b1beffc5f27e.png" group-title="Serbia ➾ LifeStyle",RS: PINK Family HD
-http://filex.me:8080/live/3114654477/5787654467/317555.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Fashion HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c45998456b84a271f096ea20f19bcc8a.png" group-title="Serbia ➾ LifeStyle",RS: PINK Fashion HD
-http://filex.me:8080/live/3114654477/5787654467/317556.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Kuvar HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/263ec1e33cbdc20adc5b403cfa383809.png" group-title="Serbia ➾ LifeStyle",RS: PINK Kuvar HD
-http://filex.me:8080/live/3114654477/5787654467/317557.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK M HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a7f4e95b3424334ce5ffd1af03a3e6b6.png" group-title="Serbia ➾ LifeStyle",RS: PINK M HD
-http://filex.me:8080/live/3114654477/5787654467/317558.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK PLUS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/30cac872eef856ffbce44f7fbbbcb1cc.png" group-title="Serbia ➾ LifeStyle",RS: PINK PLUS HD
-http://filex.me:8080/live/3114654477/5787654467/317559.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Premium HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1f1ae1ffcab6bdec5f901154147837c6.png" group-title="Serbia ➾ LifeStyle",RS: PINK Premium HD
-http://filex.me:8080/live/3114654477/5787654467/317560.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Reality HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fb07499308b3770d628f58a79189b0f1.png" group-title="Serbia ➾ LifeStyle",RS: PINK Reality HD
-http://filex.me:8080/live/3114654477/5787654467/317561.ts
-#EXTINF:-1 tvg-id="mtv.fr" tvg-name="RS: PINK Romance HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ac8ab7d1e17506b5a01e6c4fcde67ecb.png" group-title="Serbia ➾ LifeStyle",RS: PINK Romance HD
-http://filex.me:8080/live/3114654477/5787654467/317562.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Serije HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2b82b13189feac23132f594082102988.png" group-title="Serbia ➾ LifeStyle",RS: PINK Serije HD
-http://filex.me:8080/live/3114654477/5787654467/317563.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK SHOW HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ebfc847ac8df6b3ec43207854fa137dd.png" group-title="Serbia ➾ LifeStyle",RS: PINK SHOW HD
-http://filex.me:8080/live/3114654477/5787654467/317564.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK SOAP HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ca65787a0b81d7742e2afaeb0ae34760.png" group-title="Serbia ➾ LifeStyle",RS: PINK SOAP HD
-http://filex.me:8080/live/3114654477/5787654467/317565.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Style HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0c703a2414f96db9781c7769a3ca65ae.png" group-title="Serbia ➾ LifeStyle",RS: PINK Style HD
-http://filex.me:8080/live/3114654477/5787654467/317566.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Zabava HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/362f808787270345cccc1c9e7c0c4a28.png" group-title="Serbia ➾ LifeStyle",RS: PINK Zabava HD
-http://filex.me:8080/live/3114654477/5787654467/317567.ts
-#EXTINF:-1 tvg-id="tvpseriale.pl" tvg-name="RS: PRVA Files HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/c5893f45185b8751d6527f3a434166e4.png" group-title="Serbia ➾ LifeStyle",RS: PRVA Files HD
-http://filex.me:8080/live/3114654477/5787654467/317568.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PRVA MAX HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/ba26541cf3fca037739761b7217ee1f8.png" group-title="Serbia ➾ LifeStyle",RS: PRVA MAX HD
-http://filex.me:8080/live/3114654477/5787654467/317569.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PRVA PLUS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/0fa751eed172e034f632a86c308851f7.png" group-title="Serbia ➾ LifeStyle",RS: PRVA PLUS HD
-http://filex.me:8080/live/3114654477/5787654467/317570.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PRVA Srpska TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/72c5caa5d87d576c0abf5d25a53d538d.png" group-title="Serbia ➾ LifeStyle",RS: PRVA Srpska TV HD
-http://filex.me:8080/live/3114654477/5787654467/317571.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PRVA World HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/a30c5c157fe4bc52d728c15cf7ebf791.png" group-title="Serbia ➾ LifeStyle",RS: PRVA World HD
-http://filex.me:8080/live/3114654477/5787654467/317572.ts
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RS: RTK 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/88ca537a004fc3663b2500e254f018e0.png" group-title="Serbia ➾ LifeStyle",RS: RTK 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317573.ts
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RS: RTK 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/b244e960a6b96c2efd30d5a2bc2b2357.png" group-title="Serbia ➾ LifeStyle",RS: RTK 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317574.ts
-#EXTINF:-1 tvg-id="rtp3.pt" tvg-name="RS: RTK 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/78ada8311813cea28265aea606bb5061.png" group-title="Serbia ➾ LifeStyle",RS: RTK 3 HD
-http://filex.me:8080/live/3114654477/5787654467/317575.ts
-#EXTINF:-1 tvg-id="rtl4.nl" tvg-name="RS: RTK 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/bbdb5f2169abce01e176ffbdd0bd1eb8.png" group-title="Serbia ➾ LifeStyle",RS: RTK 4 HD
-http://filex.me:8080/live/3114654477/5787654467/317576.ts
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="RS: RTS 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3cbb545874990b2054dce9bf99e28f60.png" group-title="Serbia ➾ LifeStyle",RS: RTS 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317577.ts
-#EXTINF:-1 tvg-id="rds2.ca" tvg-name="RS: RTS 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/11dc041cac047fabe2a8171d824304c2.png" group-title="Serbia ➾ LifeStyle",RS: RTS 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317578.ts
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="RS: RTS 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/92bacc25f91d7b090c66328703d97935.png" group-title="Serbia ➾ LifeStyle",RS: RTS 3 HD
-http://filex.me:8080/live/3114654477/5787654467/317579.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: RTS Nauka HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/ab9cbf2998ecd402450e4606631fd07c.png" group-title="Serbia ➾ LifeStyle",RS: RTS Nauka HD
-http://filex.me:8080/live/3114654477/5787654467/317580.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: RTS SVET HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/54d938cccfb4a439c5a058e1e86d133a.png" group-title="Serbia ➾ LifeStyle",RS: RTS SVET HD
-http://filex.me:8080/live/3114654477/5787654467/317581.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: RTS Zivot HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/998f65c958d3ffacb2c0e8aa8c3567a5.png" group-title="Serbia ➾ LifeStyle",RS: RTS Zivot HD
-http://filex.me:8080/live/3114654477/5787654467/317582.ts
-#EXTINF:-1 tvg-id="tvr2.ro" tvg-name="RS: RTV 21 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/cbda710e0f5572bb2b445d10c88b153c.png" group-title="Serbia ➾ LifeStyle",RS: RTV 21 HD
-http://filex.me:8080/live/3114654477/5787654467/317583.ts
-#EXTINF:-1 tvg-id="tvr2.ro" tvg-name="RS: RTV 21 PLUS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/c6240742bab3c07512dcea23b384c4e0.png" group-title="Serbia ➾ LifeStyle",RS: RTV 21 PLUS HD
-http://filex.me:8080/live/3114654477/5787654467/317584.ts
-#EXTINF:-1 tvg-id="ttv.pl" tvg-name="RS: T7 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/97ef52d127071d0279f4e16da7517039.png" group-title="Serbia ➾ LifeStyle",RS: T7 HD
-http://filex.me:8080/live/3114654477/5787654467/317585.ts
-#EXTINF:-1 tvg-id="tlc.de" tvg-name="RS: TLC HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/05dd9994367511430c8987e88728c727.svg" group-title="Serbia ➾ LifeStyle",RS: TLC HD
-http://filex.me:8080/live/3114654477/5787654467/317586.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: TV 21 Macedonia HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e16d74efcebd9c86e0031fe509196c95.png" group-title="Serbia ➾ LifeStyle",RS: TV 21 Macedonia HD
-http://filex.me:8080/live/3114654477/5787654467/317587.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: TV Belle AMIE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/00f1c1b0fbc4451e3ea8602defd55a1a.png" group-title="Serbia ➾ LifeStyle",RS: TV Belle AMIE HD
-http://filex.me:8080/live/3114654477/5787654467/317588.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: TV DUGA + HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ca4fe7bf7784872fc969efb71d50a867.png" group-title="Serbia ➾ LifeStyle",RS: TV DUGA + HD
-http://filex.me:8080/live/3114654477/5787654467/317589.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Zadruga 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/818e90b849eebabdf35538fd3eb31066.png" group-title="Serbia ➾ LifeStyle",RS: Zadruga 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317590.ts
-#EXTINF:-1 tvg-id="atv2.at" tvg-name="RS: Zadruga 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7fcbd66b7534befa1a060110c31ac980.png" group-title="Serbia ➾ LifeStyle",RS: Zadruga 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317591.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Zadruga 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9846e0f6d21c6cf78407082e54edea1d.png" group-title="Serbia ➾ LifeStyle",RS: Zadruga 3 HD
-http://filex.me:8080/live/3114654477/5787654467/317592.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Zadruga 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9a65e930e9f95c045bc49365fc8a3e6c.png" group-title="Serbia ➾ LifeStyle",RS: Zadruga 4 HD
-http://filex.me:8080/live/3114654477/5787654467/317593.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: AGRO TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/25764a13566d9b78432c86e780d1c164.png" group-title="Serbia ➾ Nature",RS: AGRO TV HD
-http://filex.me:8080/live/3114654477/5787654467/317526.ts
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="RS: BIR TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/72216262cc1e30b56efb4fb3169a5606.png" group-title="Serbia ➾ Nature",RS: BIR TV HD
-http://filex.me:8080/live/3114654477/5787654467/317527.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: LOV I Ribolov HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c89f9d04554604311a56430fd70f5da5.png" group-title="Serbia ➾ Nature",RS: LOV I Ribolov HD
-http://filex.me:8080/live/3114654477/5787654467/317528.ts
-#EXTINF:-1 tvg-id="natgeo.de" tvg-name="RS: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/47c824d96c25ee74c0f81296c3d2c065.png" group-title="Serbia ➾ Nature",RS: NAT GEO HD
-http://filex.me:8080/live/3114654477/5787654467/317529.ts
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="RS: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/84926dfdd209c787387dbbd325be24ba.png" group-title="Serbia ➾ Nature",RS: NAT GEO WILD HD
-http://filex.me:8080/live/3114654477/5787654467/317530.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Aljazeera Balkans HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/cc50bb4cd2ce5f80b0ad055114401913.png" group-title="Serbia ➾ News",RS: Aljazeera Balkans HD
-http://filex.me:8080/live/3114654477/5787654467/317515.ts
-#EXTINF:-1 tvg-id="arte.fr" tvg-name="RS: ARTA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6e8b8e1e55f0b330670f31cb65faefe4.png" group-title="Serbia ➾ News",RS: ARTA HD
-http://filex.me:8080/live/3114654477/5787654467/317516.ts
-#EXTINF:-1 tvg-id="euronews.de" tvg-name="RS: Euronews HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/e5948151ff67a8a81f9b419350524432.png" group-title="Serbia ➾ News",RS: Euronews HD
-http://filex.me:8080/live/3114654477/5787654467/317517.ts
-#EXTINF:-1 tvg-id="kanal11.se" tvg-name="RS: Kanal 10 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03c7fd21c3edd820a32de137f67a3fb9.png" group-title="Serbia ➾ News",RS: Kanal 10 HD
-http://filex.me:8080/live/3114654477/5787654467/317518.ts
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="RS: N1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/23e43b629246f876ee5502db95fa67f5.png" group-title="Serbia ➾ News",RS: N1 HD
-http://filex.me:8080/live/3114654477/5787654467/317519.ts
-#EXTINF:-1 tvg-id="nova.bg" tvg-name="RS: NOVA M HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/343996b6c54432f9158e09bf0e8ca266.png" group-title="Serbia ➾ News",RS: NOVA M HD
-http://filex.me:8080/live/3114654477/5787654467/317520.ts
-#EXTINF:-1 tvg-id="nova.bg" tvg-name="RS: NOVA S HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/412eb963b7baa7ba2b514a8c0d940e8c.png" group-title="Serbia ➾ News",RS: NOVA S HD
-http://filex.me:8080/live/3114654477/5787654467/317521.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Pannon TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/bca323797ef4e6b16f819a6a28d5dfb1.png" group-title="Serbia ➾ News",RS: Pannon TV HD
-http://filex.me:8080/live/3114654477/5787654467/317522.ts
-#EXTINF:-1 tvg-id="tvr1.ro" tvg-name="RS: RTV 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/15b7fff5aa80c9265284dfb536ccc610.png" group-title="Serbia ➾ News",RS: RTV 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317523.ts
-#EXTINF:-1 tvg-id="tvr2.ro" tvg-name="RS: RTV 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/a2d0f0aae99ca0a8f8f4650f38018510.png" group-title="Serbia ➾ News",RS: RTV 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317524.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Vesti HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/6a9d2005260778225c517e0097f74900.jpg" group-title="Serbia ➾ News",RS: Vesti HD
-http://filex.me:8080/live/3114654477/5787654467/317525.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: B92 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a55c689d8f4e06d43309125a4ff55d8d.png" group-title="Serbia ➾ Kids",RS: B92 HD
-http://filex.me:8080/live/3114654477/5787654467/317452.ts
-#EXTINF:-1 tvg-id="babytv.it" tvg-name="RS: BABY TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/019034bf64e15c2d9a4ef87a1d246cda.png" group-title="Serbia ➾ Kids",RS: BABY TV HD
-http://filex.me:8080/live/3114654477/5787654467/317453.ts
-#EXTINF:-1 tvg-id="boomerang.no" tvg-name="RS: Boomerang HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fecc66b6bd8bf9dcf9a9314e3178145b.png" group-title="Serbia ➾ Kids",RS: Boomerang HD
-http://filex.me:8080/live/3114654477/5787654467/317454.ts
-#EXTINF:-1 tvg-id="davincilearning.ro" tvg-name="RS: DA Vinci HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/614aba462b2ee65b3d96088b27f15675.png" group-title="Serbia ➾ Kids",RS: DA Vinci HD
-http://filex.me:8080/live/3114654477/5787654467/317455.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: IDJ KIDS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/92de610153f99c965efd98e35602841b.png" group-title="Serbia ➾ Kids",RS: IDJ KIDS HD
-http://filex.me:8080/live/3114654477/5787654467/317456.ts
-#EXTINF:-1 tvg-id="minimax.ro" tvg-name="RS: Minimax HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e759374016f6cdfb9046bd7d5eab8112.jpg" group-title="Serbia ➾ Kids",RS: Minimax HD
-http://filex.me:8080/live/3114654477/5787654467/317457.ts
-#EXTINF:-1 tvg-id="nickjr.de" tvg-name="RS: NICK Junior HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cc8c383e1e8d8f32e6702ef6f22ba6a1.png" group-title="Serbia ➾ Kids",RS: NICK Junior HD
-http://filex.me:8080/live/3114654477/5787654467/317458.ts
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="RS: Nickelodeon HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b53aabc13420a0f8c17a0c4aaa65d5be.png" group-title="Serbia ➾ Kids",RS: Nickelodeon HD
-http://filex.me:8080/live/3114654477/5787654467/317459.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Pikaboo HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce29f09f08fa5a049a289bfd6df9ece7.png" group-title="Serbia ➾ Kids",RS: Pikaboo HD
-http://filex.me:8080/live/3114654477/5787654467/317460.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK KIDS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/319aa581f76f78d6d5b50d6a2441bce6.png" group-title="Serbia ➾ Kids",RS: PINK KIDS HD
-http://filex.me:8080/live/3114654477/5787654467/317461.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Super KIDS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/757191b6c0db1677b4dd8e92efbbb46e.png" group-title="Serbia ➾ Kids",RS: PINK Super KIDS HD
-http://filex.me:8080/live/3114654477/5787654467/317462.ts
-#EXTINF:-1 tvg-id="junior.de" tvg-name="RS: RTV 21 Junior HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/d7fa196c508152a84ee94ae035cc1896.png" group-title="Serbia ➾ Kids",RS: RTV 21 Junior HD
-http://filex.me:8080/live/3114654477/5787654467/317463.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: Bravo Music HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dc36878093eb04fae7941c4fae868d36.png" group-title="Serbia ➾ Music",RS: Bravo Music HD
-http://filex.me:8080/live/3114654477/5787654467/317437.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: DM SAT HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/5f96738bc0e499813200470966e48afb.png" group-title="Serbia ➾ Music",RS: DM SAT HD
-http://filex.me:8080/live/3114654477/5787654467/317438.ts
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="RS: IDJ TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6b6cda038e151f69e72f9f73018fc814.png" group-title="Serbia ➾ Music",RS: IDJ TV HD
-http://filex.me:8080/live/3114654477/5787654467/317439.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK FOLK 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a60ff438adc260c486774e156c4f572e.png" group-title="Serbia ➾ Music",RS: PINK FOLK 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317440.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK FOLK 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/428206e36a0bdce39bc42fe33acb01bf.png" group-title="Serbia ➾ Music",RS: PINK FOLK 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317441.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK HITS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/34b60b5f079e19caa0477f0be2e24c4c.png" group-title="Serbia ➾ Music",RS: PINK HITS HD
-http://filex.me:8080/live/3114654477/5787654467/317442.ts
-#EXTINF:-1 tvg-id="epixhits.us" tvg-name="RS: PINK HITS 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1d36827807f49c1dc596fea33016a26b.png" group-title="Serbia ➾ Music",RS: PINK HITS 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317443.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Koncert HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1db4ac7329d3bca1d4a51e314083d4f4.png" group-title="Serbia ➾ Music",RS: PINK Koncert HD
-http://filex.me:8080/live/3114654477/5787654467/317444.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Music HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/82e457519d3612c6f3b6fd6e4fd39fa2.png" group-title="Serbia ➾ Music",RS: PINK Music HD
-http://filex.me:8080/live/3114654477/5787654467/317445.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK Music 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8d05aedc322b99ff2880ddf4e161e1b7.png" group-title="Serbia ➾ Music",RS: PINK Music 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317446.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: PINK N ROLL HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a2fa6736076f349dd5863dfea96bf1d7.png" group-title="Serbia ➾ Music",RS: PINK N ROLL HD
-http://filex.me:8080/live/3114654477/5787654467/317447.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: RTS KOLO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/28a36bdca81cf6eb4d7a375e6a55adef.png" group-title="Serbia ➾ Music",RS: RTS KOLO HD
-http://filex.me:8080/live/3114654477/5787654467/317448.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: RTS Muzika HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bfaa54cb57dcb18716838ac3c58530c9.png" group-title="Serbia ➾ Music",RS: RTS Muzika HD
-http://filex.me:8080/live/3114654477/5787654467/317449.ts
-#EXTINF:-1 tvg-id="" tvg-name="RS: RTV 21 Popullore HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/be23ee0cc70057d09bb5b458ea2b5352.png" group-title="Serbia ➾ Music",RS: RTV 21 Popullore HD
-http://filex.me:8080/live/3114654477/5787654467/317450.ts
-#EXTINF:-1 tvg-id="tvificcao.pt" tvg-name="RS: ZICO TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/6b89bbe960a744a859429d4aa628233b.png" group-title="Serbia ➾ Music",RS: ZICO TV HD
-http://filex.me:8080/live/3114654477/5787654467/317451.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: CRO MAX Select 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/3a0f3c964ab159fd9f683f4823ac0a39.jpeg" group-title="Croatia",HR: CRO MAX Select 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317289.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: CRO MAX Select 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/51991a5e213834169e136111913393af.jpeg" group-title="Croatia",HR: CRO MAX Select 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317290.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: CRO MAX Select 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/3bc79d7b0f2b4acfda4cb09f0b3bcfbe.jpeg" group-title="Croatia",HR: CRO MAX Select 3 HD
-http://filex.me:8080/live/3114654477/5787654467/317291.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: CRO MAX Select 10 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/ffc492bf5004be2dd1b938a46b1213b6.jpeg" group-title="Croatia",HR: CRO MAX Select 10 HD
-http://filex.me:8080/live/3114654477/5787654467/317292.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: Dalmacija HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",HR: Dalmacija HD
-http://filex.me:8080/live/3114654477/5787654467/317293.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: Jadran TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/4a83dbc19cf2e925967a30857741476a.png" group-title="Croatia",HR: Jadran TV HD
-http://filex.me:8080/live/3114654477/5787654467/317294.ts
-#EXTINF:-1 tvg-id="jugoton.hr" tvg-name="HR: Jugoton TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f63067992a429008e6d540b1ed035952.png" group-title="Croatia",HR: Jugoton TV HD
-http://filex.me:8080/live/3114654477/5787654467/317295.ts
-#EXTINF:-1 tvg-id="kanald.ro" tvg-name="HR: Kanal RI HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/dfda2dcb9e988fc1c2d4e76b215efc3f.jpg" group-title="Croatia",HR: Kanal RI HD
-http://filex.me:8080/live/3114654477/5787654467/317296.ts
-#EXTINF:-1 tvg-id="laudatotv.hr" tvg-name="HR: Laudato TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/f40339fc243210e0cb5a5b794a25fb6b.png" group-title="Croatia",HR: Laudato TV HD
-http://filex.me:8080/live/3114654477/5787654467/317297.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: Mreza Zagreb HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/c411bfa6e618afb79309fad48d84d541.jpg" group-title="Croatia",HR: Mreza Zagreb HD
-http://filex.me:8080/live/3114654477/5787654467/317298.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: NOVA PULA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/c78fc9a903d3c9ff6a41d993575ff2d2.jpg" group-title="Croatia",HR: NOVA PULA HD
-http://filex.me:8080/live/3114654477/5787654467/317299.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: Plava Vinkovačka HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/b9fa86888bcca07be9c418688aca3820.jpg" group-title="Croatia",HR: Plava Vinkovačka HD
-http://filex.me:8080/live/3114654477/5787654467/317300.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: Poljoprivredna TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/1f7cb9e030eb146717472f16cfbf6a76.jpg" group-title="Croatia",HR: Poljoprivredna TV HD
-http://filex.me:8080/live/3114654477/5787654467/317301.ts
-#EXTINF:-1 tvg-id="tvs.pl" tvg-name="HR: SBTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/ec2d4b35c52a051d0858117b826b4573.png" group-title="Croatia",HR: SBTV HD
-http://filex.me:8080/live/3114654477/5787654467/317302.ts
-#EXTINF:-1 tvg-id="slavonskatv.hr" tvg-name="HR: Slavonska TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/f5c7fc8f191b12a85b4c4339138e1a6e.jpg" group-title="Croatia",HR: Slavonska TV HD
-http://filex.me:8080/live/3114654477/5787654467/317303.ts
-#EXTINF:-1 tvg-id="foxcrime.bg" tvg-name="HR: STAR Crime HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Croatia",HR: STAR Crime HD
-http://filex.me:8080/live/3114654477/5787654467/317304.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: TV Trend Karlovac HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/4bc183c21c4981faf62c50013fed4bdd.jpg" group-title="Croatia",HR: TV Trend Karlovac HD
-http://filex.me:8080/live/3114654477/5787654467/317305.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: VTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/a84a1f65d4c4700fef43785d11366265.png" group-title="Croatia",HR: VTV HD
-http://filex.me:8080/live/3114654477/5787654467/317306.ts
-#EXTINF:-1 tvg-id="z1.hr" tvg-name="HR: Z1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5dc87e86b37fba3bd6e58817a79754a0.png" group-title="Croatia",HR: Z1 HD
-http://filex.me:8080/live/3114654477/5787654467/317307.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: Zapad HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/0ef97f55079ec972001648160602153c.png" group-title="Croatia",HR: Zapad HD
-http://filex.me:8080/live/3114654477/5787654467/317308.ts
-#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="HR: Arena Sport 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3e22bab3e6cc787ceb5445d6c4fad694.png" group-title="Croatia ➾ Sports",HR: Arena Sport 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317325.ts
-#EXTINF:-1 tvg-id="arenasport2.hr" tvg-name="HR: Arena Sport 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/8540b09c6c9b9e4fe035d27166426736.png" group-title="Croatia ➾ Sports",HR: Arena Sport 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317326.ts
-#EXTINF:-1 tvg-id="arenasport3.hr" tvg-name="HR: Arena Sport 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/37f61d2b06d6d3ae0fd3d72f35ee378f.png" group-title="Croatia ➾ Sports",HR: Arena Sport 3 HD
-http://filex.me:8080/live/3114654477/5787654467/317327.ts
-#EXTINF:-1 tvg-id="arenasport4.hr" tvg-name="HR: Arena Sport 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ef9d0183b1ffd0b974331dcfe61fc406.png" group-title="Croatia ➾ Sports",HR: Arena Sport 4 HD
-http://filex.me:8080/live/3114654477/5787654467/317328.ts
-#EXTINF:-1 tvg-id="arenasport5.hr" tvg-name="HR: Arena Sport 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/c0c30bf1d801dfbe422d0f51a31304e0.png" group-title="Croatia ➾ Sports",HR: Arena Sport 5 HD
-http://filex.me:8080/live/3114654477/5787654467/317329.ts
-#EXTINF:-1 tvg-id="arenasport6.hr" tvg-name="HR: Arena Sport 6 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/39ce59ded26a6843304e3ca4404c597f.png" group-title="Croatia ➾ Sports",HR: Arena Sport 6 HD
-http://filex.me:8080/live/3114654477/5787654467/317330.ts
-#EXTINF:-1 tvg-id="arenasport1.hr" tvg-name="HR: Arena Sport 10 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/8d9ca9457428f300218cbaececaa3c67.jpg" group-title="Croatia ➾ Sports",HR: Arena Sport 10 HD
-http://filex.me:8080/live/3114654477/5787654467/317331.ts
-#EXTINF:-1 tvg-id="maxsport1.bg" tvg-name="HR: MAX Sport 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/67da0ff1699bec193a3d4264c0fdb302.png" group-title="Croatia ➾ Sports",HR: MAX Sport 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317332.ts
-#EXTINF:-1 tvg-id="maxsport2.bg" tvg-name="HR: MAX Sport 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia ➾ Sports",HR: MAX Sport 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317333.ts
-#EXTINF:-1 tvg-id="planetsport2.hr" tvg-name="HR: Sport KLUB 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/5a85ec354802e6b85738a13c83d8fb3f.png" group-title="Croatia ➾ Sports",HR: Sport KLUB 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317334.ts
-#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="HR: Sport KLUB 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/f03f8c517a5e79b9e8e927180496370d.png" group-title="Croatia ➾ Sports",HR: Sport KLUB 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317335.ts
-#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="HR: Sport KLUB 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/3ee32511f85cad4408168d2700fb53d7.png" group-title="Croatia ➾ Sports",HR: Sport KLUB 3 HD
-http://filex.me:8080/live/3114654477/5787654467/317336.ts
-#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="HR: Sport KLUB 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/6dced90dd3378bb441466083f850e29b.jpg" group-title="Croatia ➾ Sports",HR: Sport KLUB 4 HD
-http://filex.me:8080/live/3114654477/5787654467/317337.ts
-#EXTINF:-1 tvg-id="sportklub.pl" tvg-name="HR: Sport KLUB 5 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/753a33149eb926e7492903efb13367f5.jpg" group-title="Croatia ➾ Sports",HR: Sport KLUB 5 HD
-http://filex.me:8080/live/3114654477/5787654467/317338.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: Sport KLUB Fight HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bc89e1ef81ba352752194ae6d02d3af5.png" group-title="Croatia ➾ Sports",HR: Sport KLUB Fight HD
-http://filex.me:8080/live/3114654477/5787654467/317339.ts
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="HR: Sportska HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/f38218991f3979bdcd26e2f94fa5b5fd.png" group-title="Croatia ➾ Sports",HR: Sportska HD
-http://filex.me:8080/live/3114654477/5787654467/317340.ts
-#EXTINF:-1 tvg-id="crimeinvestigation.ca" tvg-name="HR: Crime+ Investigation HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ad9653524d39e6cd6fa0f7be2429903a.png" group-title="Croatia ➾ Documentary",HR: Crime+ Investigation HD
-http://filex.me:8080/live/3114654477/5787654467/317309.ts
-#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="HR: Discovery World HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2ff14441804407d39aa4eb2553382f2b.png" group-title="Croatia ➾ Documentary",HR: Discovery World HD
-http://filex.me:8080/live/3114654477/5787654467/317310.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: Docubox HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/64843124bd2efb30a9187f69300372d6.png" group-title="Croatia ➾ Documentary",HR: Docubox HD
-http://filex.me:8080/live/3114654477/5787654467/317311.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: DOKU TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a899e66151c0ad8ce2a4b4a8a411b55b.png" group-title="Croatia ➾ Documentary",HR: DOKU TV HD
-http://filex.me:8080/live/3114654477/5787654467/317312.ts
-#EXTINF:-1 tvg-id="history.de" tvg-name="HR: History HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/066fb601b8a7a918e2d0979564a9491e.png" group-title="Croatia ➾ Documentary",HR: History HD
-http://filex.me:8080/live/3114654477/5787654467/317313.ts
-#EXTINF:-1 tvg-id="history2.ca" tvg-name="HR: History 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/84dbc3d80d60a6c25fa61a4541eb3b5e.jpg" group-title="Croatia ➾ Documentary",HR: History 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317314.ts
-#EXTINF:-1 tvg-id="scifiuniversal.pl" tvg-name="HR: Sci-fi HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cf9ab5b80e06c25c1efe401f6ffe0818.jpg" group-title="Croatia ➾ Documentary",HR: Sci-fi HD
-http://filex.me:8080/live/3114654477/5787654467/317315.ts
-#EXTINF:-1 tvg-id="polsatviasatexpl.pl" tvg-name="HR: Viasat Explore HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/06480719e59f295b057df972ec37c71f.jpg" group-title="Croatia ➾ Documentary",HR: Viasat Explore HD
-http://filex.me:8080/live/3114654477/5787654467/317316.ts
-#EXTINF:-1 tvg-id="polsatviasathist.pl" tvg-name="HR: Viasat History HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5ba44a5f3944a8e7576334d949551203.png" group-title="Croatia ➾ Documentary",HR: Viasat History HD
-http://filex.me:8080/live/3114654477/5787654467/317317.ts
-#EXTINF:-1 tvg-id="amc.bg" tvg-name="HR: AMC HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/636f40d407c3c5edcd4b1dd4607ac4e6.png" group-title="Croatia ➾ Movie",HR: AMC HD
-http://filex.me:8080/live/3114654477/5787654467/317346.ts
-#EXTINF:-1 tvg-id="axn.pl" tvg-name="HR: AXN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/0bcb3f0a3022440d18060c631e45a3f8.png" group-title="Croatia ➾ Movie",HR: AXN HD
-http://filex.me:8080/live/3114654477/5787654467/317347.ts
-#EXTINF:-1 tvg-id="axn.hr" tvg-name="HR: AXN SPIN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-11/883fb6c0682ea316854ca13a19216021.png" group-title="Croatia ➾ Movie",HR: AXN SPIN HD
-http://filex.me:8080/live/3114654477/5787654467/317348.ts
-#EXTINF:-1 tvg-id="cinemax.bg" tvg-name="HR: Cinemax HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/63a2c4c44a4f43187d2baac3eb5e0ede.png" group-title="Croatia ➾ Movie",HR: Cinemax HD
-http://filex.me:8080/live/3114654477/5787654467/317349.ts
-#EXTINF:-1 tvg-id="cinemax2.bg" tvg-name="HR: Cinemax 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/f739f4f7e001ea7ef066abf9651a316d.png" group-title="Croatia ➾ Movie",HR: Cinemax 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317350.ts
-#EXTINF:-1 tvg-id="cinestartv.hr" tvg-name="HR: Cinestar TV 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/af9954b773e0d1cca8eb14d65d28d6d2.png" group-title="Croatia ➾ Movie",HR: Cinestar TV 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317351.ts
-#EXTINF:-1 tvg-id="cinestartv.hr" tvg-name="HR: Cinestar TV 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/c04660341338df055a2bcc65c8ffdd8b.png" group-title="Croatia ➾ Movie",HR: Cinestar TV 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317352.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: Cinestar TV Action HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/882a349e4965e633d5834ea58991fc1a.png" group-title="Croatia ➾ Movie",HR: Cinestar TV Action HD
-http://filex.me:8080/live/3114654477/5787654467/317353.ts
-#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="HR: Cinestar TV Comedy HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/c5715e0750f0e1c3ba7917175c22c454.png" group-title="Croatia ➾ Movie",HR: Cinestar TV Comedy HD
-http://filex.me:8080/live/3114654477/5787654467/317354.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: Cinestar TV Fantasy HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/56fea0caca577477db0ba8e291af0ecc.png" group-title="Croatia ➾ Movie",HR: Cinestar TV Fantasy HD
-http://filex.me:8080/live/3114654477/5787654467/317355.ts
-#EXTINF:-1 tvg-id="cinestarpremiere1.hr" tvg-name="HR: Cinestar TV Premiere 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/5013895bd4d3d26baea072bc95825517.png" group-title="Croatia ➾ Movie",HR: Cinestar TV Premiere 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317356.ts
-#EXTINF:-1 tvg-id="cinestarpremiere2.hr" tvg-name="HR: Cinestar TV Premiere 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/be4a33dfdf0b2b0b0090e45aacab262e.png" group-title="Croatia ➾ Movie",HR: Cinestar TV Premiere 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317357.ts
-#EXTINF:-1 tvg-id="filmboxextra.pl" tvg-name="HR: Filmbox Extra HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/2bad446e99300922d325aa148ccf696e.png" group-title="Croatia ➾ Movie",HR: Filmbox Extra HD
-http://filex.me:8080/live/3114654477/5787654467/317358.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: FOX Movies HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/39691672a0465118f82ae7e08f6d06ba.png" group-title="Croatia ➾ Movie",HR: FOX Movies HD
-http://filex.me:8080/live/3114654477/5787654467/317359.ts
-#EXTINF:-1 tvg-id="hbo.bg" tvg-name="HR: HBO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3ae303aae3e2b684739423f1de2fd060.png" group-title="Croatia ➾ Movie",HR: HBO HD
-http://filex.me:8080/live/3114654477/5787654467/317360.ts
-#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="HR: HBO 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1734ce2a1a4aed3db9c3fdf4d7ec92d0.png" group-title="Croatia ➾ Movie",HR: HBO 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317361.ts
-#EXTINF:-1 tvg-id="hbo3.bg" tvg-name="HR: HBO 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/12b642531a6fb692a7d6377e0d52e643.png" group-title="Croatia ➾ Movie",HR: HBO 3 HD
-http://filex.me:8080/live/3114654477/5787654467/317362.ts
-#EXTINF:-1 tvg-id="kinotv.pl" tvg-name="HR: KINO TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e5d7f013cf0fa17b6a7147794bdad0af.png" group-title="Croatia ➾ Movie",HR: KINO TV HD
-http://filex.me:8080/live/3114654477/5787654467/317363.ts
-#EXTINF:-1 tvg-id="klasiktv.hr" tvg-name="HR: Klasik TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/867e2504821ebbcd7add6f344ded707e.png" group-title="Croatia ➾ Movie",HR: Klasik TV HD
-http://filex.me:8080/live/3114654477/5787654467/317364.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: M1 FILM HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ff7fa7200a1f02efe4c5eb4584373ca4.png" group-title="Croatia ➾ Movie",HR: M1 FILM HD
-http://filex.me:8080/live/3114654477/5787654467/317365.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: M1 FILM GOLD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c2d39c0b3c702c189c9547d4140c1083.jpg" group-title="Croatia ➾ Movie",HR: M1 FILM GOLD HD
-http://filex.me:8080/live/3114654477/5787654467/317366.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: NOVA Cinema HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/3f944fd75334000acf7cef2dd1738028.png" group-title="Croatia ➾ Movie",HR: NOVA Cinema HD
-http://filex.me:8080/live/3114654477/5787654467/317367.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: NOVA Family HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/abe55efbfb39d62492863d784d639061.webp" group-title="Croatia ➾ Movie",HR: NOVA Family HD
-http://filex.me:8080/live/3114654477/5787654467/317368.ts
-#EXTINF:-1 tvg-id="nova.bg" tvg-name="HR: NOVA TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/704b1c5f5c4a08721ffeec638df0b2b7.png" group-title="Croatia ➾ Movie",HR: NOVA TV HD
-http://filex.me:8080/live/3114654477/5787654467/317369.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: Pickbox TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c527c800eb2395171fe9ae6b5f3a16d8.png" group-title="Croatia ➾ Movie",HR: Pickbox TV HD
-http://filex.me:8080/live/3114654477/5787654467/317370.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: TV 1000 Balkan HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0b0bcb2c6d1de7eab6fc0b9446bffe5e.png" group-title="Croatia ➾ Movie",HR: TV 1000 Balkan HD
-http://filex.me:8080/live/3114654477/5787654467/317371.ts
-#EXTINF:-1 tvg-id="24kitchen.bg" tvg-name="HR: 24 Kitchen HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/b445afbcddd40be002f73b8e1dd80cd7.jpg" group-title="Croatia ➾ LifeStyle",HR: 24 Kitchen HD
-http://filex.me:8080/live/3114654477/5787654467/317375.ts
-#EXTINF:-1 tvg-id="croatianmusicchannel.hr" tvg-name="HR: CMC TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/7c0ef7597ff5639c6421d81b16bb2426.png" group-title="Croatia ➾ LifeStyle",HR: CMC TV HD
-http://filex.me:8080/live/3114654477/5787654467/317376.ts
-#EXTINF:-1 tvg-id="divauniversal.ro" tvg-name="HR: DIVA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/df31da680832425749d2a55411dacbeb.png" group-title="Croatia ➾ LifeStyle",HR: DIVA HD
-http://filex.me:8080/live/3114654477/5787654467/317377.ts
-#EXTINF:-1 tvg-id="dmax.de" tvg-name="HR: DOMA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1f5b7a4b191ae61a9873bd172a769d07.png" group-title="Croatia ➾ LifeStyle",HR: DOMA HD
-http://filex.me:8080/live/3114654477/5787654467/317378.ts
-#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="HR: E! HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/89252911b756b7c9cd2b58735aae9735.png" group-title="Croatia ➾ LifeStyle",HR: E! HD
-http://filex.me:8080/live/3114654477/5787654467/317379.ts
-#EXTINF:-1 tvg-id="htv1.hr" tvg-name="HR: HRT 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/e638e112d71f62fda4106a5342c0faea.png" group-title="Croatia ➾ LifeStyle",HR: HRT 1 HD
-http://filex.me:8080/live/3114654477/5787654467/317380.ts
-#EXTINF:-1 tvg-id="htv2.hr" tvg-name="HR: HRT 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/239c1863d4a52a75f23270d06046a1b2.png" group-title="Croatia ➾ LifeStyle",HR: HRT 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317381.ts
-#EXTINF:-1 tvg-id="hbo3.hr" tvg-name="HR: HRT 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/28f5aa4d318a562bf4e5b5a957bf7a17.png" group-title="Croatia ➾ LifeStyle",HR: HRT 3 HD
-http://filex.me:8080/live/3114654477/5787654467/317382.ts
-#EXTINF:-1 tvg-id="htv4.hr" tvg-name="HR: HRT 4 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/e50efd3f22334812874071283901e31d.png" group-title="Croatia ➾ LifeStyle",HR: HRT 4 HD
-http://filex.me:8080/live/3114654477/5787654467/317383.ts
-#EXTINF:-1 tvg-id="htvinternational.hr" tvg-name="HR: HRT International HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/12b0a52eba86788f8cdc347ffc51b38e.png" group-title="Croatia ➾ LifeStyle",HR: HRT International HD
-http://filex.me:8080/live/3114654477/5787654467/317384.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: NOVA World HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/7ea74876172ce67279f1851b6ce27dfd.jpg" group-title="Croatia ➾ LifeStyle",HR: NOVA World HD
-http://filex.me:8080/live/3114654477/5787654467/317385.ts
-#EXTINF:-1 tvg-id="osjeckatv.hr" tvg-name="HR: Osjecka TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/d4fa803d63e7fae2d172617c0fe0b841.jpg" group-title="Croatia ➾ LifeStyle",HR: Osjecka TV HD
-http://filex.me:8080/live/3114654477/5787654467/317386.ts
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="HR: RTL HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/5e99a0654a1f0f70e98d7cf10a41d56a.png" group-title="Croatia ➾ LifeStyle",HR: RTL HD
-http://filex.me:8080/live/3114654477/5787654467/317387.ts
-#EXTINF:-1 tvg-id="rtl.de" tvg-name="HR: RTL 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/0c072fc01b01764afac304b225510f71.png" group-title="Croatia ➾ LifeStyle",HR: RTL 2 HD
-http://filex.me:8080/live/3114654477/5787654467/317388.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: RTL Adria HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/9f134c52672074e036e419160133aaa7.png" group-title="Croatia ➾ LifeStyle",HR: RTL Adria HD
-http://filex.me:8080/live/3114654477/5787654467/317389.ts
-#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="HR: RTL Crime HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ef5872ca10b929e893e2441e99b1dd80.png" group-title="Croatia ➾ LifeStyle",HR: RTL Crime HD
-http://filex.me:8080/live/3114654477/5787654467/317390.ts
-#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="HR: RTL Living HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2999daf3abbdf7491ecf80d0cd4b8310.png" group-title="Croatia ➾ LifeStyle",HR: RTL Living HD
-http://filex.me:8080/live/3114654477/5787654467/317391.ts
-#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="HR: RTL Passion HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/9c4c249c38ea801c3ea7a3bd70a0a84e.png" group-title="Croatia ➾ LifeStyle",HR: RTL Passion HD
-http://filex.me:8080/live/3114654477/5787654467/317392.ts
-#EXTINF:-1 tvg-id="tlc.de" tvg-name="HR: TLC HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/913412eb5f73309fcaa80831a809bb1f.png" group-title="Croatia ➾ LifeStyle",HR: TLC HD
-http://filex.me:8080/live/3114654477/5787654467/317393.ts
-#EXTINF:-1 tvg-id="animalplanet.bg" tvg-name="HR: Animal Planet HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/97e0294e8e35f7313d5ebe52d9d1a26f.png" group-title="Croatia ➾ Nature",HR: Animal Planet HD
-http://filex.me:8080/live/3114654477/5787654467/317341.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: LOV I Ribolov HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/408ea7de15df2ad7d91ea22241d63e28.png" group-title="Croatia ➾ Nature",HR: LOV I Ribolov HD
-http://filex.me:8080/live/3114654477/5787654467/317342.ts
-#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="HR: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/330b3b21ad24d9696ead334dba4eee0c.png" group-title="Croatia ➾ Nature",HR: NAT GEO WILD HD
-http://filex.me:8080/live/3114654477/5787654467/317343.ts
-#EXTINF:-1 tvg-id="polsatviasatnature.pl" tvg-name="HR: Viasat Nature HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4c6a51a91f66fdf7974d4f2c74abdb64.png" group-title="Croatia ➾ Nature",HR: Viasat Nature HD
-http://filex.me:8080/live/3114654477/5787654467/317344.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: Zdrava TV 7 Hrvatska HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/a3fc476b5d5e94d711c14efa62d883f7.jpeg" group-title="Croatia ➾ Nature",HR: Zdrava TV 7 Hrvatska HD
-http://filex.me:8080/live/3114654477/5787654467/317345.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: Aljazeera Balkans HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/c48b0f068df9fa2072a3f5b10389e402.png" group-title="Croatia ➾ News",HR: Aljazeera Balkans HD
-http://filex.me:8080/live/3114654477/5787654467/317372.ts
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="HR: N1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/22b8cac13cef90d23088b333b6e37898.png" group-title="Croatia ➾ News",HR: N1 HD
-http://filex.me:8080/live/3114654477/5787654467/317373.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: RTL Croatia World HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/a16266ac16f0503f57385c3e5fb46267.jpg" group-title="Croatia ➾ News",HR: RTL Croatia World HD
-http://filex.me:8080/live/3114654477/5787654467/317374.ts
-#EXTINF:-1 tvg-id="babytv.it" tvg-name="HR: BABY TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/e01a5320e11e2ae60e8424d235e10bc6.png" group-title="Croatia ➾ Kids",HR: BABY TV HD
-http://filex.me:8080/live/3114654477/5787654467/317318.ts
-#EXTINF:-1 tvg-id="davincilearning.ro" tvg-name="HR: DA Vinci HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/6106e7e7b9daf64e9552ac6f365ec74c.png" group-title="Croatia ➾ Kids",HR: DA Vinci HD
-http://filex.me:8080/live/3114654477/5787654467/317319.ts
-#EXTINF:-1 tvg-id="minimax.ro" tvg-name="HR: MINI TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ad04d5b0c0b50ac8b5dcdf4efc332469.jpg" group-title="Croatia ➾ Kids",HR: MINI TV HD
-http://filex.me:8080/live/3114654477/5787654467/317320.ts
-#EXTINF:-1 tvg-id="minimax.ro" tvg-name="HR: Minimax HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/6628ce783a036a517564d6cadc0d6f83.jpg" group-title="Croatia ➾ Kids",HR: Minimax HD
-http://filex.me:8080/live/3114654477/5787654467/317321.ts
-#EXTINF:-1 tvg-id="nickjr.no" tvg-name="HR: NICK JR HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/6d4cbd12e46e0ee58278e8ead269fc56.jpg" group-title="Croatia ➾ Kids",HR: NICK JR HD
-http://filex.me:8080/live/3114654477/5787654467/317322.ts
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="HR: Nickelodeon HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/64bd3dedbea5dfab62600808a6978dc3.png" group-title="Croatia ➾ Kids",HR: Nickelodeon HD
-http://filex.me:8080/live/3114654477/5787654467/317323.ts
-#EXTINF:-1 tvg-id="rtl.hr" tvg-name="HR: RTL Kockica HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/c057014b55c8618f652318656608e6a4.png" group-title="Croatia ➾ Kids",HR: RTL Kockica HD
-http://filex.me:8080/live/3114654477/5787654467/317324.ts
-#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="HR: MTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/e8d942aa6c81a24c8a30849943b403e8.png" group-title="Croatia ➾ Music",HR: MTV HD
-http://filex.me:8080/live/3114654477/5787654467/317287.ts
-#EXTINF:-1 tvg-id="" tvg-name="HR: TV Banovina HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/15d251cb594a04da19d271f237bdf950.png" group-title="Croatia ➾ Music",HR: TV Banovina HD
-http://filex.me:8080/live/3114654477/5787654467/317288.ts
+#EXTINF:-1 group-title="-",24 Kitchen
+http://109.106.239.1:8001/play/a05t
+#EXTINF:-1 group-title="-",AMC Balkan HD
+http://109.106.239.1:8001/play/a09l
+#EXTINF:-1 group-title="-",AXN
+http://109.106.239.1:8001/play/a09k
+#EXTINF:-1 group-title="-",AXN Spin
+http://109.106.239.1:8001/play/a09i
+#EXTINF:-1 group-title="-",Arena Adrenalin HD
+http://109.106.239.1:8001/play/a08q
+#EXTINF:-1 group-title="-",Arena Esport HD
+http://109.106.239.1:8001/play/a08s
+#EXTINF:-1 group-title="-",Arena Fight HD
+http://109.106.239.1:8001/play/a08o
+#EXTINF:-1 group-title="-",Arena Sport 10 HD
+http://109.106.239.1:8001/play/a08t
+#EXTINF:-1 group-title="-",Arena Sport 1x2 HD
+http://109.106.239.1:8001/play/a08r
+#EXTINF:-1 group-title="-",Arena Tenis HD
+http://109.106.239.1:8001/play/a08p
+#EXTINF:-1 group-title="-",B1
+http://109.106.239.1:8001/play/a083
+#EXTINF:-1 group-title="-",B92 HD
+http://109.106.239.1:8001/play/a06i
+#EXTINF:-1 group-title="-",BN 2 HD
+http://109.106.239.1:8001/play/a08u
+#EXTINF:-1 group-title="-",BN HD
+http://109.106.239.1:8001/play/a08i
+#EXTINF:-1 group-title="-",BTV
+http://109.106.239.1:8001/play/a082
+#EXTINF:-1 group-title="-",Baby TV
+http://109.106.239.1:8001/play/a07u
+#EXTINF:-1 group-title="-",Blic TV HD
+http://109.106.239.1:8001/play/a08x
+
+#EXTINF:-1 group-title="-",Bravo Music
+http://109.106.239.1:8001/play/a07h
+#EXTINF:-1 group-title="-",CGTN
+http://109.106.239.1:8001/play/a06g
+#EXTINF:-1 group-title="-",Cartoon Network
+http://109.106.239.1:8001/play/a07o
+#EXTINF:-1 group-title="-",Cinemax
+http://109.106.239.1:8001/play/a05u
+#EXTINF:-1 group-title="-",Cinemax 2
+http://109.106.239.1:8001/play/a05v
+#EXTINF:-1 group-title="-",City Play
+http://109.106.239.1:8001/play/a07l
+#EXTINF:-1 group-title="-",DaVinci Learning
+http://109.106.239.1:8001/play/a07x
+#EXTINF:-1 group-title="-",Dankos Plus
+http://109.106.239.1:8001/play/a0aa
+#EXTINF:-1 group-title="-",Desire TV
+http://109.106.239.1:8001/play/a085
+#EXTINF:-1 group-title="-",Discovery Channel HD
+http://109.106.239.1:8001/play/a06p
+#EXTINF:-1 group-title="-",Disney
+http://109.106.239.1:8001/play/a07w
+#EXTINF:-1 group-title="-",Disney Junior
+http://109.106.239.1:8001/play/a07v
+#EXTINF:-1 group-title="-",Diva
+http://109.106.239.1:8001/play/a0a9
+#EXTINF:-1 group-title="-",Dokumentarna TV HD
+http://109.106.239.1:8001/play/a08j
+
+#EXTINF:-1 group-title="-",Dunav Televizija HD
+http://109.106.239.1:8001/play/a091
+#EXTINF:-1 group-title="-",Eko Vizija HD
+http://109.106.239.1:8001/play/a05c
+#EXTINF:-1 group-title="-",EuroCinema 1 HD
+http://109.106.239.1:8001/play/a06b
+#EXTINF:-1 group-title="-",EuroCinema 2 HD
+http://109.106.239.1:8001/play/a06c
+#EXTINF:-1 group-title="-",EuroCinema 3
+http://109.106.239.1:8001/play/a05n
+#EXTINF:-1 group-title="-",EuroCinema 4
+http://109.106.239.1:8001/play/a05o
+#EXTINF:-1 group-title="-",Eurosport 1 HD
+http://109.106.239.1:8001/play/a093
+#EXTINF:-1 group-title="-",Eurosport 2 HD
+http://109.106.239.1:8001/play/a092
+#EXTINF:-1 group-title="-",Fast and fun Box
+http://109.106.239.1:8001/play/a06t
+#EXTINF:-1 group-title="-",Fight Network
+http://109.106.239.1:8001/play/a077
+#EXTINF:-1 group-title="-",FightBox
+http://109.106.239.1:8001/play/a079
+#EXTINF:-1 group-title="-",FilmBox Extra
+http://109.106.239.1:8001/play/a0a8
+#EXTINF:-1 group-title="-",Filmbox Arthouse
+http://109.106.239.1:8001/play/a09s
+#EXTINF:-1 group-title="-",Filmbox Premium
+http://109.106.239.1:8001/play/a0a6
+#EXTINF:-1 group-title="-",Filmbox Stars
+http://109.106.239.1:8001/play/a0a7
+#EXTINF:-1 group-title="-",HISTORY 2 HD
+http://109.106.239.1:8001/play/a06s
+#EXTINF:-1 group-title="-",Happy HD
+http://109.106.239.1:8001/play/a06h
+#EXTINF:-1 group-title="-",Hayatovci
+http://109.106.239.1:8001/play/a07s
+#EXTINF:-1 group-title="-",Hype TV HD
+http://109.106.239.1:8001/play/a068
+#EXTINF:-1 group-title="-",Info 24 Plus
+http://109.106.239.1:8001/play/a072
+#EXTINF:-1 group-title="-",Informer TV HD
+http://109.106.239.1:8001/play/a06n
+#EXTINF:-1 group-title="-",Insajder HD
+http://109.106.239.1:8001/play/a063
+#EXTINF:-1 group-title="-",Jim Jam
+http://109.106.239.1:8001/play/a07y
+#EXTINF:-1 group-title="-",K23
+http://109.106.239.1:8001/play/a07b
+#EXTINF:-1 group-title="-",KCN 1 HD
+http://109.106.239.1:8001/play/a08e
+#EXTINF:-1 group-title="-",Klasik
+http://109.106.239.1:8001/play/a06a
+#EXTINF:-1 group-title="-",Koreni
+http://109.106.239.1:8001/play/a08d
+#EXTINF:-1 group-title="-",Kurir TV HD
+http://109.106.239.1:8001/play/a08n
+#EXTINF:-1 group-title="-",Kuvo TV HD
+http://109.106.239.1:8001/play/a067
+#EXTINF:-1 group-title="-",Liverpool TV HD
+http://109.106.239.1:8001/play/a098
+#EXTINF:-1 group-title="-",Love Nature
+http://109.106.239.1:8001/play/a075
+#EXTINF:-1 group-title="-",Minimax
+http://109.106.239.1:8001/play/a07t
+#EXTINF:-1 group-title="-",Moj Happy Zivot
+http://109.106.239.1:8001/play/a09a
+#EXTINF:-1 group-title="-",Moja Happy Muzika
+http://109.106.239.1:8001/play/a09b
+#EXTINF:-1 group-title="-",Moja Happy Zemlja
+http://109.106.239.1:8001/play/a09d
+#EXTINF:-1 group-title="-",Moje Happy Drustvo
+http://109.106.239.1:8001/play/a09c
+#EXTINF:-1 group-title="-",Mreza Most HD
+http://109.106.239.1:8001/play/a08v
+#EXTINF:-1 group-title="-",NIStv HD
+http://109.106.239.1:8001/play/a08y
+#EXTINF:-1 group-title="-",NOVOSADSKA TV
+http://109.106.239.1:8001/play/a06w
+#EXTINF:-1 group-title="-",Nat Geo Wild HD
+http://109.106.239.1:8001/play/a06r
+#EXTINF:-1 group-title="-",National Geographic HD
+http://109.106.239.1:8001/play/a06v
+#EXTINF:-1 group-title="-",Nick Jr
+http://109.106.239.1:8001/play/a07n
+#EXTINF:-1 group-title="-",Nickelodeon
+http://109.106.239.1:8001/play/a07q
+#EXTINF:-1 group-title="-",Nickelodeon HD
+http://109.106.239.1:8001/play/a07r
+#EXTINF:-1 group-title="-",Nicktoons
+http://109.106.239.1:8001/play/a07p
+#EXTINF:-1 group-title="-",Ona TV HD
+http://109.106.239.1:8001/play/a061
+#EXTINF:-1 group-title="-",Pink Action
+http://109.106.239.1:8001/play/a09z
+#EXTINF:-1 group-title="-",Pink Classic
+http://109.106.239.1:8001/play/a0a3
+#EXTINF:-1 group-title="-",Pink Comedy
+http://109.106.239.1:8001/play/a09u
+#EXTINF:-1 group-title="-",Pink Crime and Mistery
+http://109.106.239.1:8001/play/a09f
+#EXTINF:-1 group-title="-",Pink Family
+http://109.106.239.1:8001/play/a0a1
+#EXTINF:-1 group-title="-",Pink Film
+http://109.106.239.1:8001/play/a0a0
+#EXTINF:-1 group-title="-",Pink HD
+http://109.106.239.1:8001/play/a06l
+#EXTINF:-1 group-title="-",Pink Horror
+http://109.106.239.1:8001/play/a09v
+#EXTINF:-1 group-title="-",Pink Kids
+http://109.106.239.1:8001/play/a07j
+#EXTINF:-1 group-title="-",Pink Koncert
+http://109.106.239.1:8001/play/a07f
+#EXTINF:-1 group-title="-",Pink Movies
+http://109.106.239.1:8001/play/a09h
+#EXTINF:-1 group-title="-",Pink Music
+http://109.106.239.1:8001/play/a07i
+#EXTINF:-1 group-title="-",Pink Music 2
+http://109.106.239.1:8001/play/a07k
+#EXTINF:-1 group-title="-",Pink Premium HD
+http://109.106.239.1:8001/play/a094
+#EXTINF:-1 group-title="-",Pink Romance
+http://109.106.239.1:8001/play/a09g
+#EXTINF:-1 group-title="-",Pink SciFi and Fantasy
+http://109.106.239.1:8001/play/a09t
+#EXTINF:-1 group-title="-",Pink Serije
+http://109.106.239.1:8001/play/a0a4
+#EXTINF:-1 group-title="-",Pink Soap
+http://109.106.239.1:8001/play/a05l
+#EXTINF:-1 group-title="-",Pink Super Kids
+http://109.106.239.1:8001/play/a07m
+#EXTINF:-1 group-title="-",Pink Thriller
+http://109.106.239.1:8001/play/a09e
+#EXTINF:-1 group-title="-",Pink Western
+http://109.106.239.1:8001/play/a0a2
+#EXTINF:-1 group-title="-",Pink World Cinema
+http://109.106.239.1:8001/play/a0a5
+#EXTINF:-1 group-title="-",Playboy TV HD
+http://109.106.239.1:8001/play/a089
+#EXTINF:-1 group-title="-",Premier League TV HD
+http://109.106.239.1:8001/play/a06e
+#EXTINF:-1 group-title="-",Prva Files HD
+http://109.106.239.1:8001/play/a05y
+#EXTINF:-1 group-title="-",Prva Kick HD
+http://109.106.239.1:8001/play/a08b
+#EXTINF:-1 group-title="-",Prva Life HD
+http://109.106.239.1:8001/play/a05x
+#EXTINF:-1 group-title="-",Prva MAX HD
+http://109.106.239.1:8001/play/a08l
+#EXTINF:-1 group-title="-",Prva Plus HD
+http://109.106.239.1:8001/play/a05w
+#EXTINF:-1 group-title="-",Prva TV HD
+http://109.106.239.1:8001/play/a06m
+#EXTINF:-1 group-title="-",RT Balkan HD
+http://109.106.239.1:8001/play/a086
+#EXTINF:-1 group-title="-",RTL Kockica
+http://109.106.239.1:8001/play/a07g
+#EXTINF:-1 group-title="-",RTRS
+http://109.106.239.1:8001/play/a08k
+#EXTINF:-1 group-title="-",RTS 1 HD
+http://109.106.239.1:8001/play/a06j
+#EXTINF:-1 group-title="-",RTS 2 HD
+http://109.106.239.1:8001/play/a06k
+#EXTINF:-1 group-title="-",RTS 3 HD
+http://109.106.239.1:8001/play/a08z
+#EXTINF:-1 group-title="-",RTS Drama
+http://109.106.239.1:8001/play/a08w
+#EXTINF:-1 group-title="-",RTS Klasika HD
+http://109.106.239.1:8001/play/a06d
+#EXTINF:-1 group-title="-",RTS Kolo
+http://109.106.239.1:8001/play/a064
+#EXTINF:-1 group-title="-",RTS Muzika
+http://109.106.239.1:8001/play/a065
+#EXTINF:-1 group-title="-",RTS Nauka HD
+http://109.106.239.1:8001/play/a097
+#EXTINF:-1 group-title="-",RTS Trezor
+http://109.106.239.1:8001/play/a09x
+#EXTINF:-1 group-title="-",RTS Zivot
+http://109.106.239.1:8001/play/a09w
+#EXTINF:-1 group-title="-",RTV 1 HD
+http://109.106.239.1:8001/play/a060
+#EXTINF:-1 group-title="-",RTV 101
+http://109.106.239.1:8001/play/a08c
+#EXTINF:-1 group-title="-",RTV 2 HD
+http://109.106.239.1:8001/play/a08f
+#EXTINF:-1 group-title="-",RTV Kiss
+http://109.106.239.1:8001/play/a09y
+#EXTINF:-1 group-title="-",RTV Strela HD
+http://109.106.239.1:8001/play/a05k
+#EXTINF:-1 group-title="-",Radio HIT FM TV
+http://109.106.239.1:8001/play/a09q
+#EXTINF:-1 group-title="-",Radio TDI TV
+http://109.106.239.1:8001/play/a09r
+#EXTINF:-1 group-title="-",Reality Kings
+http://109.106.239.1:8001/play/a096
+#EXTINF:-1 group-title="-",SAT TV
+http://109.106.239.1:8001/play/a06z
+#EXTINF:-1 group-title="-",SOS
+http://109.106.239.1:8001/play/a099
+#EXTINF:-1 group-title="-",Sci Fi
+http://109.106.239.1:8001/play/a05q
+#EXTINF:-1 group-title="-",Skymusic entertainment SE HD
+http://109.106.239.1:8001/play/a069
+#EXTINF:-1 group-title="-",Star Crime HD
+http://109.106.239.1:8001/play/a09o
+#EXTINF:-1 group-title="-",Star HD
+http://109.106.239.1:8001/play/a09p
+#EXTINF:-1 group-title="-",Star Life HD
+http://109.106.239.1:8001/play/a09m
+#EXTINF:-1 group-title="-",Star Movies HD
+http://109.106.239.1:8001/play/a09n
+#EXTINF:-1 group-title="-",Studio B HD
+http://109.106.239.1:8001/play/a058
+#EXTINF:-1 group-title="-",Superstar 2 HD
+http://109.106.239.1:8001/play/a05d
+#EXTINF:-1 group-title="-",Superstar 3 HD
+http://109.106.239.1:8001/play/a059
+#EXTINF:-1 group-title="-",Superstar TV HD
+http://109.106.239.1:8001/play/a057
+#EXTINF:-1 group-title="-",TLC
+http://109.106.239.1:8001/play/a05s
+#EXTINF:-1 group-title="-",TOP TV
+http://109.106.239.1:8001/play/a05m
+#EXTINF:-1 group-title="-",TOXIC RAP HD
+http://109.106.239.1:8001/play/a078
+#EXTINF:-1 group-title="-",TV Balkan
+http://109.106.239.1:8001/play/a07a
+#EXTINF:-1 group-title="-",TV Bap
+http://109.106.239.1:8001/play/a07e
+#EXTINF:-1 group-title="-",TV Centar HD
+http://109.106.239.1:8001/play/a05j
+#EXTINF:-1 group-title="-",TV Diskos
+http://109.106.239.1:8001/play/a081
+#EXTINF:-1 group-title="-",TV Homolje
+http://109.106.239.1:8001/play/a05i
+#EXTINF:-1 group-title="-",TV Hram
+http://109.106.239.1:8001/play/a08h
+#EXTINF:-1 group-title="-",TV Hype 2 HD
+http://109.106.239.1:8001/play/a062
+#EXTINF:-1 group-title="-",TV Info 24
+http://109.106.239.1:8001/play/a074
+#EXTINF:-1 group-title="-",TV K1 HD
+http://109.106.239.1:8001/play/a05b
+#EXTINF:-1 group-title="-",TV KCN Jagodina
+http://109.106.239.1:8001/play/a05g
+#EXTINF:-1 group-title="-",TV Kanal M
+http://109.106.239.1:8001/play/a07z
+#EXTINF:-1 group-title="-",TV Kragujevac
+http://109.106.239.1:8001/play/a05f
+#EXTINF:-1 group-title="-",TV Krusevac
+http://109.106.239.1:8001/play/a070
+#EXTINF:-1 group-title="-",TV MOST
+http://109.106.239.1:8001/play/a06x
+#EXTINF:-1 group-title="-",TV Palma Plus
+http://109.106.239.1:8001/play/a08m
+#EXTINF:-1 group-title="-",TV Pancevo HD
+http://109.106.239.1:8001/play/a090
+#EXTINF:-1 group-title="-",TV Pirot
+http://109.106.239.1:8001/play/a071
+#EXTINF:-1 group-title="-",TV Pozega
+http://109.106.239.1:8001/play/a07d
+#EXTINF:-1 group-title="-",TV Ras
+http://109.106.239.1:8001/play/a05a
+#EXTINF:-1 group-title="-",TV Sumadija
+http://109.106.239.1:8001/play/a07c
+#EXTINF:-1 group-title="-",TV Sunce
+http://109.106.239.1:8001/play/a05h
+#EXTINF:-1 group-title="-",TV Trstenik
+http://109.106.239.1:8001/play/a080
+#EXTINF:-1 group-title="-",TVCG 1
+http://109.106.239.1:8001/play/a06o
+#EXTINF:-1 group-title="-",TVCG 2
+http://109.106.239.1:8001/play/a087
+#EXTINF:-1 group-title="-",TVCG 3
+http://109.106.239.1:8001/play/a088
+#EXTINF:-1 group-title="-",TVE
+http://109.106.239.1:8001/play/a05r
+#EXTINF:-1 group-title="-",Tanjug TV HD
+http://109.106.239.1:8001/play/a05e
+#EXTINF:-1 group-title="-",Timeless Dizi Channel
+http://109.106.239.1:8001/play/a095
+#EXTINF:-1 group-title="-",Toxic TV HD
+http://109.106.239.1:8001/play/a08g
+#EXTINF:-1 group-title="-",Turizam Plus TV
+http://109.106.239.1:8001/play/a05z
+#EXTINF:-1 group-title="-",Una HD
+http://109.106.239.1:8001/play/a066
+#EXTINF:-1 group-title="-",V5
+http://109.106.239.1:8001/play/a06y
+#EXTINF:-1 group-title="-",VTV
+http://109.106.239.1:8001/play/a073
+#EXTINF:-1 group-title="-",Viasat Explore HD
+http://109.106.239.1:8001/play/a06q
+#EXTINF:-1 group-title="-",Viasat History HD
+http://109.106.239.1:8001/play/a06u
+#EXTINF:-1 group-title="-",Viasat Kino
+http://109.106.239.1:8001/play/a09j
+#EXTINF:-1 group-title="-",Yachting TV
+http://109.106.239.1:8001/play/a076
+#EXTINF:-1 group-title="-",Zelena TV Zdravlje
+http://109.106.239.1:8001/play/a05p
+#EXTINF:-1 group-title="-",test
+http://109.106.239.1:8001/play/a06f
 
